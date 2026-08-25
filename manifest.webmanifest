@@ -1,0 +1,10 @@
+{
+  "name": "地理求职雷达",
+  "short_name": "求职雷达",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ec",
+  "theme_color": "#173f36",
+  "lang": "zh-CN"
+}
+

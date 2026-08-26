@@ -4,7 +4,9 @@
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f5f3ec",
-  "theme_color": "#173f36",
-  "lang": "zh-CN"
+  "theme_color": "#123c34",
+  "lang": "zh-CN",
+  "description": "面向地理科学与人文地理学毕业生的招聘公告核验与筛选工具",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
 }
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "北京时间 2026-08-27 08:55",
+  "updatedAt": "北京时间 2026-08-27 09:20",
   "jobs": [
     {
       "id": "beijing-science-high-geo-2027",
@@ -925,6 +925,43 @@
       "sourceTitle": "中建八局第二建设有限公司2027届校园招聘",
       "addedAt": "2026-08-26",
       "url": "https://m.fenbi.com/page/exam-information-detail/468326036558848"
+    },
+    {
+      "id": "cr9-comprehensive-management-2027",
+      "title": "综合管理岗（2027届）",
+      "positionCategory": "综合管理",
+      "org": "中铁九局集团有限公司",
+      "unitCategory": "中央企业所属单位",
+      "province": "全国",
+      "city": "全国",
+      "type": "央国企",
+      "nature": "央企正式校招",
+      "headcount": "10人",
+      "major": "平台标注专业不限；职位详情偏人力资源、行政管理、汉语言文学等相关专业",
+      "degree": "本科及以上",
+      "graduateYear": "2027届可报",
+      "applyStart": "2026-08-23",
+      "applyEnd": "招满即止/平台未注明截止日",
+      "deadline": null,
+      "publishedAt": "2026-08-23",
+      "assessment": "其他",
+      "consistency": "未说明",
+      "politics": "不限",
+      "hukou": "户籍不限",
+      "certificates": "未说明",
+      "salary": "6000—8000元/月",
+      "salaryMin": 6000,
+      "match": "备选",
+      "important": [
+        "招聘10人且平台标注专业不限",
+        "工作地点为全国，可能服从项目分配",
+        "职位详情对行政、人力、中文背景更偏好",
+        "公开薪资下限6000元，刚好达到当前企业岗位薪资底线"
+      ],
+      "summary": "中铁九局2027届综合管理岗招聘10人，平台标注专业不限，公开薪资为6000—8000元/月。薪资下限刚好达到当前6000元底线；岗位可能面向全国项目分配，且职位描述更偏行政、人力和中文背景，因此作为备选。",
+      "sourceTitle": "国家大学生就业服务平台—中铁九局综合管理岗",
+      "addedAt": "2026-08-26",
+      "url": "https://www.ncss.cn/student/jobs/WaXsbHij4U1cM3UazW1gQT/detail.html"
     }
   ]
 }

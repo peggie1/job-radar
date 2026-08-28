@@ -1,5 +1,5 @@
 {
-  "updatedAt": "北京时间 2026-08-27 09:20",
+  "updatedAt": "北京时间 2026-08-28 09:01",
   "jobs": [
     {
       "id": "beijing-science-high-geo-2027",
@@ -962,6 +962,44 @@
       "sourceTitle": "国家大学生就业服务平台—中铁九局综合管理岗",
       "addedAt": "2026-08-26",
       "url": "https://www.ncss.cn/student/jobs/WaXsbHij4U1cM3UazW1gQT/detail.html"
+    },
+    {
+      "id": "huazheng-songjiang-high-geo-2027",
+      "title": "高中地理教师",
+      "positionCategory": "中学地理教师",
+      "org": "华东政法大学附属松江高级中学",
+      "unitCategory": "公办高中",
+      "province": "上海",
+      "city": "上海",
+      "type": "教师编",
+      "nature": "公办学校招聘（编制未说明）",
+      "headcount": "各学科合计20人，地理学科人数未单列",
+      "major": "公告未列具体专业目录；岗位为高中地理教师，要求能胜任相应学科教学并持同学科教师资格证",
+      "degree": "本科及以上",
+      "graduateYear": "2027届可报",
+      "applyStart": "2026-08-24",
+      "applyEnd": "官网未公布截止日",
+      "deadline": null,
+      "publishedAt": "2026-08-24",
+      "assessment": "其他",
+      "consistency": "未说明",
+      "politics": "共青团员可报",
+      "hukou": "未说明",
+      "certificates": "须持高中地理教师资格证、普通话二级乙等及以上；大学英语四级425分及以上",
+      "salary": "待遇未公开",
+      "salaryMin": null,
+      "match": "强匹配",
+      "important": [
+        "明确面向2027届毕业生",
+        "须持相同学科教师资格证和普通话二级乙等及以上证书",
+        "大学英语四级425分及以上为硬性要求",
+        "党员或学生干部仅为优先条件，共青团员可报",
+        "公告未说明事业编制和报名截止日，需向学校确认"
+      ],
+      "summary": "华东政法大学附属松江高级中学招聘2027届高中地理教师。应聘材料包括简历、教师资格证、普通话及获奖证书，并需提交3—5分钟自我介绍视频。流程为学校试教与面试、松江区综合测试（学科、综合能力和心理测试）、政审和体检。材料发送至公告指定邮箱，公告未公布截止日。",
+      "sourceTitle": "华东政法大学附属松江高级中学2027届教师招聘",
+      "addedAt": "2026-08-28",
+      "url": "https://job.hust.edu.cn/zpinfo1/2407427.htm"
     }
   ]
 }

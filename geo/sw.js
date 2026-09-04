@@ -1,5 +1,5 @@
-const PREFIX='geo-classroom-',CACHE=PREFIX+'v2.1';
-const CORE=['./','./index.html','./style.css','./app.js','./teaching-ui.js','./studio.html','./studio.css','./studio.js','./data/teaching.json','./manifest.webmanifest','./icon-192.png','./icon-512.png','./data/catalog.json','./data/resources.json','./data/audit.json'];
+const PREFIX='geo-classroom-',CACHE=PREFIX+'v3.0';
+const CORE=['./','./index.html','./style.css','./app.js','./teaching-ui.js','./template-ui.js','./template.css','./page-ink.js','./data/teaching.json','./manifest.webmanifest','./icon-192.png','./icon-512.png','./data/catalog.json','./data/resources.json','./data/audit.json'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith(PREFIX)&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||!e.request.url.startsWith(self.registration.scope))return;e.respondWith(fetch(e.request).then(r=>{if(r.ok){const copy=r.clone();e.waitUntil(caches.open(CACHE).then(c=>c.put(e.request,copy)));}return r;}).catch(async()=>await caches.match(e.request)||new Response('该资料尚未缓存，请联网后再打开。',{status:503,headers:{'Content-Type':'text/plain;charset=utf-8'}})));});

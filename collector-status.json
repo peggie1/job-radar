@@ -1,5 +1,5 @@
 {
-  "updatedAt": "����ʱ�� 2026-09-09 23:22",
+  "updatedAt": "����ʱ�� 2026-09-09 23:27",
   "successfulSources": 22,
   "totalSources": 22,
   "newOrSeen": 2,
@@ -115,10 +115,10 @@
     {
       "name": "�Ͽ���ѧ��ҵ��������Ƹ",
       "status": "ok",
-      "found": 105,
+      "found": 126,
       "accepted": 0,
-      "listingPagesFailed": 7,
-      "detailPages": 113
+      "listingPagesFailed": 0,
+      "detailPages": 133
     },
     {
       "name": "�ӱ���ҵ��ѧ��ҵ��������Ƹ",
@@ -141,7 +141,7 @@
       "status": "ok",
       "found": 0,
       "accepted": 0,
-      "searchesFailed": 13,
+      "searchesFailed": 5,
       "detailPages": 0
     }
   ]

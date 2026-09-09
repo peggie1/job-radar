@@ -1,5 +1,5 @@
 {
-  "updatedAt": "北京时间 2026-09-05 08:08",
+  "updatedAt": "北京时间 2026-09-09 16:30",
   "jobs": [
     {
       "id": "beijing-science-high-geo-2027",
@@ -36,7 +36,11 @@
       "summary": "北京科学高中为朝阳区与北京十一学校合作共建的公办普通高中。本轮招聘包含高中地理教师，2027届全日制硕士及以上可投，需持相应学段学科教师资格证。PDF简历发送至公告指定邮箱，命名格式为“姓名+应聘学科+专业+毕业学校+学历”；通过初筛后以邮件通知并分学科、分批次开展后续考核。",
       "sourceTitle": "北京科学高中校园招聘",
       "addedAt": "2026-08-25",
-      "url": "https://comm.ecnu.edu.cn/aa/5d/c51755a764509/page.htm"
+      "url": "https://comm.ecnu.edu.cn/aa/5d/c51755a764509/page.htm",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "值得专程去",
+      "travelReason": "你的地理师范本科、硕士学历和高中地理教师资格证与岗位直接匹配；收到正式试讲或面试通知后，值得跨城参加，但不必只为宣讲会前往。"
     },
     {
       "id": "cscec8-development-urban-planning-2027",
@@ -73,7 +77,11 @@
       "summary": "中建八局发展建设公司面向2027届本科、硕士和博士招聘。建筑设计类需求包含城乡规划方向，工作区域覆盖青岛、济南、上海、成都、深圳、南京、武汉、郑州等地。网申后通常经历统一测评、简历筛选和面试；现场或线上双选会可开展面试。该岗位与人文地理具有一定关联，但专业认定和英语六级是投递前必须核实的两项条件。",
       "sourceTitle": "发展建设公司2027届校园招聘",
       "addedAt": "2026-08-25",
-      "url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2773"
+      "url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2773",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "线上线下待通知",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "gtpr-planner-designer-2027",
@@ -111,7 +119,11 @@
       "summary": "广州市交通规划研究院有限公司官网仍展示2027届秋季校园招聘。岗位面向2027届全日制硕士及以上，专业方向明确包含国土空间规划、土地管理、人文地理、地理信息等；流程包括网申、简历初筛、能力测试、首轮面试、两周实习、综合面试、体检和录用。第三方高校职位页公开待遇为15000元/月及以上，薪资投递前仍建议以单位最终口径为准。",
       "sourceTitle": "广州市交通规划研究院有限公司2027届秋季校园招聘",
       "addedAt": "2026-08-25",
-      "url": "https://www.gtpr.cn/recruitment/"
+      "url": "https://www.gtpr.cn/recruitment/",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "需线下面试",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "人文地理专业对口且待遇较好，但你目前GIS熟练度、规划作品集和已发表成果偏弱；先网申并完成线上筛选，只有收到正式面试或实习邀请再去广州。"
     },
     {
       "id": "china-telecom-beijing-solution-manager-2027",
@@ -148,7 +160,11 @@
       "summary": "中国电信2027年度秋招于8月24日启动。北京公司区域解决方案经理负责咨询、规划、设计、招投标支持及项目交付，专业要求明确包含地理科学类。岗位更偏数字化和客户解决方案，需在简历中突出研究、汇报、项目协调及空间分析能力。",
       "sourceTitle": "中国电信2027年度秋季校园招聘—区域解决方案经理",
       "addedAt": "2026-08-25",
-      "url": "https://wejob.chinatelecom.com.cn/wt/TELE/mobweb/v8/position/list?operational=749fb7542d9be8919c41cc7b29e6577f704ba7a6464f45dc4c812dca2fd3848781f8cc49d30a8291318f0d08eb5d6436fc25a1ef3634ec3c"
+      "url": "https://wejob.chinatelecom.com.cn/wt/TELE/mobweb/v8/position/list?operational=749fb7542d9be8919c41cc7b29e6577f704ba7a6464f45dc4c812dca2fd3848781f8cc49d30a8291318f0d08eb5d6436fc25a1ef3634ec3c",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "你的背景具备一定相关性，但不是绝对优势；先网申、线上测评并确认专业认可、工作地点和待遇，收到正式线下面试邀请后再决定行程。"
     },
     {
       "id": "china-oriental-branch-business-2027",
@@ -186,7 +202,11 @@
       "summary": "中国东方是中央金融企业，本次面向2027届招聘总部管培生及全国26家分公司业务岗，报名截止2026年9月18日。流程包括资格审查、在线笔试、面试、实习考察、档案审核、体检和录用。专业口径与英语要求较严格，因此归为备选。",
       "sourceTitle": "中国东方资产管理股份有限公司2027年度校园招聘公告",
       "addedAt": "2026-08-25",
-      "url": "https://career.nankai.edu.cn/correcruit/content/id/116792.html"
+      "url": "https://career.nankai.edu.cn/correcruit/content/id/116792.html",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "cscec8-north-china-management-trainee-2027",
@@ -223,7 +243,11 @@
       "summary": "中建八局华北公司2027届“星计划”管培生面向硕士及以上招聘5人，职位页列出的工作地为天津、北京和广东。公告未公开具体专业口径和截止日，适合作为天津央企方向的备选，不应视为已确认专业匹配。",
       "sourceTitle": "中建八局华北公司2027届校园招聘“星计划”管培生招募",
       "addedAt": "2026-08-25",
-      "url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2785"
+      "url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2785",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "cscec8-dongfu-investment-2027",
@@ -260,7 +284,11 @@
       "summary": "东孚公司是中建八局旗下地产投资平台。2027届投资拓展类岗位负责投资项目立项、可研、数据库、现场踏勘、拿地论证和战略规划，与人文地理的土地利用、城市和区域研究有一定关联，但专业名单未直接写人文地理学。",
       "sourceTitle": "中建八局东孚公司2027届“孚想家”校园招聘",
       "addedAt": "2026-08-25",
-      "url": "https://job.cscec8b.com.cn/8bdf"
+      "url": "https://job.cscec8b.com.cn/8bdf",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "你的背景具备一定相关性，但不是绝对优势；先网申、线上测评并确认专业认可、工作地点和待遇，收到正式线下面试邀请后再决定行程。"
     },
     {
       "id": "casc-early-recruitment-gis-2027",
@@ -297,7 +325,11 @@
       "summary": "航天科技集团2027校招提前批覆盖多家研究院和中国四维测绘等单位，需求学科包含地图学与地理信息系统。用户硕士专业为人文地理学，因此只有在具备GIS、遥感、空间数据项目经历且具体岗位认可相关专业时才值得投递，当前归为备选。",
       "sourceTitle": "中国航天科技集团2027校招提前批",
       "addedAt": "2026-08-25",
-      "url": "https://www.spacetalent.com.cn"
+      "url": "https://www.spacetalent.com.cn",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "bj-jiaotong-affiliated-geo-teacher-2027",
@@ -334,7 +366,11 @@
       "summary": "学校面向2027届毕业生招聘初高中各学科教师，包含地理，要求硕士研究生及以上并具有相应教师资格证。当前转发公告未写明截止日和编制属性，建议直接联系学校招聘邮箱确认。",
       "sourceTitle": "北京交通大学附属中学2026年招聘信息",
       "addedAt": "2026-08-26",
-      "url": "https://www.gaoxiaojob.com/announcement/detail/418058.html"
+      "url": "https://www.gaoxiaojob.com/announcement/detail/418058.html",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "值得专程去",
+      "travelReason": "你的地理师范本科、硕士学历和高中地理教师资格证与岗位直接匹配；收到正式试讲或面试通知后，值得跨城参加，但不必只为宣讲会前往。"
     },
     {
       "id": "gongmei-affiliated-high-geo-2027",
@@ -371,7 +407,11 @@
       "summary": "招聘高中地理教师，2027届硕士可报，要求相应高级中学教师资格证。一经录用可解决北京市户口和事业编制，非京籍应届生提供公寓。",
       "sourceTitle": "工美附中2026年教师招聘",
       "addedAt": "2026-08-26",
-      "url": "https://www.sohu.com/a/1048537023_121124012"
+      "url": "https://www.sohu.com/a/1048537023_121124012",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "值得专程去",
+      "travelReason": "你的地理师范本科、硕士学历和高中地理教师资格证与岗位直接匹配；收到正式试讲或面试通知后，值得跨城参加，但不必只为宣讲会前往。"
     },
     {
       "id": "beijing-seventh-experimental-geo-2027",
@@ -408,7 +448,11 @@
       "summary": "北京第七实验学校为十二年一体化市建共管公办学校，面向2027届全日制硕士、博士招聘中学各学科教师，包含地理，要求教师资格证或考试合格证明。",
       "sourceTitle": "北京第七实验学校面向全国招聘教师",
       "addedAt": "2026-08-26",
-      "url": "https://www.edujobs.com.cn/nd.jsp?_ngc=-1&fromColId=-1&id=5056"
+      "url": "https://www.edujobs.com.cn/nd.jsp?_ngc=-1&fromColId=-1&id=5056",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "值得专程去",
+      "travelReason": "你的地理师范本科、硕士学历和高中地理教师资格证与岗位直接匹配；收到正式试讲或面试通知后，值得跨城参加，但不必只为宣讲会前往。"
     },
     {
       "id": "china-telecom-tianjin-pool-2027",
@@ -445,7 +489,11 @@
       "summary": "中国电信2027年度校园招聘已经启动，天津公司有独立招聘入口。人文地理可重点查看市场、客户经营、行业解决方案、综合支撑等岗位，最终资格以具体职位页为准。",
       "sourceTitle": "中国电信集团2027年度校园招聘—天津公司",
       "addedAt": "2026-08-26",
-      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/index?_refluxos=a10"
+      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/index?_refluxos=a10",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "你的背景具备一定相关性，但不是绝对优势；先网申、线上测评并确认专业认可、工作地点和待遇，收到正式线下面试邀请后再决定行程。"
     },
     {
       "id": "china-telecom-jiangsu-pool-2027",
@@ -482,7 +530,11 @@
       "summary": "江苏公司招聘单位列表包含南京、无锡、苏州、常州等全部目标城市以及多家省属专业机构。岗位数量较多，需要进入官网按城市和专业逐项选择。",
       "sourceTitle": "中国电信集团2027年度校园招聘—江苏公司",
       "addedAt": "2026-08-26",
-      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/index?_refluxos=a10"
+      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/index?_refluxos=a10",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "你的背景具备一定相关性，但不是绝对优势；先网申、线上测评并确认专业认可、工作地点和待遇，收到正式线下面试邀请后再决定行程。"
     },
     {
       "id": "china-telecom-zhejiang-pool-2027",
@@ -519,7 +571,11 @@
       "summary": "浙江公司2027秋招覆盖杭州、嘉兴、湖州等地市，整体招聘规模较大，但主流专业偏通信和技术，人文地理应重点筛选非技术岗位。",
       "sourceTitle": "中国电信集团2027年度校园招聘—浙江公司",
       "addedAt": "2026-08-26",
-      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/index?_refluxos=a10"
+      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/index?_refluxos=a10",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "china-telecom-shanxi-pool-2027",
@@ -556,7 +612,11 @@
       "summary": "中国电信山西公司参与2027集团秋招，官网支持按山西省及具体机构筛选。建议优先检索太原、晋城、长治的市场、客户经营和综合支撑岗位。",
       "sourceTitle": "中国电信集团2027年度校园招聘—山西公司",
       "addedAt": "2026-08-26",
-      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/index?_refluxos=a10"
+      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/index?_refluxos=a10",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "你的背景具备一定相关性，但不是绝对优势；先网申、线上测评并确认专业认可、工作地点和待遇，收到正式线下面试邀请后再决定行程。"
     },
     {
       "id": "picc-zhejiang-comprehensive-pool-2027",
@@ -593,7 +653,11 @@
       "summary": "人保财险浙江省分公司2027校招覆盖省内11个地市，综合类岗位中存在专业不限职位，适合作为杭州、嘉兴、湖州的国企补充方向。",
       "sourceTitle": "人保财险浙江省分公司2027届校园招聘",
       "addedAt": "2026-08-26",
-      "url": "https://picc.zhiye.com"
+      "url": "https://picc.zhiye.com",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "你的背景具备一定相关性，但不是绝对优势；先网申、线上测评并确认专业认可、工作地点和待遇，收到正式线下面试邀请后再决定行程。"
     },
     {
       "id": "picc-ningbo-comprehensive-2027",
@@ -629,7 +693,11 @@
       "summary": "宁波市分公司已发布2027届管理培训生、综合岗等职位。人文地理应优先选择专业不限的综合方向，并在官网确认专业和学历要求。",
       "sourceTitle": "中国人保2027届校园招聘—宁波市分公司",
       "addedAt": "2026-08-26",
-      "url": "https://picc.zhiye.com"
+      "url": "https://picc.zhiye.com",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "你的背景具备一定相关性，但不是绝对优势；先网申、线上测评并确认专业认可、工作地点和待遇，收到正式线下面试邀请后再决定行程。"
     },
     {
       "id": "picc-wuhan-district-comprehensive-2027",
@@ -666,7 +734,11 @@
       "summary": "武汉区县综合岗面向2027届本科及以上，专业不限，工作包括综合行政、财务企划或业务管理。地理硕士可凭研究写作、协调和数据分析能力尝试。",
       "sourceTitle": "人保财险湖北分公司武汉区县综合岗2027届校招",
       "addedAt": "2026-08-26",
-      "url": "https://picc.zhiye.com"
+      "url": "https://picc.zhiye.com",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "你的背景具备一定相关性，但不是绝对优势；先网申、线上测评并确认专业认可、工作地点和待遇，收到正式线下面试邀请后再决定行程。"
     },
     {
       "id": "picc-health-shenzhen-admin-2027",
@@ -703,7 +775,11 @@
       "summary": "深圳分公司综合行政岗负责会议活动、公文档案、行政协调和外部联络等工作。2027届硕士、专业不限，公开薪资8000—12000元/月。",
       "sourceTitle": "中国人保健康深圳分公司2027届校招综合行政岗",
       "addedAt": "2026-08-26",
-      "url": "https://www.ncss.cn/student/jobs/6C3f1RokdxXHyAUAAN25RU/detail.html"
+      "url": "https://www.ncss.cn/student/jobs/6C3f1RokdxXHyAUAAN25RU/detail.html",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "picc-guangdong-zhongshan-mt-2027",
@@ -740,7 +816,11 @@
       "summary": "人保财险广东分公司中山机构综合方向管培生面向2027届本科及以上，专业不限，强调沟通协调和团队协作能力。",
       "sourceTitle": "人保财险广东分公司综合类管培生2027届校招（中山）",
       "addedAt": "2026-08-26",
-      "url": "https://picc.zhiye.com"
+      "url": "https://picc.zhiye.com",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "picc-zhanjiang-geoinfo-mt-2027",
@@ -776,7 +856,11 @@
       "summary": "湛江市分公司2027校招多个管培方向接受专业不限，并将地理信息类列为优先专业之一。岗位偏保险业务和营销管理，可作为国企备选。",
       "sourceTitle": "人保财险湛江市分公司2027校招岗位",
       "addedAt": "2026-08-26",
-      "url": "https://www.jvcit.bysjy.com.cn/detail/online?id=3403928"
+      "url": "https://www.jvcit.bysjy.com.cn/detail/online?id=3403928",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "picc-group-business-management-2027",
@@ -813,7 +897,11 @@
       "summary": "中国人保集团总部业务管理岗由集团统一面试后结合个人专长定岗，要求硕士及以上，主要面向经济金融统计及工商管理相关专业，跨学科背景优先。",
       "sourceTitle": "中国人保集团公司业务管理岗2027届校招",
       "addedAt": "2026-08-26",
-      "url": "https://picc.zhiye.com"
+      "url": "https://picc.zhiye.com",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "china-salt-functional-2027",
@@ -850,7 +938,11 @@
       "summary": "中盐集团2026年秋季校招包含企业管理、办公室管理、生产管理等职能岗位。公告未统一列明各岗位届别和截止日，需要进入具体职位核验2027届资格。",
       "sourceTitle": "中盐集团2026年秋季公开招聘公告",
       "addedAt": "2026-08-26",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-inintaua0232233.shtml"
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-inintaua0232233.shtml",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "cscec4-transport-open-major-2027",
@@ -887,7 +979,11 @@
       "summary": "中建四局交通公司2027届校招开放专业不限沟通通道，业务涵盖基础设施、投资开发和运营管理。人文地理可尝试职能、投资或市场方向，但必须先确认具体职位。",
       "sourceTitle": "中建四局交通投资建设有限公司2027届校园招聘",
       "addedAt": "2026-08-26",
-      "url": "https://jobs.ynu.edu.cn/detail/job?id=2585164&online_id=3539641"
+      "url": "https://jobs.ynu.edu.cn/detail/job?id=2585164&online_id=3539641",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "cscec8-second-urban-renewal-2027",
@@ -924,7 +1020,11 @@
       "summary": "中建八局二公司2027届校招设置城市更新岗，需求城市规划、区域经济学等专业，与人文地理的城市和区域研究方向有一定关联。",
       "sourceTitle": "中建八局第二建设有限公司2027届校园招聘",
       "addedAt": "2026-08-26",
-      "url": "https://m.fenbi.com/page/exam-information-detail/468326036558848"
+      "url": "https://m.fenbi.com/page/exam-information-detail/468326036558848",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "你的背景具备一定相关性，但不是绝对优势；先网申、线上测评并确认专业认可、工作地点和待遇，收到正式线下面试邀请后再决定行程。"
     },
     {
       "id": "cr9-comprehensive-management-2027",
@@ -961,7 +1061,11 @@
       "summary": "中铁九局2027届综合管理岗招聘10人，平台标注专业不限，公开薪资为6000—8000元/月。薪资下限刚好达到当前6000元底线；岗位可能面向全国项目分配，且职位描述更偏行政、人力和中文背景，因此作为备选。",
       "sourceTitle": "国家大学生就业服务平台—中铁九局综合管理岗",
       "addedAt": "2026-08-26",
-      "url": "https://www.ncss.cn/student/jobs/WaXsbHij4U1cM3UazW1gQT/detail.html"
+      "url": "https://www.ncss.cn/student/jobs/WaXsbHij4U1cM3UazW1gQT/detail.html",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "岗位与人文地理的直接关联较弱，或专业、英语、工作地点等条件仍需确认；可以低成本网申，但不建议只为宣讲会或初步接触跨城。"
     },
     {
       "id": "huazheng-songjiang-high-geo-2027",
@@ -999,7 +1103,11 @@
       "summary": "华东政法大学附属松江高级中学招聘2027届高中地理教师。应聘材料包括简历、教师资格证、普通话及获奖证书，并需提交3—5分钟自我介绍视频。流程为学校试教与面试、松江区综合测试（学科、综合能力和心理测试）、政审和体检。材料发送至公告指定邮箱，公告未公布截止日。",
       "sourceTitle": "华东政法大学附属松江高级中学2027届教师招聘",
       "addedAt": "2026-08-28",
-      "url": "https://job.hust.edu.cn/zpinfo1/2407427.htm"
+      "url": "https://job.hust.edu.cn/zpinfo1/2407427.htm",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "需线下面试",
+      "travelAdvice": "值得专程去",
+      "travelReason": "你的地理师范本科、硕士学历和高中地理教师资格证与岗位直接匹配；收到正式试讲或面试通知后，值得跨城参加，但不必只为宣讲会前往。"
     },
     {
       "id": "shenzhen-smartcity-research-2027",
@@ -1037,7 +1145,11 @@
       "summary": "深智城集团是深圳市国资委全资直管科技型国企，2027届秋招技术研究类涵盖智慧城市研究、产业经济和民航规划。招聘对象明确覆盖2027年7月毕业生，公开硕士技术类参考年薪25—30万元。人文地理与部分研究方向有关联，但公告未给出逐岗专业目录，投递前需确认专业资格；公告称免笔试、优先录用，实际流程以岗位通知为准。",
       "sourceTitle": "深智城集团2027届秋季校园招聘公告",
       "addedAt": "2026-09-05",
-      "url": "https://job.hust.edu.cn/zpinfo1/2412404.htm"
+      "url": "https://job.hust.edu.cn/zpinfo1/2412404.htm",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "人文地理、GIS与产业链研究经历有相关性，但工具熟练度和成果证明尚不突出；先远程沟通岗位方向，确认进入正式面试再去深圳。"
     }
   ]
 }

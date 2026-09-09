@@ -1,0 +1,133 @@
+{
+  "updatedAt": "����ʱ�� 2026-09-09 22:56",
+  "successfulSources": 20,
+  "totalSources": 20,
+  "newOrSeen": 2,
+  "reports": [
+    {
+      "name": "������ʦУ��",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "���е�����ʦ",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "������ʦ�˲�����",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "���ĵ���У��",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "����ѧУ��",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "������ѧ�����",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "������Ϣ�����",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "�����ռ�滮",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "����滮����",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "���в�ҵ�о�",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "��Ȼ��ԴӦ��",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "����԰����Ͷ",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "��Դ��ͨ�滮",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "������ҵ��λ",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "��������Ա",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "ɽ��������λ",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "������ϵ���",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "�㽭������λ",
+      "status": "ok",
+      "found": 10,
+      "accepted": 0
+    },
+    {
+      "name": "�Ͽ���ѧ��ҵ��������Ƹ",
+      "status": "ok",
+      "found": 100,
+      "accepted": 2,
+      "listingPagesFailed": 0,
+      "detailPages": 100
+    },
+    {
+      "name": "�Ͽ���ѧ��ҵ���ؼ��ʼ���",
+      "status": "ok",
+      "found": 6,
+      "accepted": 0,
+      "searchesFailed": 0,
+      "detailPages": 6
+    }
+  ]
+}
+

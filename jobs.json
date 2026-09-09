@@ -1,5 +1,5 @@
 {
-  "updatedAt": "北京时间 2026-09-09 16:30",
+  "updatedAt": "北京时间 2026-09-09 17:00",
   "jobs": [
     {
       "id": "beijing-science-high-geo-2027",
@@ -1150,6 +1150,47 @@
       "interviewMode": "未说明",
       "travelAdvice": "拿到正式面试再去",
       "travelReason": "人文地理、GIS与产业链研究经历有相关性，但工具熟练度和成果证明尚不突出；先远程沟通岗位方向，确认进入正式面试再去深圳。"
+    },
+    {
+      "id": "cr-land-2027-campus-pool",
+      "title": "城市运营/招商运营等2027校招岗位池（需二次选岗）",
+      "positionCategory": "城市运营/商业运营",
+      "org": "华润置地有限公司",
+      "unitCategory": "中央企业所属单位",
+      "province": "全国",
+      "city": "北京/天津/上海/杭州等全国多地",
+      "type": "央国企",
+      "nature": "央企正式校招",
+      "headcount": "校招计划约300人，具体岗位人数未说明",
+      "major": "岗位库分职位设置；城市运营、招商运营等方向是否接受人文地理学需在官方岗位页逐项确认",
+      "degree": "本科及以上",
+      "graduateYear": "2027届可报",
+      "applyStart": "2026-08-01",
+      "applyEnd": "官网未公布统一截止日",
+      "deadline": null,
+      "publishedAt": "2026-09-09",
+      "assessment": "其他",
+      "consistency": "未说明",
+      "politics": "未说明",
+      "hukou": "户籍不限",
+      "certificates": "未说明",
+      "salary": "待遇未公开；不同城市和岗位可能不同",
+      "salaryMin": null,
+      "match": "可尝试",
+      "important": [
+        "明确覆盖2026-09-01至2027-08-31毕业生",
+        "岗位和城市需进入官方校招页面二次选择",
+        "9—10月为宣讲期，9—11月测评及面试；无需只为宣讲会跨城",
+        "人文地理学能否通过具体岗位专业审核需先确认"
+      ],
+      "summary": "华润置地2027届校园招聘面向2026年9月1日至2027年8月31日毕业生，业务覆盖城市开发、商业运营、城市空间运营与建设管理咨询等。先在官方校招门户网申并选择具体岗位，9—11月安排测评和面试。当前公告未逐岗列出人文地理专业口径，适合作为城市运营方向的可尝试项。",
+      "sourceTitle": "华润置地2027届校园招聘",
+      "addedAt": "2026-09-09",
+      "url": "https://app.mokahr.com/campus-recruitment/crland/168540?locale=zh-CN",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "城市运营方向与人文地理有一定关联，但具体岗位专业口径和面试城市尚不明确；先网申并电话确认，收到正式线下面试邀请后再安排跨城。"
     }
   ]
 }

@@ -1,0 +1,57 @@
+{
+  "retentionDays": 35,
+  "maxLeads": 500,
+  "listingSources": [
+    {
+      "name": "�Ͽ���ѧ��ҵ��������Ƹ",
+      "urlPattern": "https://career.nankai.edu.cn/correcruit/index/p/{page}.html",
+      "detailPattern": "/correcruit/content/id/[0-9]+\\.html$",
+      "pages": 20,
+      "type": "�����"
+    },
+    {
+      "name": "�ӱ���ҵ��ѧ��ҵ��������Ƹ",
+      "urlPattern": "https://career.hebut.edu.cn/recruitment/index/type/2/p/{page}.html",
+      "detailPattern": "/recruitment/content/type/2/id/[0-9]+\\.html$",
+      "pages": 20,
+      "type": "�����"
+    },
+    {
+      "name": "���ҵ��ѧ��ҵ��������Ƹ",
+      "urlPattern": "https://job.tiangong.edu.cn/recruitment/index/type/2.html?page={page}",
+      "detailPattern": "/recruitment/content/type/[12]/id/[0-9]+\\.html$",
+      "pages": 3,
+      "type": "�����"
+    }
+  ],
+  "keywordSources": [
+    {
+      "name": "�Ͽ���ѧ��ҵ���ؼ��ʼ���",
+      "url": "https://career.nankai.edu.cn/correcruit/index.html",
+      "detailPattern": "/correcruit/content/id/[0-9]+\\.html$",
+      "keywords": ["������ʦ", "���ĵ���", "����ѧ", "������ѧ", "������Ϣ", "�����ռ�", "����滮", "���й滮", "���ع���", "��Ȼ��Դ", "����滮", "��ҵ�滮", "�����о�"],
+      "type": "�����"
+    }
+  ],
+  "queries": [
+    {"name": "������ʦУ��", "query": "\"2027��\" \"������ʦ\" ��Ƹ", "type": "��ʦ��"},
+    {"name": "���е�����ʦ", "query": "\"2027��\" \"���е�����ʦ\" ��Ƹ", "type": "��ʦ��"},
+    {"name": "������ʦ�˲�����", "query": "2027 ������ʦ �˲�����", "type": "��ʦ��"},
+    {"name": "���ĵ���У��", "query": "\"2027��\" \"���ĵ���\" ��Ƹ", "type": "�����"},
+    {"name": "����ѧУ��", "query": "\"2027��\" \"����ѧ\" ��Ƹ", "type": "�����"},
+    {"name": "������ѧ�����", "query": "\"2027��\" \"������ѧ\" ��Ƹ", "type": "�����"},
+    {"name": "������Ϣ�����", "query": "\"2027��\" \"������Ϣ\" У԰��Ƹ", "type": "�����"},
+    {"name": "�����ռ�滮", "query": "\"2027��\" \"�����ռ�滮\" ��Ƹ", "type": "�����"},
+    {"name": "����滮����", "query": "\"2027��\" \"����滮\" У԰��Ƹ", "type": "�����"},
+    {"name": "���в�ҵ�о�", "query": "2027�� �����о� ����滮 ��ҵ�滮 У԰��Ƹ", "type": "�����"},
+    {"name": "��Ȼ��ԴӦ��", "query": "2027�� ��Ȼ��Դ ��Ƹ Ӧ����", "type": "��ҵ��"},
+    {"name": "����԰����Ͷ", "query": "2027�� ���ù滮 ԰����Ӫ ��Ͷ У԰��Ƹ", "type": "�����"},
+    {"name": "��Դ��ͨ�滮", "query": "2027�� ��Դ ��ͨ �滮 ���� У԰��Ƹ", "type": "�����"},
+    {"name": "������ҵ��λ", "query": "2027 ��ҵ��λ ����ѧ ��Ƹ", "type": "��ҵ��"},
+    {"name": "��������Ա", "query": "2027 ����Ա ������ѧ ��¼", "type": "����Ա"},
+    {"name": "ɽ��������λ", "query": "2027�� ���� ��Ƹ ɽ�� ̫ԭ ���� ����", "type": "��ҵ��"},
+    {"name": "������ϵ���", "query": "2027�� ���� ��Ƹ ��� ���� ���� ����", "type": "�����"},
+    {"name": "�㽭������λ", "query": "2027�� ���� ��Ƹ ���� ���� ����", "type": "�����"}
+  ]
+}
+

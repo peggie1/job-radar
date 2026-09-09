@@ -1,7 +1,7 @@
 {
-  "updatedAt": "����ʱ�� 2026-09-09 22:56",
-  "successfulSources": 20,
-  "totalSources": 20,
+  "updatedAt": "����ʱ�� 2026-09-09 23:22",
+  "successfulSources": 22,
+  "totalSources": 22,
   "newOrSeen": 2,
   "reports": [
     {
@@ -115,19 +115,34 @@
     {
       "name": "�Ͽ���ѧ��ҵ��������Ƹ",
       "status": "ok",
-      "found": 100,
-      "accepted": 2,
+      "found": 105,
+      "accepted": 0,
+      "listingPagesFailed": 7,
+      "detailPages": 113
+    },
+    {
+      "name": "�ӱ���ҵ��ѧ��ҵ��������Ƹ",
+      "status": "ok",
+      "found": 1,
+      "accepted": 0,
       "listingPagesFailed": 0,
-      "detailPages": 100
+      "detailPages": 1
+    },
+    {
+      "name": "���ҵ��ѧ��ҵ��������Ƹ",
+      "status": "ok",
+      "found": 1,
+      "accepted": 0,
+      "listingPagesFailed": 0,
+      "detailPages": 1
     },
     {
       "name": "�Ͽ���ѧ��ҵ���ؼ��ʼ���",
       "status": "ok",
-      "found": 6,
+      "found": 0,
       "accepted": 0,
-      "searchesFailed": 0,
-      "detailPages": 6
+      "searchesFailed": 13,
+      "detailPages": 0
     }
   ]
 }
-

@@ -170,16 +170,23 @@ def fetch_page(url: str) -> tuple[str, PageParser]:
 def crawl_listing(source: dict[str, str]) -> tuple[list[dict[str, str]], dict]:
     detail_urls: set[str] = set()
     page_errors = 0
-    for page in range(1, int(source.get("pages", 5)) + 1):
-        listing_url = source["urlPattern"].format(page=page)
-        try:
-            _, parsed = fetch_page(listing_url)
-            for href, anchor_text in parsed.anchors:
-                absolute = canonical_url(urllib.parse.urljoin(listing_url, href))
-                if re.search(source["detailPattern"], absolute) and ("2027" in anchor_text or GEO_RE.search(anchor_text)):
-                    detail_urls.add(absolute)
-        except Exception:
-            page_errors += 1
+    listing_urls = [source["urlPattern"].format(page=page) for page in range(1, int(source.get("pages", 5)) + 1)]
+
+    def read_listing(listing_url: str) -> tuple[str, PageParser]:
+        _, parsed = fetch_page(listing_url)
+        return listing_url, parsed
+
+    with ThreadPoolExecutor(max_workers=10) as listing_pool:
+        listing_futures = [listing_pool.submit(read_listing, url) for url in listing_urls]
+        for future in as_completed(listing_futures):
+            try:
+                listing_url, parsed = future.result()
+                for href, anchor_text in parsed.anchors:
+                    absolute = canonical_url(urllib.parse.urljoin(listing_url, href))
+                    if re.search(source["detailPattern"], absolute) and ("2027" in anchor_text or GEO_RE.search(anchor_text)):
+                        detail_urls.add(absolute)
+            except Exception:
+                page_errors += 1
 
     rows: list[dict[str, str]] = []
     with ThreadPoolExecutor(max_workers=16) as pool:
@@ -199,21 +206,28 @@ def crawl_listing(source: dict[str, str]) -> tuple[list[dict[str, str]], dict]:
 def crawl_keyword_search(source: dict[str, str]) -> tuple[list[dict[str, str]], dict]:
     detail_urls: set[str] = set()
     search_errors = 0
-    for keyword in source["keywords"]:
+
+    def search_keyword(keyword: str) -> tuple[str, PageParser]:
         payload = urllib.parse.urlencode({"type": "0", "keywords": keyword, "sel_cate": "0", "sel_area": "0"}).encode()
         req = urllib.request.Request(source["url"], data=payload, headers={"User-Agent": "Mozilla/5.0 JobRadar/1.0"})
-        try:
-            with urllib.request.urlopen(req, timeout=12) as response:
-                raw = response.read()
-                charset = response.headers.get_content_charset() or "utf-8"
-            parser = PageParser()
-            parser.feed(raw.decode(charset, "replace"))
-            for href in parser.links:
-                absolute = canonical_url(urllib.parse.urljoin(source["url"], href))
-                if re.search(source["detailPattern"], absolute):
-                    detail_urls.add(absolute)
-        except Exception:
-            search_errors += 1
+        with urllib.request.urlopen(req, timeout=12) as response:
+            raw = response.read()
+            charset = response.headers.get_content_charset() or "utf-8"
+        parser = PageParser()
+        parser.feed(raw.decode(charset, "replace"))
+        return keyword, parser
+
+    with ThreadPoolExecutor(max_workers=10) as search_pool:
+        search_futures = [search_pool.submit(search_keyword, keyword) for keyword in source["keywords"]]
+        for future in as_completed(search_futures):
+            try:
+                _, parser = future.result()
+                for href in parser.links:
+                    absolute = canonical_url(urllib.parse.urljoin(source["url"], href))
+                    if re.search(source["detailPattern"], absolute):
+                        detail_urls.add(absolute)
+            except Exception:
+                search_errors += 1
 
     rows: list[dict[str, str]] = []
     with ThreadPoolExecutor(max_workers=16) as pool:

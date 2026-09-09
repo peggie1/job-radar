@@ -1,6 +1,11 @@
 name: Collect geography job leads
 
 on:
+  push:
+    paths:
+      - "scripts/collect_jobs.py"
+      - "collector-sources.json"
+      - ".github/workflows/collect-jobs.yml"
   schedule:
     - cron: "5 0 * * *"
   workflow_dispatch:

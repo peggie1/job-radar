@@ -26,6 +26,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Sync latest database state
+        run: git pull --ff-only origin main
       - name: Discover current recruitment leads
         run: python scripts/collect_jobs.py
       - name: Save refreshed lead pool
@@ -38,5 +40,4 @@ jobs:
           git config user.email "job-radar-bot@users.noreply.github.com"
           git add leads.json collector-status.json
           git commit -m "Auto collect geography job leads"
-          git pull --rebase origin main
           git push

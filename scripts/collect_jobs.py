@@ -29,12 +29,12 @@ STATUS = ROOT / "collector-status.json"
 CN_TZ = timezone(timedelta(hours=8))
 TODAY = datetime.now(CN_TZ).date()
 
-RECRUIT_RE = re.compile(r"��Ƹ|У��|У԰|Ӧ��|��ҵ��|�˲�����|��λ|ְλ|��¼")
-GEO_RE = re.compile(r"���ĵ���|����ѧ|������ѧ|������ʦ|���е���|���е���|������Ϣ|GIS|�����ռ�|����滮|���й滮|���ع���|��Ȼ��Դ|����滮|��ҵ�滮|���ù滮|�����о�", re.I)
-SECTOR_RE = re.compile(r"����|�ǽ�|����|�滮|���Ժ|�о�Ժ|����|��Դ|��ͨ|��·|����|���|����|����|����|԰��|�ز�|�õ�|ͨ��|����", re.I)
-SOE_RE = re.compile(r"����|����|�й�(?:����|��·|����|��ͨ|��Դ|����|ʯ��|ʯ��|����|�ƶ�|��ͨ|ұ��|����|����)|�н�|����|�н�|��ұ|����|��Ͷ|����|���̾�|����(?:���޹�˾|�ɷ����޹�˾)")
-EXCLUDE_RE = re.compile(r"��������|�о�������|����|����|����|����Ӫ|¼ȡ����|��ʿ��|����|����֪ͨ")
-CITY_NAMES = ["���", "����", "����", "����", "����", "����", "����", "̫ԭ", "����", "����", "�Ͼ�", "��ͨ", "��", "����", "����", "����", "��", "�Ϻ�", "����", "����", "�ൺ", "�Ϸ�", "֣��", "����", "�人", "��ɳ", "�ɶ�", "����", "����"]
+RECRUIT_RE = re.compile(r"招聘|校招|校园|应届|毕业生|人才引进|岗位|职位|招录")
+GEO_RE = re.compile(r"人文地理|地理学|地理科学|地理教师|高中地理|初中地理|地理信息|GIS|国土空间|城乡规划|城市规划|土地管理|自然资源|区域规划|产业规划|文旅规划|城市研究", re.I)
+SECTOR_RE = re.compile(r"城市|城建|建筑|规划|设计院|研究院|电力|能源|交通|铁路|地铁|测绘|地质|土地|文旅|园区|地产|置地|通信|电信", re.I)
+SOE_RE = re.compile(r"央企|国企|中国(?:建筑|铁路|铁建|交通|能源|电力|石油|石化|电信|移动|联通|冶金|航天|航空)|中建|中铁|中交|中冶|华润|国投|保利|招商局|集团(?:有限公司|股份有限公司)")
+EXCLUDE_RE = re.compile(r"招生简章|研究生招生|考研|复试|调剂|夏令营|录取名单|博士后|讲座|会议通知")
+CITY_NAMES = ["天津", "苏州", "无锡", "常州", "杭州", "湖州", "嘉兴", "太原", "晋城", "长治", "南京", "南通", "镇江", "扬州", "绍兴", "宁波", "金华", "上海", "北京", "济南", "青岛", "合肥", "郑州", "西安", "武汉", "长沙", "成都", "广州", "深圳"]
 
 
 def clean_text(value: str) -> str:
@@ -52,44 +52,44 @@ def canonical_url(value: str) -> str:
 def source_level(url: str) -> str:
     host = (urllib.parse.urlsplit(url).hostname or "").lower()
     if host.endswith(".gov.cn") or host.endswith(".edu.cn") or host in {"gov.cn", "ncss.cn", "www.ncss.cn", "24365.smartedu.cn"}:
-        return "����/��У��Դ"
+        return "政府/高校来源"
     if any(host == d or host.endswith("." + d) for d in ["mokahr.com", "zhiye.com", "hotjob.cn", "51job.com"]):
-        return "���˵�λ��Ƹ���"
-    return "������������"
+        return "用人单位招聘入口"
+    return "公开检索线索"
 
 
 def infer_type(text: str, hint: str) -> str:
-    if "��ʦ" in text or "ѧУ" in text or "������" in text:
-        return "��ʦ��"
-    if "����Ա" in text or "��¼" in text:
-        return "����Ա"
-    if "��ҵ��λ" in text or "�˲�����" in text:
-        return "��ҵ��"
-    return hint or "�����"
+    if "教师" in text or "学校" in text or "教育局" in text:
+        return "教师编"
+    if "公务员" in text or "招录" in text:
+        return "公务员"
+    if "事业单位" in text or "人才引进" in text:
+        return "事业编"
+    return hint or "央国企"
 
 
 def infer_channel(text: str) -> str:
-    if "�˲�����" in text:
-        return "�˲�����"
-    if "����Ա" in text or "��ҵ��λ" in text or "��¼" in text:
-        return "ͳһ�п�"
-    if "У��" in text or "У԰��Ƹ" in text or "Ӧ��" in text or "��ҵ��" in text:
-        return "У԰��Ƹ"
-    return "�����Ƹ"
+    if "人才引进" in text:
+        return "人才引进"
+    if "公务员" in text or "事业单位" in text or "招录" in text:
+        return "统一招考"
+    if "校招" in text or "校园招聘" in text or "应届" in text or "毕业生" in text:
+        return "校园招聘"
+    return "社会招聘"
 
 
 def infer_category(text: str) -> str:
     pairs = [
-        ("������ʦ", r"������ʦ|���е���|���е���"),
-        ("�����ռ�/����滮", r"�����ռ�|����滮|���й滮"),
-        ("GIS/�ռ�����", r"������Ϣ|GIS|�ռ�����|���"),
-        ("��Ȼ��Դ/����", r"��Ȼ��Դ|���ع���|���ع滮"),
-        ("����/��ҵ�о�", r"�����о�|����滮|��ҵ�滮|���ù滮"),
+        ("地理教师", r"地理教师|高中地理|初中地理"),
+        ("国土空间/城乡规划", r"国土空间|城乡规划|城市规划"),
+        ("GIS/空间数据", r"地理信息|GIS|空间数据|测绘"),
+        ("自然资源/土地", r"自然资源|土地管理|土地规划"),
+        ("城市/产业研究", r"城市研究|区域规划|产业规划|文旅规划"),
     ]
     for category, pattern in pairs:
         if re.search(pattern, text, re.I):
             return category
-    return "2027У�и�λ�أ�������ѡ�ڣ�"
+    return "2027校招岗位池（待二次选岗）"
 
 
 def relevant_lead(text: str) -> bool:
@@ -98,7 +98,7 @@ def relevant_lead(text: str) -> bool:
 
 def infer_city(text: str) -> str:
     found = [city for city in CITY_NAMES if city in text]
-    return "/".join(found[:5]) if found else "ȫ����������/��ȷ��"
+    return "/".join(found[:5]) if found else "全国其他地区/待确认"
 
 
 def fetch_rss(query: str) -> list[dict[str, str]]:
@@ -248,55 +248,55 @@ def make_lead(row: dict[str, str], source: dict[str, str], old: dict | None) -> 
     title, url, description = row["title"], row["url"], row["description"]
     text = f"{title} {description}"
     key = "lead-" + hashlib.sha256(url.encode("utf-8")).hexdigest()[:16]
-    just_event = "������" in text and not re.search(r"��λ|ְλ|��Ƹ����|У��", text)
+    just_event = "宣讲会" in text and not re.search(r"岗位|职位|招聘简章|校招", text)
     level = source_level(url)
     direct_geo = bool(GEO_RE.search(text))
-    important = ["�Զ��ɼ���������δ�������鹫�����ĺ͸���", "Ͷ��ǰ����ȷ��2027�졢רҵ���ص�ͽ�ֹʱ��"]
+    important = ["自动采集线索，尚未逐条核验公告正文和附件", "投递前必须确认2027届、专业、地点和截止时间"]
     if not direct_geo:
-        important.append("���������ҵ��У�и�λ�أ���δȷ�����������ĵ����ɱ���λ��������������ѡ��")
-    if level == "������������":
-        important.append("��ǰ����������ѧУ�����˵�λ��Ƹ��ڣ���׷��ԭʼ����")
+        important.append("这是相关行业的校招岗位池，尚未确认其中有人文地理可报岗位，需进入官网二次选岗")
+    if level == "公开检索线索":
+        important.append("当前不是政府、学校或用人单位招聘入口，需追溯原始公告")
     if just_event:
-        important.append("��ǰ������������������������뵽�������������ʸ�")
+        important.append("当前更像宣讲活动线索，不代表必须到场或已有面试资格")
     return {
         "id": key,
         "title": title[:120],
         "positionCategory": infer_category(text),
-        "org": "���ӹ���ȷ��",
-        "unitCategory": "������",
-        "province": "δ˵��",
+        "org": "待从公告确认",
+        "unitCategory": "待核验",
+        "province": "未说明",
         "city": infer_city(text),
-        "type": infer_type(text, source.get("type", "�����")),
-        "nature": "�Զ����������������飩",
-        "headcount": "δ˵��",
-        "major": "����������عؼ��ʣ�����רҵĿ¼���ԭ��ȷ��" if direct_geo else "�����ҵУ�и�λ�أ��Ƿ��������ĵ����ɱ���λ������������ɸѡ",
-        "degree": "δ˵��",
-        "graduateYear": "2027��ɱ�" if "2027" in text else "Ӧ�����ɱ�����ȷ�Ͻ��",
-        "applyStart": "δ˵��",
-        "applyEnd": "����δ������ֹ��/������",
+        "type": infer_type(text, source.get("type", "央国企")),
+        "nature": "自动发现线索（待核验）",
+        "headcount": "未说明",
+        "major": "包含地理相关关键词；具体专业目录需打开原文确认" if direct_geo else "相关行业校招岗位池；是否设置人文地理可报岗位需进入官网二次筛选",
+        "degree": "未说明",
+        "graduateYear": "2027届可报" if "2027" in text else "应届生可报（待确认届别）",
+        "applyStart": "未说明",
+        "applyEnd": "官网未公布截止日/待核验",
         "deadline": None,
-        "publishedAt": "δ˵��",
-        "assessment": "δ˵��",
-        "consistency": "δ˵��",
-        "politics": "δ˵��",
-        "hukou": "δ˵��",
-        "certificates": "δ˵��",
-        "salary": "����δ����/������",
+        "publishedAt": "未说明",
+        "assessment": "未说明",
+        "consistency": "未说明",
+        "politics": "未说明",
+        "hukou": "未说明",
+        "certificates": "未说明",
+        "salary": "待遇未公开/待核验",
         "salaryMin": None,
-        "match": "�ɳ���" if re.search(r"���ĵ���|����ѧ|������ѧ|������ʦ", text) else "��ѡ",
+        "match": "可尝试" if re.search(r"人文地理|地理学|地理科学|地理教师", text) else "备选",
         "important": important,
-        "summary": (description or "�������δ�ṩժҪ�������Դ���顣")[:500],
+        "summary": (description or "搜索结果未提供摘要，请打开来源核验。")[:500],
         "sourceTitle": title[:160],
         "sourceLevel": level,
-        "verificationStatus": "����������",
+        "verificationStatus": "待核验线索",
         "automated": True,
         "addedAt": (old or {}).get("addedAt", TODAY.isoformat()),
         "lastSeenAt": TODAY.isoformat(),
         "url": url,
         "recruitChannel": infer_channel(text),
-        "interviewMode": "δ˵��",
-        "travelAdvice": "������ר��ȥ" if just_event or level == "������������" or not direct_geo else "�õ���ʽ������ȥ",
-        "travelReason": "����һ���Զ����֡���δ�������������������겢ȷ��רҵ�Ͽɺ���ʽ���԰��ţ���ҪֻΪ�������ǡ�",
+        "interviewMode": "未说明",
+        "travelAdvice": "不建议专程去" if just_event or level == "公开检索线索" or not direct_geo else "拿到正式面试再去",
+        "travelReason": "这是一条自动发现、尚未核验的线索。先完成网申并确认专业认可和正式面试安排，不要只为宣讲会跨城。",
         "matchedQueries": sorted(set(((old or {}).get("matchedQueries") or []) + [source["name"]])),
     }
 
@@ -388,7 +388,7 @@ def main() -> None:
             discovered[url] = old
 
     leads = sorted(discovered.values(), key=lambda x: (x.get("lastSeenAt", ""), x.get("addedAt", "")), reverse=True)[:config.get("maxLeads", 500)]
-    now = datetime.now(CN_TZ).strftime("����ʱ�� %Y-%m-%d %H:%M")
+    now = datetime.now(CN_TZ).strftime("北京时间 %Y-%m-%d %H:%M")
     LEADS.write_text(json.dumps({"updatedAt": now, "leadCount": len(leads), "leads": leads}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     total_sources = len(config["queries"]) + len(config.get("listingSources", [])) + len(config.get("keywordSources", []))
     STATUS.write_text(json.dumps({"updatedAt": now, "successfulSources": successful, "totalSources": total_sources, "newOrSeen": len(discovered), "reports": reports}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -397,4 +397,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

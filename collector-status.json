@@ -1,127 +1,127 @@
 {
-  "updatedAt": "����ʱ�� 2026-09-09 23:27",
+  "updatedAt": "北京时间 2026-09-09 23:11",
   "successfulSources": 22,
   "totalSources": 22,
   "newOrSeen": 2,
   "reports": [
     {
-      "name": "������ʦУ��",
+      "name": "地理教师校招",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "���е�����ʦ",
+      "name": "高中地理教师",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "������ʦ�˲�����",
+      "name": "地理教师人才引进",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "���ĵ���У��",
+      "name": "人文地理校招",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "����ѧУ��",
+      "name": "地理学校招",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "������ѧ�����",
+      "name": "地理科学央国企",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "������Ϣ�����",
+      "name": "地理信息央国企",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "�����ռ�滮",
+      "name": "国土空间规划",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "����滮����",
+      "name": "城乡规划土地",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "���в�ҵ�о�",
+      "name": "城市产业研究",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "��Ȼ��ԴӦ��",
+      "name": "自然资源应届",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "����԰����Ͷ",
+      "name": "文旅园区城投",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "��Դ��ͨ�滮",
+      "name": "能源交通规划",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "������ҵ��λ",
+      "name": "地理事业单位",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "��������Ա",
+      "name": "地理公务员",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "ɽ��������λ",
+      "name": "山西地理岗位",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "������ϵ���",
+      "name": "天津苏南地理",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "�㽭������λ",
+      "name": "浙江地理岗位",
       "status": "ok",
       "found": 10,
       "accepted": 0
     },
     {
-      "name": "�Ͽ���ѧ��ҵ��������Ƹ",
+      "name": "南开大学就业网最新招聘",
       "status": "ok",
-      "found": 126,
-      "accepted": 0,
+      "found": 134,
+      "accepted": 1,
       "listingPagesFailed": 0,
-      "detailPages": 133
+      "detailPages": 134
     },
     {
-      "name": "�ӱ���ҵ��ѧ��ҵ��������Ƹ",
+      "name": "河北工业大学就业网最新招聘",
       "status": "ok",
       "found": 1,
       "accepted": 0,
@@ -129,7 +129,7 @@
       "detailPages": 1
     },
     {
-      "name": "���ҵ��ѧ��ҵ��������Ƹ",
+      "name": "天津工业大学就业网最新招聘",
       "status": "ok",
       "found": 1,
       "accepted": 0,
@@ -137,12 +137,12 @@
       "detailPages": 1
     },
     {
-      "name": "�Ͽ���ѧ��ҵ���ؼ��ʼ���",
+      "name": "南开大学就业网关键词检索",
       "status": "ok",
-      "found": 0,
+      "found": 6,
       "accepted": 0,
-      "searchesFailed": 5,
-      "detailPages": 0
+      "searchesFailed": 0,
+      "detailPages": 6
     }
   ]
 }

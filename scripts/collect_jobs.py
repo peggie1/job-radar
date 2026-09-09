@@ -31,6 +31,8 @@ TODAY = datetime.now(CN_TZ).date()
 
 RECRUIT_RE = re.compile(r"��Ƹ|У��|У԰|Ӧ��|��ҵ��|�˲�����|��λ|ְλ|��¼")
 GEO_RE = re.compile(r"���ĵ���|����ѧ|������ѧ|������ʦ|���е���|���е���|������Ϣ|GIS|�����ռ�|����滮|���й滮|���ع���|��Ȼ��Դ|����滮|��ҵ�滮|���ù滮|�����о�", re.I)
+SECTOR_RE = re.compile(r"����|�ǽ�|����|�滮|���Ժ|�о�Ժ|����|��Դ|��ͨ|��·|����|���|����|����|����|԰��|�ز�|�õ�|ͨ��|����", re.I)
+SOE_RE = re.compile(r"����|����|�й�(?:����|��·|����|��ͨ|��Դ|����|ʯ��|ʯ��|����|�ƶ�|��ͨ|ұ��|����|����)|�н�|����|�н�|��ұ|����|��Ͷ|����|���̾�|����(?:���޹�˾|�ɷ����޹�˾)")
 EXCLUDE_RE = re.compile(r"��������|�о�������|����|����|����|����Ӫ|¼ȡ����|��ʿ��|����|����֪ͨ")
 CITY_NAMES = ["���", "����", "����", "����", "����", "����", "����", "̫ԭ", "����", "����", "�Ͼ�", "��ͨ", "��", "����", "����", "����", "��", "�Ϻ�", "����", "����", "�ൺ", "�Ϸ�", "֣��", "����", "�人", "��ɳ", "�ɶ�", "����", "����"]
 
@@ -87,7 +89,11 @@ def infer_category(text: str) -> str:
     for category, pattern in pairs:
         if re.search(pattern, text, re.I):
             return category
-    return "������ظ�λ�������飩"
+    return "2027У�и�λ�أ�������ѡ�ڣ�"
+
+
+def relevant_lead(text: str) -> bool:
+    return bool(GEO_RE.search(text) or (SECTOR_RE.search(text) and SOE_RE.search(text)))
 
 
 def infer_city(text: str) -> str:
@@ -230,7 +236,10 @@ def make_lead(row: dict[str, str], source: dict[str, str], old: dict | None) -> 
     key = "lead-" + hashlib.sha256(url.encode("utf-8")).hexdigest()[:16]
     just_event = "������" in text and not re.search(r"��λ|ְλ|��Ƹ����|У��", text)
     level = source_level(url)
+    direct_geo = bool(GEO_RE.search(text))
     important = ["�Զ��ɼ���������δ�������鹫�����ĺ͸���", "Ͷ��ǰ����ȷ��2027�졢רҵ���ص�ͽ�ֹʱ��"]
+    if not direct_geo:
+        important.append("���������ҵ��У�и�λ�أ���δȷ�����������ĵ����ɱ���λ��������������ѡ��")
     if level == "������������":
         important.append("��ǰ����������ѧУ�����˵�λ��Ƹ��ڣ���׷��ԭʼ����")
     if just_event:
@@ -246,7 +255,7 @@ def make_lead(row: dict[str, str], source: dict[str, str], old: dict | None) -> 
         "type": infer_type(text, source.get("type", "�����")),
         "nature": "�Զ����������������飩",
         "headcount": "δ˵��",
-        "major": "����������عؼ��ʣ�����רҵĿ¼���ԭ��ȷ��",
+        "major": "����������عؼ��ʣ�����רҵĿ¼���ԭ��ȷ��" if direct_geo else "�����ҵУ�и�λ�أ��Ƿ��������ĵ����ɱ���λ������������ɸѡ",
         "degree": "δ˵��",
         "graduateYear": "2027��ɱ�" if "2027" in text else "Ӧ�����ɱ�����ȷ�Ͻ��",
         "applyStart": "δ˵��",
@@ -272,7 +281,7 @@ def make_lead(row: dict[str, str], source: dict[str, str], old: dict | None) -> 
         "url": url,
         "recruitChannel": infer_channel(text),
         "interviewMode": "δ˵��",
-        "travelAdvice": "������ר��ȥ" if just_event or level == "������������" else "�õ���ʽ������ȥ",
+        "travelAdvice": "������ר��ȥ" if just_event or level == "������������" or not direct_geo else "�õ���ʽ������ȥ",
         "travelReason": "����һ���Զ����֡���δ�������������������겢ȷ��רҵ�Ͽɺ���ʽ���԰��ţ���ҪֻΪ�������ǡ�",
         "matchedQueries": sorted(set(((old or {}).get("matchedQueries") or []) + [source["name"]])),
     }
@@ -298,7 +307,7 @@ def main() -> None:
                 text = f'{row["title"]} {row["description"]}'
                 if not row["url"] or row["url"] in verified_urls:
                     continue
-                if "2027" not in text or not RECRUIT_RE.search(text) or not GEO_RE.search(text) or EXCLUDE_RE.search(text):
+                if "2027" not in text or not RECRUIT_RE.search(text) or not relevant_lead(text) or EXCLUDE_RE.search(text):
                     continue
                 lead = make_lead(row, source, old_by_url.get(row["url"]))
                 if row["url"] in discovered:
@@ -319,7 +328,7 @@ def main() -> None:
                 text = f'{row["title"]} {row["description"]}'
                 if not row["url"] or row["url"] in verified_urls:
                     continue
-                if "2027" not in text or not RECRUIT_RE.search(text) or not GEO_RE.search(text) or EXCLUDE_RE.search(text):
+                if "2027" not in text or not RECRUIT_RE.search(text) or not relevant_lead(text) or EXCLUDE_RE.search(text):
                     continue
                 lead = make_lead(row, source, old_by_url.get(row["url"]))
                 if row["url"] in discovered:
@@ -339,7 +348,7 @@ def main() -> None:
                 text = f'{row["title"]} {row["description"]}'
                 if not row["url"] or row["url"] in verified_urls:
                     continue
-                if "2027" not in text or not RECRUIT_RE.search(text) or not GEO_RE.search(text) or EXCLUDE_RE.search(text):
+                if "2027" not in text or not RECRUIT_RE.search(text) or not relevant_lead(text) or EXCLUDE_RE.search(text):
                     continue
                 lead = make_lead(row, source, old_by_url.get(row["url"]))
                 if row["url"] in discovered:

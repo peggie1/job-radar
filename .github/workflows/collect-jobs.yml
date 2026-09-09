@@ -15,7 +15,7 @@ permissions:
 
 concurrency:
   group: geography-job-collector
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   collect:
@@ -38,5 +38,6 @@ jobs:
           git config user.email "job-radar-bot@users.noreply.github.com"
           git add leads.json collector-status.json
           git commit -m "Auto collect geography job leads"
+          git pull --rebase origin main
           git push
 

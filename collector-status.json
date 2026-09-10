@@ -1,5 +1,5 @@
 {
-  "updatedAt": "北京时间 2026-09-09 23:36",
+  "updatedAt": "北京时间 2026-09-10 08:16",
   "successfulSources": 22,
   "totalSources": 22,
   "newOrSeen": 14,
@@ -43,13 +43,13 @@
     {
       "name": "地理信息央国企",
       "status": "ok",
-      "found": 10,
+      "found": 11,
       "accepted": 0
     },
     {
       "name": "国土空间规划",
       "status": "ok",
-      "found": 10,
+      "found": 11,
       "accepted": 0
     },
     {
@@ -85,25 +85,25 @@
     {
       "name": "地理事业单位",
       "status": "ok",
-      "found": 10,
+      "found": 11,
       "accepted": 0
     },
     {
       "name": "地理公务员",
       "status": "ok",
-      "found": 10,
+      "found": 11,
       "accepted": 0
     },
     {
       "name": "山西地理岗位",
       "status": "ok",
-      "found": 10,
+      "found": 11,
       "accepted": 0
     },
     {
       "name": "天津苏南地理",
       "status": "ok",
-      "found": 10,
+      "found": 11,
       "accepted": 0
     },
     {
@@ -115,10 +115,10 @@
     {
       "name": "南开大学就业网最新招聘",
       "status": "ok",
-      "found": 132,
-      "accepted": 13,
+      "found": 123,
+      "accepted": 12,
       "listingPagesFailed": 0,
-      "detailPages": 134
+      "detailPages": 131
     },
     {
       "name": "河北工业大学就业网最新招聘",
@@ -139,9 +139,9 @@
     {
       "name": "南开大学就业网关键词检索",
       "status": "ok",
-      "found": 6,
+      "found": 5,
       "accepted": 0,
-      "searchesFailed": 2,
+      "searchesFailed": 7,
       "detailPages": 6
     }
   ]

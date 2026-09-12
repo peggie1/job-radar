@@ -1,8 +1,8 @@
 {
-  "updatedAt": "北京时间 2026-09-11 08:17",
+  "updatedAt": "北京时间 2026-09-12 08:17",
   "successfulSources": 22,
   "totalSources": 22,
-  "newOrSeen": 29,
+  "newOrSeen": 41,
   "reports": [
     {
       "name": "地理教师校招",
@@ -115,10 +115,10 @@
     {
       "name": "南开大学就业网最新招聘",
       "status": "ok",
-      "found": 149,
-      "accepted": 26,
+      "found": 125,
+      "accepted": 25,
       "listingPagesFailed": 0,
-      "detailPages": 159
+      "detailPages": 133
     },
     {
       "name": "河北工业大学就业网最新招聘",
@@ -141,7 +141,7 @@
       "status": "ok",
       "found": 0,
       "accepted": 0,
-      "searchesFailed": 4,
+      "searchesFailed": 6,
       "detailPages": 0
     }
   ]

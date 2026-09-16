@@ -1,132 +1,132 @@
 {
-  "updatedAt": "北京时间 2026-09-15 08:18",
+  "updatedAt": "北京时间 2026-09-16 08:16",
   "successfulSources": 22,
   "totalSources": 22,
-  "newOrSeen": 47,
+  "newOrSeen": 52,
   "reports": [
     {
       "name": "地理教师校招",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "高中地理教师",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "地理教师人才引进",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "人文地理校招",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "地理学校招",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "地理科学央国企",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "地理信息央国企",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "国土空间规划",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "城乡规划土地",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "城市产业研究",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "自然资源应届",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "文旅园区城投",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "能源交通规划",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "地理事业单位",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "地理公务员",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "山西地理岗位",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "天津苏南地理",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "浙江地理岗位",
       "status": "ok",
-      "found": 1,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "南开大学就业网最新招聘",
       "status": "ok",
-      "found": 131,
-      "accepted": 19,
+      "found": 139,
+      "accepted": 21,
       "listingPagesFailed": 0,
-      "detailPages": 133
+      "detailPages": 150
     },
     {
       "name": "河北工业大学就业网最新招聘",
       "status": "ok",
-      "found": 1,
+      "found": 2,
       "accepted": 0,
       "listingPagesFailed": 0,
-      "detailPages": 1
+      "detailPages": 2
     },
     {
       "name": "天津工业大学就业网最新招聘",
@@ -141,7 +141,7 @@
       "status": "ok",
       "found": 6,
       "accepted": 0,
-      "searchesFailed": 4,
+      "searchesFailed": 3,
       "detailPages": 6
     }
   ]

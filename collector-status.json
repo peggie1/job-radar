@@ -1,5 +1,5 @@
 {
-  "updatedAt": "北京时间 2026-09-16 08:16",
+  "updatedAt": "北京时间 2026-09-17 08:16",
   "successfulSources": 22,
   "totalSources": 22,
   "newOrSeen": 52,
@@ -31,7 +31,7 @@
     {
       "name": "地理学校招",
       "status": "ok",
-      "found": 10,
+      "found": 0,
       "accepted": 0
     },
     {
@@ -109,16 +109,16 @@
     {
       "name": "浙江地理岗位",
       "status": "ok",
-      "found": 10,
+      "found": 9,
       "accepted": 0
     },
     {
       "name": "南开大学就业网最新招聘",
       "status": "ok",
-      "found": 139,
-      "accepted": 21,
+      "found": 128,
+      "accepted": 17,
       "listingPagesFailed": 0,
-      "detailPages": 150
+      "detailPages": 149
     },
     {
       "name": "河北工业大学就业网最新招聘",
@@ -139,10 +139,10 @@
     {
       "name": "南开大学就业网关键词检索",
       "status": "ok",
-      "found": 6,
+      "found": 0,
       "accepted": 0,
-      "searchesFailed": 3,
-      "detailPages": 6
+      "searchesFailed": 9,
+      "detailPages": 0
     }
   ]
 }

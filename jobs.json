@@ -1,5 +1,5 @@
 {
-  "updatedAt": "北京时间 2026-09-28 09:58",
+  "updatedAt": "北京时间 2026-09-30 21:11",
   "jobs": [
     {
       "id": "beijing-science-high-geo-2027",
@@ -1792,6 +1792,49 @@
       "interviewMode": "未说明",
       "travelAdvice": "拿到正式面试再去",
       "travelReason": "你的师范地理本科和高中地理教资与教学方向相关，但本科院校、成绩排名及硕士报考口径尚未核实。先联系学校投递，取得正式试讲面试通知并确认合同待遇后再安排跨城行程。"
+    },
+    {
+      "id": "gdupi-planning-human-geography-2027",
+      "title": "规划设计类（人文地理方向）",
+      "positionCategory": "规划设计/人文地理",
+      "org": "广东省城乡规划设计研究院科技集团股份有限公司",
+      "unitCategory": "省属国企控股混合所有制企业",
+      "province": "未说明",
+      "city": "未说明",
+      "type": "央国企",
+      "nature": "企业校园招聘（合同性质未说明）",
+      "headcount": "未说明",
+      "major": "人文地理（规划理科）；同类另列城乡规划、土地资源管理、园林景观、生态学、海洋规划",
+      "degree": "本科及以上",
+      "graduateYear": "2027届可报",
+      "applyStart": "未说明",
+      "applyEnd": "官网未公布截止日",
+      "deadline": null,
+      "publishedAt": "2026-09-29",
+      "assessment": "笔试+面试",
+      "consistency": "未说明",
+      "politics": "未说明",
+      "hukou": "未说明",
+      "certificates": "未说明",
+      "salary": "金额未说明；基本薪酬、绩效薪酬、六险二金、免费早午餐及一年过渡性住房等",
+      "salaryMin": null,
+      "match": "强匹配",
+      "important": [
+        "来源层级：广州大学就业网发布的企业招聘简章；企业官网投递页本次返回403，未核验网申页面的岗位细则。",
+        "明确面向2027届并列人文地理方向；强匹配仅指专业与届别，不等于录用竞争力强。",
+        "联系地址为广州海珠区南洲路483号，不等于已确认本岗位工作地点，具体城市需核实。",
+        "10月线上笔试，10—12月面试；面试线上或线下未说明，报名截止未说明。",
+        "本硕一致、年龄、最低服务期、试用期、复审材料、体检考察、递补及诚信限制均未说明。",
+        "官方投递入口：https://www.gdupi.com/Contactus/index/parent_id/61/cat_id/298.html；招聘咨询020-34399789，job@gdupi.com。"
+      ],
+      "summary": "2027届校招规划设计类明确包括人文地理，专业与届别匹配。10月线上笔试，10—12月面试；薪酬金额、人数、工作城市和截止未说明。大学就业网简章可读，企业投递页访问受限，须核对岗位细则。",
+      "sourceTitle": "广东省城乡规划设计研究院科技集团股份有限公司2027届校园招聘（广州大学就业网）",
+      "addedAt": "2026-09-30",
+      "url": "https://jy.gzhu.edu.cn/web/Index/jobs-brief-detail?id=SVUXSWA",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "人文地理专业匹配，但你的GIS熟练度一般且暂无成熟规划作品集，规划设计竞争力中等偏弱；先网申并确认城市、待遇与面试形式，再评估跨城成本。"
     }
   ]
 }

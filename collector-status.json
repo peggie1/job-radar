@@ -1,5 +1,5 @@
 {
-  "updatedAt": "北京时间 2026-10-03 12:09",
+  "updatedAt": "北京时间 2026-10-04 12:41",
   "successfulSources": 22,
   "totalSources": 22,
   "newOrSeen": 115,
@@ -115,8 +115,8 @@
     {
       "name": "南开大学就业网最新招聘",
       "status": "ok",
-      "found": 186,
-      "accepted": 29,
+      "found": 193,
+      "accepted": 31,
       "listingPagesFailed": 0,
       "detailPages": 202
     },
@@ -139,10 +139,10 @@
     {
       "name": "南开大学就业网关键词检索",
       "status": "ok",
-      "found": 0,
+      "found": 4,
       "accepted": 0,
-      "searchesFailed": 7,
-      "detailPages": 0
+      "searchesFailed": 5,
+      "detailPages": 5
     }
   ]
 }

@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-04",
+  "scope": "地理任务全国央国企补查；仅job-radar，财会仓库未动",
+  "result": {
+    "added": 9,
+    "changed": 0,
+    "removed": 0,
+    "total": 70,
+    "commit": "8c9e408f5916056fc66cc98c3ec7985561ff7667"
+  },
+  "added": [
+    {
+      "id": "copm-j16023-2027",
+      "title": "客户服务岗（佛山）(J16023)",
+      "city": "佛山",
+      "match": "备选",
+      "url": "https://copm.zhiye.com/campus/detail?jobAdId=39b9f032-bc59-4d81-85eb-783b5ff55670"
+    },
+    {
+      "id": "copm-j15989-2027",
+      "title": "客户服务岗（杭州）(J15989)",
+      "city": "杭州",
+      "match": "备选",
+      "url": "https://copm.zhiye.com/campus/detail?jobAdId=3b8e5bca-38b9-4d32-8b25-f1ba2dc00f1f"
+    },
+    {
+      "id": "copm-j15990-2027",
+      "title": "客户服务岗（合肥）(J15990)",
+      "city": "合肥",
+      "match": "备选",
+      "url": "https://copm.zhiye.com/campus/detail?jobAdId=8755312d-1808-402f-bec9-84dba2cdc733"
+    },
+    {
+      "id": "copm-j15998-2027",
+      "title": "客户服务岗（苏州）(J15998)",
+      "city": "苏州",
+      "match": "备选",
+      "url": "https://copm.zhiye.com/campus/detail?jobAdId=6246d239-1a57-493d-962e-d109fd9da21e"
+    },
+    {
+      "id": "copm-j16000-2027",
+      "title": "客户服务岗（乌鲁木齐）(J16000)",
+      "city": "乌鲁木齐",
+      "match": "备选",
+      "url": "https://copm.zhiye.com/campus/detail?jobAdId=d298f3d2-5374-41b1-841b-409fec62d953"
+    },
+    {
+      "id": "copm-j16007-2027",
+      "title": "客户服务岗（重庆）(J16007)",
+      "city": "重庆",
+      "match": "备选",
+      "url": "https://copm.zhiye.com/campus/detail?jobAdId=a3446589-6bad-497e-b4af-965134542c3d"
+    },
+    {
+      "id": "copm-j16009-2027",
+      "title": "品质督导岗（青岛）(J16009)",
+      "city": "青岛",
+      "match": "备选",
+      "url": "https://copm.zhiye.com/campus/detail?jobAdId=c29b2a41-78de-4aaf-91a6-ef8eb01c97d6"
+    },
+    {
+      "id": "copm-j16010-2027",
+      "title": "品质督导岗（天津）(J16010)",
+      "city": "天津",
+      "match": "备选",
+      "url": "https://copm.zhiye.com/campus/detail?jobAdId=b34d018b-e382-49f7-b09f-7ed3e21bb9b7"
+    },
+    {
+      "id": "cddc-cdadri-urban-renewal-planning-2027",
+      "title": "城市更新策划师（专业认可待确认）",
+      "city": "成都",
+      "match": "可尝试",
+      "url": "https://www.cddc2021.com/recruitinfo/621.html"
+    }
+  ],
+  "checks": [
+    {
+      "unit": "中海物业",
+      "officialPortal": "https://copm.zhiye.com/campus",
+      "portalRows": 60,
+      "added": 8,
+      "notAdded": 52,
+      "note": "全量接口筛出候选，逐条打开8条详情页核对。其余52条不是52条全部认定不合格：包含专业不符、旧届别、校园大使以及相关专业优先仍可继续核实者；未按总简章不限专业批量入库。上海及太原客服具体页限定相关专业；南宁和汕头客服写2026届，未收录。",
+      "remainingPriority": [
+        "重庆人力资源J16046",
+        "东莞客服J15985",
+        "广州客服J15987",
+        "吉林客服J15991",
+        "兰州客服J15993",
+        "长春客服J16004"
+      ]
+    },
+    {
+      "unit": "成都设计咨询集团",
+      "official": "https://www.cddc2021.com/recruitinfo/621.html",
+      "attachment": "https://img.cddc2021.com/image/uploads/admin/6aab6751048ab.pdf",
+      "rows": 29,
+      "added": 1,
+      "note": "第12项城市更新策划师按专业认可待确认收录。其余28项本轮未收录：主要为工程、计算机、经济金融或规划特定专业，不把地理背景直接当作符合。"
+    }
+  ],
+  "pending": [
+    {
+      "unit": "湖北省规划设计研究总院",
+      "reason": "2027城乡规划设计岗转载明确人文地理；企业官网及浏览器403，未取得可核验原始公告，不晋级",
+      "url": "https://www.hbsghy.com/JobPosting_list.html"
+    },
+    {
+      "unit": "浙江交通集团交投新光",
+      "reason": "大学企业简章确认2027管培生45名，原始详细公告云防护/空白；专业、待遇及轮岗条件尚待原始岗位复核，不晋级",
+      "url": "https://www.cncico.com/content/82696"
+    },
+    {
+      "unit": "江西交投2027秋招",
+      "reason": "第三方30人计划含0705地理学；对外经贸大学页面正文当前显示26人且不含0705，版本不一致，需官方具体岗位表，不晋级",
+      "url": "https://aeo.uibe.edu.cn/front/zpxx.jspa?tid=2105486523381125121"
+    },
+    {
+      "unit": "同济设计2027",
+      "reason": "转载正文9月28日截止，官网超时，无延期依据，不新增"
+    },
+    {
+      "unit": "中新苏州工业园区开发集团",
+      "reason": "搜索标题2027，正文2026年8月社招且9月11日截止，排除",
+      "url": "https://m.yingjiesheng.com/job-008-049-790.html"
+    }
+  ],
+  "cloud": {
+    "leads": 115,
+    "reportedSuccessfulSources": 22,
+    "totalSources": 22,
+    "promotedThisSupplement": 0,
+    "note": "本轮9条来自人工检索；22成功是采集器来源状态，不代表所有检索请求成功或115条均合格。未改动leads和collector-status。"
+  },
+  "travel": "新增无已确认必须线下到场岗位；成都收到正式面试再去，中海泛岗位不建议仅为宣讲跨城。",
+  "verification": "新记录字段对齐旧JSON；salaryMin均null；唯一ID；远程回读70条且旧61条逐条未变。"
+}

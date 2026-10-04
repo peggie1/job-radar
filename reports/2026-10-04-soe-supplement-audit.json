@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-04",
+  "scope": "人文地理2027届央国企补查；仅修改job-radar，不修改财会仓库",
+  "jobsCommit": "9b461e6b3b2b0845acb580e6f52c7aa7ab1c9573",
+  "added": [
+    {
+      "id": "chinacuc-consulting-j11190-2027",
+      "title": "策划咨询（J11190）",
+      "org": "中国联合工程有限公司",
+      "url": "https://chinacuc.zhiye.com/campus/detail?jobAdId=fa6fcafc-51a2-48e4-ad68-9854ba3cca38"
+    },
+    {
+      "id": "cmpo-project-management-j33713-2027",
+      "title": "项目管理岗（J33713，含天津招聘）",
+      "org": "招商局积余产业运营服务股份有限公司及所属招聘单位",
+      "url": "https://cmpo.zhiye.com/campus/jobs"
+    }
+  ],
+  "changed": 0,
+  "removed": 0,
+  "totalRecords": 47,
+  "coverageNote": "本轮不是全国穷尽核验。保留原45条记录，其中既有岗位池未在本轮全部拆分；总记录数不等于全部已确认可报具体岗位数。",
+  "cloud": {
+    "updatedAt": "北京时间 2026-10-04 12:41",
+    "discovered": 115,
+    "successfulSources": 22,
+    "totalSources": 22,
+    "promotedThisPass": 0,
+    "note": "新增2条来自人工扩展检索。云端115为线索量，不是有效岗位量；未核验全部线索。采集成功不等于逐条原文核验成功。"
+  },
+  "structuredScreens": [
+    {
+      "source": "https://chinacuc.zhiye.com/campus/jobs",
+      "posts": 49,
+      "added": 1,
+      "excluded": 47,
+      "pending": 1,
+      "reason": "47条为其他专业或博士/博士后要求；设计经理EPC未列明确专业和学历、制图能力待确认，不作专业不限。"
+    },
+    {
+      "source": "https://jybzp.chsi.com.cn/home/bul/announcement/ymq873fg3ej1azdq",
+      "attachment": "https://jybzp.chsi.com.cn/home/bul/announcement/down/ymq873fg3ej1azdq/w221mb0d9r9n93se",
+      "posts": 51,
+      "added": 0,
+      "excluded": 51,
+      "reason": "逐行读取附件51个岗位的专业及资格，无地理学/人文地理/不限专业；部分另限博士或中共党员，按专业不符作为不重复统计主因。师范地理不自动等于教育学。"
+    },
+    {
+      "source": "https://cmpo.zhiye.com/campus/jobs",
+      "posts": 12,
+      "added": 1,
+      "excluded": 0,
+      "pending": 11,
+      "reason": "项目管理用天津分公司2027专业不限原始简章补证；其余岗位具体届别及跨专业认可需确认。未因只写优先就直接排除，但不冒充已确认资格。"
+    }
+  ],
+  "pending": [
+    {
+      "org": "中国地图出版社集团科普和少儿出版分社",
+      "title": "地理编辑",
+      "url": "https://www.sinomaps.com/xwdt/gsgg/202609/23/1662676311596902373.html",
+      "reason": "官方社会招聘，地理学相关硕士，未写接受2027届。先询问在读2027能否应聘及到岗要求；未晋级jobs。"
+    },
+    {
+      "org": "湖北省规划设计研究总院",
+      "title": "2027城乡规划设计岗",
+      "url": "https://www.hbsghy.com/JobPosting_list/56294.html",
+      "leadUrl": "https://www.fenbi.com/page/fenxiaozhaokaodetail/19/1157/469184894229504",
+      "reason": "第三方2027简章提人文地理，尚未获得对应企业原文。官网旧人文地理社招要求3—5年，不能混合两批公告。"
+    },
+    {
+      "org": "招商积余",
+      "title": "业务运营岗（运营管理方向J33735、战略发展方向J33742）及职能管理岗（人力方向J33746）",
+      "url": "https://cmpo.zhiye.com/campus/jobs",
+      "reason": "官方具体工作内容和优先专业已读；有研究、运营、培训相关工作，但未明确列人文地理，具体届别及专业认可待HR确认。列为待核验而非资格明确。"
+    },
+    {
+      "org": "中国出版集团",
+      "title": "2027集团校招具体编辑岗位",
+      "url": "https://cnpubg.iguopin.com/",
+      "reason": "尚未完成具体岗位表核验，不把集团招聘池算作个人可报职位。"
+    },
+    {
+      "org": "中国联合工程",
+      "title": "设计经理（EPC）J11220",
+      "url": "https://chinacuc.zhiye.com/campus/jobs",
+      "reason": "官方未列专业和学历细则，要求制图能力，不能把未写专业解释为不限。"
+    }
+  ],
+  "additionalExclusions": [
+    {
+      "org": "保利投资",
+      "url": "https://career.nankai.edu.cn/correcruit/content/id/118834.html",
+      "posts": 3,
+      "reason": "所列投资、金融、经济等专业要求不覆盖人文地理；产业链研究经历不能替代专业门槛。"
+    },
+    {
+      "org": "保利和润",
+      "url": "https://career.nankai.edu.cn/correcruit/content/id/119180.html",
+      "reason": "页面提示信息已过期，未晋级；不能以转载仍在就判断开放。"
+    }
+  ],
+  "travel": "新增岗位均无已确认必须立即线下到场的通知。杭州咨询先网申、正式面试再去；泛物业管理不为宣讲专程跨城。"
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-04",
+  "task": "全国央国企扩围检索，江浙沪优先",
+  "completion": "阶段性补充，未完成全国逐单位穷尽核验，不代表全部可报机会",
+  "repository": "peggie1/job-radar",
+  "jobsCommit": "b8a134c47e388d59be88d089b61bcd7bd507bb03",
+  "counts": {
+    "before": 47,
+    "added": 14,
+    "changed": 0,
+    "removed": 0,
+    "after": 61,
+    "addedTrainingPosts": 2,
+    "addedBranchGeneralServicePosts": 12
+  },
+  "newIds": [
+    "boc-js-nanjing-general-service-2027",
+    "boc-js-wuxi-general-service-2027",
+    "boc-js-changzhou-general-service-2027",
+    "boc-js-nantong-general-service-2027",
+    "boc-js-zhenjiang-general-service-2027",
+    "boc-js-yangzhou-general-service-2027",
+    "boc-js-yancheng-general-service-2027",
+    "boc-js-lianyungang-general-service-2027",
+    "boc-js-taizhou-general-service-2027",
+    "boc-js-xuzhou-general-service-2027",
+    "boc-js-huaian-general-service-2027",
+    "boc-js-suqian-general-service-2027",
+    "boc-shanghai-training-rd-2027",
+    "boc-beijing-training-rd-2027"
+  ],
+  "scope": [
+    "江苏：中国银行省分行原始招聘简章及12家地市分行；江苏规划集团招聘页面与线索；中建八局浙江公司跨省简章",
+    "浙江：交通集团校招和管培生原始入口、科教及数智交院入口；物产中大高校线索；发展规划研究院实习；自然资源集团和地信科技线索",
+    "上海：市国资2027校招总入口、同济院招聘入口、中国银行上海高级研修院；未将总入口招聘数入库",
+    "全国补查：湖北规划总院、广东建院、广东城乡规划院、深圳国资校招、中国出版集团、中国地图出版社、广西北投、中国电建及四川电力设计等线索"
+  ],
+  "sources": [
+    "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html",
+    "https://pic.bankofchina.com/bocappd/appform/202609/P020260903517985334320.pdf",
+    "https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5B07B663BC64EED7E0653A68DD0E9B18"
+  ],
+  "limitations": [
+    "具体中行网申系统浏览器返回空白；总行正式公告、附件及江苏分行高校原始简章已读，院级/网点附加条件仍需提交前确认。新增均标可尝试或备选，不声称用户通过资格审核。",
+    "用户英语成绩未知，未借用财会用户英语六级。",
+    "江苏12条是12家分行各一个综合服务岗位，不是12个不同职业方向；志愿数量受限。",
+    "未重新全量核验原有47条；此次没有因未搜到而删除岗位。",
+    "未将实习作为正式全职岗位入库，未将民企混入央国企。"
+  ],
+  "pending": [
+    {
+      "org": "浙江交通集团",
+      "role": "交投新光管培生",
+      "url": "https://www.cncico.com/content/82696",
+      "reason": "原站及FAQ附件被云防护拦截；转载称2027硕士专业不限45名及10月31日截止，不能仅靠转载确认全条件及待遇；南开原始简章只确认项目45名，未补齐条件。"
+    },
+    {
+      "org": "浙江交通集团成员单位",
+      "role": "科教、数智交院等",
+      "url": "https://www.cncico.com/content/82659",
+      "reason": "官方正文及具体岗位入口未能读取，不把953集团需求当用户可报数。"
+    },
+    {
+      "org": "上海国资委",
+      "role": "2027校招总入口",
+      "url": "https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260928/09a41773660b4173a2274afc4865342d.html",
+      "reason": "需要进一步拆分具体单位和岗位，尚未核完。"
+    },
+    {
+      "org": "同济设计集团",
+      "url": "https://careers.tjad.cn",
+      "reason": "入口读取失败，2027规划岗位专业/作品集/快题待核。"
+    },
+    {
+      "org": "湖北省规划设计研究总院",
+      "role": "2027城乡规划设计",
+      "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/18/1157/469184894229504",
+      "reason": "转载明确人文地理硕士2027，但未追到本轮用人单位原文，不晋级。"
+    },
+    {
+      "org": "中国出版集团",
+      "url": "https://cnpubg.iguopin.com/",
+      "reason": "浏览器空白，具体地理/理学编辑岗位及条件未核，保留线索。"
+    },
+    {
+      "org": "广东建院、广西北投、长江设计",
+      "reason": "发现2027相关专业招聘线索，尚未完成具体岗位及原始来源核验，不计已核验岗位。"
+    },
+    {
+      "org": "浙江发展规划研究院",
+      "reason": "发现人文地理相关在读实习，不作为正式毕业就业岗位入库。"
+    }
+  ],
+  "cloud": {
+    "reportedLeads": 115,
+    "reportedSuccessfulSources": 22,
+    "totalSources": 22,
+    "warning": "22个来源状态成功不等于全国覆盖；18个搜索来源accepted为0，关键词检索还有5次失败。此次新增来自独立人工检索，未声称完成115条全量核验。",
+    "promotedThisSupplement": 0,
+    "exclusionsThisSupplement": null
+  },
+  "travel": "新增面试线上线下未明确，均先网申、正式邀请后再评估；无新增已确认必须线下到场岗位。",
+  "nextDeadline": "新增14条均2026-10-09截止；优先确认专业、英语、网点和志愿限制。",
+  "verification": {
+    "jsonParsed": true,
+    "schemaMatchesExisting": true,
+    "stableIdsUnique": true,
+    "originalRecordsUnchanged": true,
+    "remoteReadbackCount": 61
+  }
+}

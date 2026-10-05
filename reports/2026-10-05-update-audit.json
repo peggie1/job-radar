@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-05",
+  "task": "geography",
+  "scope": "本轮为云端线索复核、江浙沪教师/规划/教育出版重点检索及太原金融跨专业机会补充；未将检索结果页视作完成所有地区逐岗核验。",
+  "cloud": {
+    "updatedAt": "北京时间 2026-10-04 12:41",
+    "discovered": 115,
+    "reportedSuccessfulSources": 22,
+    "totalSources": 22,
+    "promoted": 0,
+    "reviewed": 4,
+    "excluded": 1,
+    "pending": 3,
+    "caveat": "18项搜索来源accepted为0，关键词来源searchesFailed为5；22成功为采集器自报，不代表22项均有效。"
+  },
+  "cloudReview": [
+    {
+      "url": "https://career.nankai.edu.cn/correcruit/content/id/119454.html",
+      "result": "不晋级",
+      "reason": "云南移动专业表为计算机通信信息等及法学，人文地理不在列。"
+    },
+    {
+      "url": "https://career.nankai.edu.cn/correcruit/content/id/119382.html",
+      "result": "继续待核验",
+      "reason": "仅读取招聘简章，未核定具体岗位的人文地理专业资格；保利总表不限不能覆盖岗位细则。"
+    },
+    {
+      "url": "https://career.nankai.edu.cn/correcruit/content/id/119376.html",
+      "result": "继续待核验",
+      "reason": "仅读取招聘简章，未核定具体岗位的人文地理专业资格；保利总表不限不能覆盖岗位细则。"
+    },
+    {
+      "url": "https://career.nankai.edu.cn/correcruit/content/id/119347.html",
+      "result": "继续待核验",
+      "reason": "仅读取招聘简章，未核定具体岗位的人文地理专业资格；保利总表不限不能覆盖岗位细则。"
+    }
+  ],
+  "removed": [
+    {
+      "id": "shenzhen-smartcity-research-2027",
+      "title": "技术研究类（智慧城市研究/产业经济/民航规划）",
+      "positionCategory": "智慧城市研究/产业研究",
+      "org": "深圳市智慧城市科技发展集团有限公司（深智城集团）",
+      "unitCategory": "深圳市属国企",
+      "province": "广东",
+      "city": "深圳",
+      "type": "央国企",
+      "nature": "地方国企正式校招",
+      "headcount": "未说明",
+      "major": "公告未逐岗公布专业目录；人文地理学与智慧城市、产业经济方向具有一定关联，是否符合具体岗位要求需确认",
+      "degree": "本科及以上",
+      "graduateYear": "2027届可报",
+      "applyStart": "2026-09-04",
+      "applyEnd": "官网未公布截止日",
+      "deadline": null,
+      "publishedAt": "2026-09-04",
+      "assessment": "直接/优先面试",
+      "consistency": "未说明",
+      "politics": "未说明",
+      "hukou": "未说明",
+      "certificates": "未说明",
+      "salary": "硕士技术类25—30万元/年；具体岗位定薪以单位最终通知为准",
+      "salaryMin": null,
+      "match": "可尝试",
+      "important": [
+        "招聘对象明确为2026年9月至2027年8月毕业的应届毕业生",
+        "岗位方向包含智慧城市研究、产业经济和民航规划，但具体专业目录未公开，人文地理学资格需确认",
+        "公告标注免笔试、优先录用，具体适用岗位及流程需以招聘方通知为准",
+        "工作地点为深圳，不属于优先城市",
+        "公告未公布统一截止日，需通过官方招聘二维码查看实时岗位和投递状态"
+      ],
+      "summary": "深智城集团是深圳市国资委全资直管科技型国企，2027届秋招技术研究类涵盖智慧城市研究、产业经济和民航规划。招聘对象明确覆盖2027年7月毕业生，公开硕士技术类参考年薪25—30万元。人文地理与部分研究方向有关联，但公告未给出逐岗专业目录，投递前需确认专业资格；公告称免笔试、优先录用，实际流程以岗位通知为准。",
+      "sourceTitle": "深智城集团2027届秋季校园招聘公告",
+      "addedAt": "2026-09-05",
+      "url": "https://job.hust.edu.cn/zpinfo1/2412404.htm",
+      "recruitChannel": "校园招聘",
+      "interviewMode": "未说明",
+      "travelAdvice": "拿到正式面试再去",
+      "travelReason": "人文地理、GIS与产业链研究经历有相关性，但工具熟练度和成果证明尚不突出；先远程沟通岗位方向，确认进入正式面试再去深圳。"
+    }
+  ],
+  "otherExclusions": [
+    {
+      "url": "https://www.zdpi.org.cn/txtread.php?id=19668&sid=112007",
+      "reason": "2026春招截止6月底。"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.sinomaps.com/xwdt/gsgg/202609/23/1662676311596902373.html",
+      "reason": "地理编辑社招，2027毕业可否接受及入职时间未明确，未新增。"
+    },
+    {
+      "url": "https://www.cea.gov.cn/cea/zwgk/rsxx/ryzp/5855536/index.html",
+      "reason": "官方正文及xlsx附件403，未完成岗位专业核验，不入库。"
+    }
+  ],
+  "note": "旧记录未因未重新搜到而删除；旧记录保留不表示本轮全部逐条复核。云端leads及collector-status保持不变。",
+  "result": {
+    "added": 2,
+    "changed": 1,
+    "removed": 1,
+    "total": 71,
+    "addedIds": [
+      "cdb-shanxi-industry-investment-2027",
+      "cdb-shanxi-economic-finance-2027"
+    ],
+    "jobsCommit": "76c9f6af89234db74d2df2b21b4131fca114d073"
+  },
+  "sevenDayDeadline": [
+    {
+      "id": "boc-js-nanjing-general-service-2027",
+      "org": "中国银行南京分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-js-wuxi-general-service-2027",
+      "org": "中国银行无锡分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-js-changzhou-general-service-2027",
+      "org": "中国银行常州分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-js-nantong-general-service-2027",
+      "org": "中国银行南通分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-js-zhenjiang-general-service-2027",
+      "org": "中国银行镇江分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-js-yangzhou-general-service-2027",
+      "org": "中国银行扬州分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-js-yancheng-general-service-2027",
+      "org": "中国银行盐城分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-js-lianyungang-general-service-2027",
+      "org": "中国银行连云港分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-js-taizhou-general-service-2027",
+      "org": "中国银行泰州分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-js-xuzhou-general-service-2027",
+      "org": "中国银行徐州分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-js-huaian-general-service-2027",
+      "org": "中国银行淮安分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-js-suqian-general-service-2027",
+      "org": "中国银行宿迁分行",
+      "title": "营业网点业务岗位（综合服务）",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-shanghai-training-rd-2027",
+      "org": "中国银行上海高级研修院",
+      "title": "培训研发岗",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "boc-beijing-training-rd-2027",
+      "org": "中国银行北京高级研修院",
+      "title": "培训研发岗",
+      "deadline": "2026-10-09"
+    },
+    {
+      "id": "cdb-shanxi-industry-investment-2027",
+      "org": "国家开发银行山西省分行",
+      "title": "产业投融岗",
+      "deadline": "2026-10-07"
+    },
+    {
+      "id": "cdb-shanxi-economic-finance-2027",
+      "org": "国家开发银行山西省分行",
+      "title": "经济金融岗",
+      "deadline": "2026-10-07"
+    }
+  ],
+  "travel": "新增国开行先网申，正式通知后再出行；奉贤中学需现场审核和考试，先确认专业英语及材料条件。"
+}

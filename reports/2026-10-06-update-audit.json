@@ -1,0 +1,210 @@
+{
+  "date": "2026-10-06",
+  "repository": "peggie1/job-radar",
+  "counts": {
+    "before": 75,
+    "added": 1,
+    "changed": 0,
+    "removed": 0,
+    "after": 76,
+    "newCampusRecruitment": 1
+  },
+  "cloud": {
+    "poolCount": 115,
+    "newLeadsDatedToday": 0,
+    "successfulSources": 22,
+    "totalSources": 22,
+    "statusQualification": "采集器自报22个来源成功；其中18个关键词来源accepted=0，南开关键词检索另报12次搜索失败。不能将来源成功等同逐岗核验成功。",
+    "screenedLeadsThisRun": 5,
+    "promoted": 0,
+    "preliminaryExcluded": 1,
+    "pendingVerification": 4,
+    "reason": "云南移动简章所列岗位专业与人文地理不符，未晋级；湖南联通、浙江联通、物产中大、浙江交通集团需具体岗位原文，门户空白/不可读，保留待核验。未改写云端leads或collector-status，新增育才来自人工检索而非线索池晋级。"
+  },
+  "added": [
+    {
+      "id": "shanghai-yucai-geography-teacher-2027",
+      "source": "https://mp.weixin.qq.com/s/rAMaHpxTgQZypP-MYxCgcg",
+      "sourceTrace": "http://www.yucai.edu.sh.cn/info/iIndex.jsp?cat_id=5003",
+      "note": "学校官网校园新闻链接学校官微；已读原文并交叉华东师大就业转载。地理教师明确、2027届、邮件投递；人数/截止/编制/考核未说明，正式政策待教育局公布。"
+    }
+  ],
+  "screening": {
+    "scope": "本次分组检索天津/苏锡常/杭湖嘉/太原晋城长治及补充城市、全国其他；交叉教育局、学校、就业网、国家大学生就业平台、国企门户与教育出版。分组搜索不代表逐个城市所有官方网站已核验。",
+    "readOrCheckedSources": [
+      "上海市奉贤中学教育局公告",
+      "上海市育才中学官网及学校官微",
+      "北大附中官网2027招聘",
+      "北京亦庄实验中学南开原始简章",
+      "中国地图出版社科普和少儿分社原始公告",
+      "中国国家地理官网招聘",
+      "上海国资委2027校招活动",
+      "南开/天津工业大学就业网",
+      "国家大学生就业服务平台"
+    ],
+    "notAdmitted": {
+      "count": 4,
+      "items": [
+        "中国地图出版社地理编辑：专业和硕士匹配但属社会招聘，未写2027届或毕业时间，不将2027年才取得硕士视作当前已满足。",
+        "中国国家地理文字编辑：需3年以上媒体编辑经历；不符。",
+        "人教上海地理编辑第三方线索：需5年经验及中级职称；不符。",
+        "数字绿土：并非已确认国有控股，未按国企入库。"
+      ]
+    },
+    "pending": [
+      "上海其他学校原始官微读取未完成",
+      "深圳理工附中预公告官网404，未按有效岗位入库",
+      "浙江交投管培生专业不限为第三方说法，官网空白，未晋级",
+      "上海国资委1250个岗位为招聘活动总量，未拆出合格具体岗位，不计新增"
+    ],
+    "limitations": [
+      "银行及运营商动态门户读取失败/空白时保留原记录，不据此删除或新增。",
+      "本次未逐条重读75个旧岗位附件；仅做全量日期/ID/字段检查并重点复核学校及近期线索。"
+    ]
+  },
+  "sevenDayDeadlines": [
+    {
+      "id": "boc-js-nanjing-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行南京分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-js-wuxi-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行无锡分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-js-changzhou-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行常州分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-js-nantong-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行南通分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-js-zhenjiang-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行镇江分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-js-yangzhou-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行扬州分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-js-yancheng-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行盐城分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-js-lianyungang-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行连云港分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-js-taizhou-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行泰州分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-js-xuzhou-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行徐州分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-js-huaian-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行淮安分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-js-suqian-general-service-2027",
+      "title": "营业网点业务岗位（综合服务）",
+      "org": "中国银行宿迁分行",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-shanghai-training-rd-2027",
+      "title": "培训研发岗",
+      "org": "中国银行上海高级研修院",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "boc-beijing-training-rd-2027",
+      "title": "培训研发岗",
+      "org": "中国银行北京高级研修院",
+      "deadline": "2026-10-09",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "id": "cdb-shanxi-industry-investment-2027",
+      "title": "产业投融岗",
+      "org": "国家开发银行山西省分行",
+      "deadline": "2026-10-07",
+      "url": "https://cdb2027.zhaopin.com/jobs/index.html?id=10126815"
+    },
+    {
+      "id": "cdb-shanxi-economic-finance-2027",
+      "title": "经济金融岗",
+      "org": "国家开发银行山西省分行",
+      "deadline": "2026-10-07",
+      "url": "https://cdb2027.zhaopin.com/jobs/index.html?id=10126815"
+    },
+    {
+      "id": "ccb-shanxi-client-manager-2027",
+      "title": "客户经理岗（市区机构须确认）",
+      "org": "中国建设银行山西省分行",
+      "deadline": "2026-10-08",
+      "url": "https://job1.ccb.com/cn/job/announcement.html?annoId=20260902185007699802&planType=XY&isImpAnno=1"
+    },
+    {
+      "id": "ccb-shanxi-management-trainee-2027",
+      "title": "管理培训生（通用方向；院校与英语待核）",
+      "org": "中国建设银行山西省分行",
+      "deadline": "2026-10-08",
+      "url": "https://job1.ccb.com/cn/job/announcement.html?annoId=20260902185007699802&planType=XY&isImpAnno=1"
+    },
+    {
+      "id": "ccb-wealth-headquarters-2027",
+      "title": "总部经办岗（英语条件待核）",
+      "org": "建信理财有限责任公司",
+      "deadline": "2026-10-08",
+      "url": "https://job2.ccb.com/cn/job/mobilev3/notice_detail.html?annoId=20260902182641699801"
+    }
+  ],
+  "offlineAttendance": {
+    "newJob": "育才未说明考核和面试形式，不虚构线下要求。",
+    "existing": "奉贤公告含通知后现场审核及试教；建行、国开旧记录列线下笔试。是否收到通知及具体考点不得推测。"
+  },
+  "travelAdvice": "育才先邮件报名，拿到正式面试再去；本次没有新增可确认值得专程去的现场活动。",
+  "priorityOpen": [
+    "育才地理教师，专业/证书方向相关，先确认普通话等级、专业认可和正式编制政策。",
+    "奉贤高中地理1人，10月14日截止，英语及专业认定需确认。",
+    "国开山西两岗10月7日，建行山西两岗及建信理财10月8日，中行相关10月9日；均非教师强匹配岗，先核对个人条件。"
+  ]
+}

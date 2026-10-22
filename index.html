@@ -23,6 +23,21 @@
     @media(min-width:700px){header{padding-top:44px}.summary{max-width:1012px;margin:-48px auto 18px}.quick-grid{grid-template-columns:repeat(4,1fr)}.advanced-grid{grid-template-columns:repeat(4,1fr)}.list{grid-template-columns:1fr 1fr}.detail-grid{grid-template-columns:1fr 1fr}main{padding-bottom:45px}nav{display:none}}
     @media(max-width:520px){.summary{grid-template-columns:1fr 1fr;margin-top:-49px}.metric{padding:12px 13px}.metric b{font-size:23px}.metric small{display:none}.brandcopy h1{font-size:22px}.section-title{align-items:center}.job:hover{transform:none}}
     .progress-tools{margin-top:14px;padding-top:12px;border-top:1px solid var(--line)}.progress-tools p{font-size:12px;line-height:1.6;color:var(--muted);margin:8px 0}.progress-buttons,.view-tabs{display:flex;flex-wrap:wrap;gap:8px}.view-tabs{margin-bottom:14px}.view-tabs button.active{background:var(--green);color:#fff}.personal-progress{background:#f0f5f2;border:1px solid #d5e4dc;border-radius:12px;padding:11px;margin:12px 0}.progress-row{display:flex;flex-wrap:wrap;gap:9px;align-items:center;justify-content:space-between}.progress-badge{font-size:12px;font-weight:650;color:#476059}.progress-badge.applied{color:#235da5}.progress-badge.rejected{color:#85644a}.progress-badge.pending{color:#906511}.progress-note{font-size:13px;line-height:1.6;white-space:pre-wrap;overflow-wrap:anywhere;margin-top:7px}.personal-progress small{display:block;color:var(--muted);font-size:11px;margin-top:7px}.progress-notice{font-size:12px;line-height:1.6;color:var(--green);overflow-wrap:anywhere;margin-top:8px}.progress-dialog{width:min(480px,calc(100vw - 28px));border:1px solid var(--line);border-radius:18px;padding:22px;color:var(--ink);max-height:90vh;overflow:auto}.progress-dialog::backdrop{background:#102e2677}.progress-dialog h2{font-size:20px;margin:0 0 8px}.progress-dialog .field{margin:14px 0}.progress-dialog textarea{font:inherit;width:100%;padding:10px;border:1px solid var(--line);border-radius:10px;resize:vertical;min-height:110px}.progress-dialog label{font-size:13px}.progress-dialog p{font-size:13px;line-height:1.6;overflow-wrap:anywhere}.progress-dialog .dialog-actions{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:8px}.progress-error{color:var(--red);font-size:13px;line-height:1.6}.progress-tools .field{max-width:360px}
+
+    /* Keep long recruitment text inside its grid column at every viewport size. */
+    .list,.detail-grid{grid-template-columns:minmax(0,1fr)}
+    .quick-grid,.advanced-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+    .job,.field,.detail,.top>div,.progress-row>*{min-width:0}
+    .job,.scope-note,.progress-tools{overflow-wrap:anywhere}
+    .meta>span{min-width:0;max-width:100%}
+    .foot,.actions{flex-wrap:wrap;gap:8px}
+    .foot>span{min-width:0;flex:1 1 100px}
+    .section-title{flex-wrap:wrap;gap:10px}
+    .status{max-width:100%;overflow-wrap:anywhere}.status span{min-width:0}
+    @media(min-width:700px){
+      .list,.detail-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+      .quick-grid,.advanced-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+    }
   </style>
 </head>
 <body>

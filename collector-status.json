@@ -1,8 +1,8 @@
 {
-  "updatedAt": "北京时间 2026-10-21 11:38",
+  "updatedAt": "北京时间 2026-10-22 11:37",
   "successfulSources": 22,
   "totalSources": 22,
-  "newOrSeen": 137,
+  "newOrSeen": 141,
   "reports": [
     {
       "name": "地理教师校招",
@@ -67,7 +67,7 @@
     {
       "name": "自然资源应届",
       "status": "ok",
-      "found": 10,
+      "found": 7,
       "accepted": 0
     },
     {
@@ -79,7 +79,7 @@
     {
       "name": "能源交通规划",
       "status": "ok",
-      "found": 10,
+      "found": 7,
       "accepted": 0
     },
     {
@@ -115,10 +115,10 @@
     {
       "name": "南开大学就业网最新招聘",
       "status": "ok",
-      "found": 87,
-      "accepted": 18,
+      "found": 104,
+      "accepted": 20,
       "listingPagesFailed": 0,
-      "detailPages": 108
+      "detailPages": 113
     },
     {
       "name": "河北工业大学就业网最新招聘",
@@ -131,17 +131,17 @@
     {
       "name": "天津工业大学就业网最新招聘",
       "status": "ok",
-      "found": 0,
-      "accepted": 0,
-      "listingPagesFailed": 3,
-      "detailPages": 0
+      "found": 1,
+      "accepted": 1,
+      "listingPagesFailed": 0,
+      "detailPages": 1
     },
     {
       "name": "南开大学就业网关键词检索",
       "status": "ok",
-      "found": 4,
+      "found": 5,
       "accepted": 0,
-      "searchesFailed": 8,
+      "searchesFailed": 5,
       "detailPages": 5
     }
   ]

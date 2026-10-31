@@ -1,5 +1,5 @@
 {
-  "updatedAt": "北京时间 2026-10-30 12:43",
+  "updatedAt": "北京时间 2026-10-31 12:27",
   "successfulSources": 22,
   "totalSources": 22,
   "newOrSeen": 114,
@@ -61,7 +61,7 @@
     {
       "name": "城市产业研究",
       "status": "ok",
-      "found": 7,
+      "found": 10,
       "accepted": 0
     },
     {
@@ -79,13 +79,13 @@
     {
       "name": "能源交通规划",
       "status": "ok",
-      "found": 6,
+      "found": 10,
       "accepted": 0
     },
     {
       "name": "地理事业单位",
       "status": "ok",
-      "found": 7,
+      "found": 10,
       "accepted": 0
     },
     {
@@ -115,10 +115,10 @@
     {
       "name": "南开大学就业网最新招聘",
       "status": "ok",
-      "found": 100,
-      "accepted": 18,
+      "found": 92,
+      "accepted": 15,
       "listingPagesFailed": 0,
-      "detailPages": 106
+      "detailPages": 92
     },
     {
       "name": "河北工业大学就业网最新招聘",
@@ -139,10 +139,10 @@
     {
       "name": "南开大学就业网关键词检索",
       "status": "ok",
-      "found": 0,
+      "found": 6,
       "accepted": 0,
-      "searchesFailed": 6,
-      "detailPages": 0
+      "searchesFailed": 7,
+      "detailPages": 6
     }
   ]
 }

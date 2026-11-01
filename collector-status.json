@@ -1,5 +1,5 @@
 {
-  "updatedAt": "北京时间 2026-10-31 12:27",
+  "updatedAt": "北京时间 2026-11-01 12:47",
   "successfulSources": 22,
   "totalSources": 22,
   "newOrSeen": 114,
@@ -115,10 +115,10 @@
     {
       "name": "南开大学就业网最新招聘",
       "status": "ok",
-      "found": 92,
+      "found": 93,
       "accepted": 15,
       "listingPagesFailed": 0,
-      "detailPages": 92
+      "detailPages": 96
     },
     {
       "name": "河北工业大学就业网最新招聘",
@@ -139,10 +139,10 @@
     {
       "name": "南开大学就业网关键词检索",
       "status": "ok",
-      "found": 6,
+      "found": 3,
       "accepted": 0,
-      "searchesFailed": 7,
-      "detailPages": 6
+      "searchesFailed": 4,
+      "detailPages": 5
     }
   ]
 }

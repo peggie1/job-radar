@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "scripts/collect_jobs.py"
+      - "scripts/test_collect_jobs.py"
       - "collector-sources.json"
       - ".github/workflows/collect-jobs.yml"
   schedule:
@@ -28,6 +29,8 @@ jobs:
           python-version: "3.12"
       - name: Sync latest database state
         run: git pull --ff-only origin main
+      - name: Verify discovery and coverage regression tests
+        run: python -m unittest discover -s scripts -p test_collect_jobs.py
       - name: Discover current recruitment leads
         run: python scripts/collect_jobs.py
       - name: Save refreshed lead pool

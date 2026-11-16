@@ -1,6 +1,6 @@
 {
   "updatedAt": "北京时间 2026-11-15 13:12",
-  "leadCount": 275,
+  "leadCount": 281,
   "leads": [
     {
       "id": "lead-b45d000f5bea8d9a",
@@ -5294,16 +5294,16 @@
     },
     {
       "id": "manual-tianjin-hightech-snnu-20261118-unverified",
-      "title": "天津高新区秋季校园招聘陕西师大点位（原简章已读，具体地理岗附件仍待核）",
+      "title": "天津高新区陕西师大点位：具体地理岗附件仍待核",
       "url": "https://gxqjyzp.zhaopin.com",
       "leadSourceUrl": "https://www.jvcit.bysjy.com.cn/detail/online?id=3637943",
       "publishedAt": "2026-11-11",
       "deadline": "2026-11-19",
-      "reason": "高校转载检索正文称11/19 09:00报名截止，11/18陕西师大宣讲后现场复审，2027-08-31取证；其他学科四级425及以上、普通话二乙。聘后劳动合同/半年试用，不可标事业编。官方门户HTTPS跳转HTTP，高校转载证书域名不符，未绕过安全校验；岗位表未获取，未确认地理具体岗位/学历/专业，不计15个可报岗。",
+      "reason": "原简章15人计划和11月19日09:00期限已在昨日读通，本日查明所谓附件图片仅二维码。尚无具体地理岗位及专业表，不能晋级。19人旧点位和大学平台不限专业/薪资不套用。劳动合同、试用期半年，未明事业编；不能因宣讲要求专程去。",
       "travelAdvice": "拿到正式面试再去",
       "automated": false,
       "verificationStatus": "待核验线索",
-      "lastSeenAt": "2026-11-15",
+      "lastSeenAt": "2026-11-16",
       "type": "未说明",
       "graduateYear": "应届生可报（待确认届别）",
       "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）",
@@ -5313,8 +5313,8 @@
       "sourceLevel": "高校就业网雇主原始完整简章；招聘站公开配置二次核截止；岗位附件未完成",
       "addedAt": "2026-11-11",
       "recruitChannel": "校园招聘",
-      "interviewMode": "需线下面试",
-      "travelReason": "如具体地理岗专业与证书确认相符，教学竞争方向值得申请，但本批原文为签劳动合同且未承诺事业编，岗位待遇尚不明。先确认具体学校、专业及资格审核，确需现场复审和正式考核再评估赴西安成本，不只为宣讲出行。",
+      "interviewMode": "宣讲会现场面试",
+      "travelReason": "地理具体岗和专业条件还未闭环，先核计划表和招聘形式；不要只为11月18日陕西师大宣讲跨城。若有正式地理试讲邀请再按匹配度、待遇和路费决定。",
       "important": [
         "本日已读通11月13日西电由社会发展局发布的完整原简章，15人总计划初高中教师，2027及2025/26未就业硕士及以上；未取得具体岗位表，不能断言其中有地理岗或以15当可报岗位数。",
         "11月19日09:00报名及改报截止，由原简章和公告指定招聘站公开site配置交叉印证；大学通用过期时间2027年1月13日不是报名期。每人限1岗，提交后仅允许修改一次报考学校，其余信息不可改。",
@@ -5354,7 +5354,7 @@
     },
     {
       "id": "tianjin-xiqing-campus-event-posts-still-pending",
-      "title": "天津西青教育11月校园活动（具体地理岗待核）",
+      "title": "西青区教育局校园宣讲：仍缺具体岗位及专业表",
       "org": "天津市西青区教育局",
       "positionCategory": "待核具体岗位",
       "unitCategory": "未核验",
@@ -5389,13 +5389,13 @@
       "automated": false,
       "historical": false,
       "addedAt": "2026-11-08",
-      "lastSeenAt": "2026-11-15",
+      "lastSeenAt": "2026-11-16",
       "recruitChannel": "校园招聘",
       "interviewMode": "未说明",
       "travelAdvice": "不建议专程去",
-      "travelReason": "高校页只有宣讲活动，具体地理岗位、专业、聘用方式和正式考核通知都未核到，不应只为宣讲跨城。",
+      "travelReason": "尚无已核具体地理岗位和面试必要性，先取岗位表和网申入口，不因有宣讲就花跨城路费。",
       "url": "https://ccnu.91wllm.cn/teachin/view/id/254167",
-      "reason": "华中师大日历列11/19 10:00-11:30 B203、华科日历列11/20 10:00 B304；原具体页超时，尚无地理岗位表和投递资格。第三方80人为宣讲总体不能入岗位总数，旧11/12日期不优先于当前大学日历。",
+      "reason": "当前仅宣讲线索及旧春招公示，80人总口径不是地理可报人数。日期点位需与主管部门原文复核，不以高校活动日直接作统一报名截止。",
       "decision": "11月10日再次读到官方活动页，11月19日10:00—11:30；无具体学校、学科岗位表、资格与正式报名入口，不计岗位。",
       "firstDiscoveredToday": false,
       "sourceEvidence": [
@@ -5653,9 +5653,9 @@
     },
     {
       "id": "manual-nfcb-editor-campus-2027-details-20261112",
-      "title": "南方出版传媒2027编辑校招（具体地理可报岗位待拆分）",
+      "title": "南方传媒2027届校园招聘",
       "org": "南方出版传媒股份有限公司及所属具体招聘单位待核",
-      "url": "https://nfcb2027.zhaopin.com/jobs/index.html",
+      "url": "https://www.nfcb.com.cn/contents/141/1617.html",
       "sourceTitle": "南方出版传媒2027校招门户及华南师范大学就业网原始简章线索",
       "secondaryUrl": "https://career.scnu.edu.cn/detail/online?id=3632732",
       "sourceLevel": "雇主官方招聘门户；高校雇主原始简章索引",
@@ -5672,10 +5672,11 @@
         "不能把集团11家出版社、泛编辑/采编类别计为具体新增岗位；第三方11月15日期限不填成已核deadline。"
       ],
       "summary": "继续待核，不从无数据推断全部招聘结束；本日未晋级。",
-      "lastSeenAt": "2026-11-13",
+      "lastSeenAt": "2026-11-16",
       "type": "未说明",
       "graduateYear": "应届生可报（待确认届别）",
-      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）"
+      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）",
+      "reason": "第三方引原文称11月15日截止，但官网本日读取HTTP418，指定智联仅动态外壳，无具体编辑专业全文；不能以第三方当正式截止证据，也不能继续当当前已核岗位。保留待核，不晋级，若官方确认截止应转排除。"
     },
     {
       "id": "manual-tj-meteorological-2027-first",
@@ -5706,7 +5707,7 @@
     },
     {
       "id": "manual-sinomaps-popular-science-editor-20261109",
-      "title": "中国地图出版社科普和少儿分社地理编辑（2027在读是否可报待确认）",
+      "title": "中国地图出版社科普少儿地理编辑",
       "org": "中国地图出版社集团有限公司",
       "url": "https://www.sinomaps.com/xwdt/gsgg/202609/23/1662676311596902373.html",
       "sourceTitle": "中国地图出版集团官网2026-09-23原招聘公告",
@@ -5723,14 +5724,19 @@
         "职责为科普少儿地理选题编辑及新媒体宣传，原始邮箱入口在官方页。未确认2027前不作为已核验当前可报。"
       ],
       "summary": "专业契合但届别和当前时效仍未闭环，保留旧线索。",
-      "lastSeenAt": "2026-11-15",
+      "lastSeenAt": "2026-11-16",
       "salaryMin": 10000,
       "type": "未说明",
       "graduateYear": "应届生可报（待确认届别）",
       "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）",
       "sourceLevel": "用人单位官网完整原文",
       "city": "北京",
-      "province": "北京"
+      "province": "北京",
+      "duplicateLeadIds": [
+        "sinomaps-geography-editor-social-2026-pending-2027",
+        "sinomaps-child-science-geography-editor-social-2026-lead"
+      ],
+      "reason": "延续旧线索：社会招聘没有2027应届/在读预聘口径，也无具体截止。专业契合不等于当前仍招且接受2027，未获得补充依据，不晋级。"
     },
     {
       "id": "manual-esph-printing-fresh-20261109",
@@ -5881,7 +5887,7 @@
     },
     {
       "id": "manual-hnhkgtz-industry-investment-2027-major-pending",
-      "title": "河南航空港投资集团产业投资类（人文地理专业边界待确认）",
+      "title": "河南航空港产业投资类",
       "org": "河南航空港投资集团有限公司（实际录用企业统筹分配）",
       "url": "https://wecruit.hotjob.cn/SU6735e9281c240e0191ec9aae/pb/school.html",
       "secondaryUrl": "https://career.nankai.edu.cn/correcruit/content/id/120540.html",
@@ -5897,10 +5903,12 @@
         "专业列AI、神经生物、材料、电子、航空等理工相关与金融、投资、资产评估等经管相关，人文地理未明；不能据“理工”两个字推定可报。薪酬按企业制度且集团统筹分配，具体劳动合同主体尚未读明。"
       ],
       "summary": "从旧云公告拆出具体待确认方向，不晋级、不计新增已核。",
-      "lastSeenAt": "2026-11-13",
+      "lastSeenAt": "2026-11-16",
       "type": "未说明",
       "graduateYear": "应届生可报（待确认届别）",
-      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）"
+      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）",
+      "deadline": "2026-11-16",
+      "reason": "详见云线索核验；人文地理是否属岗位理工相关专业未明确，不能自动晋级。"
     },
     {
       "id": "cppg-science-editor-2027-original-and-english-pending",
@@ -6557,7 +6565,7 @@
     },
     {
       "id": "beijing55-geography-2027-unverified",
-      "title": "北京市第五十五中学2027地理教师线索",
+      "title": "北京市第五十五中学2027地理教师：原官微仍未读通",
       "org": "北京市第五十五中学",
       "url": "https://mp.weixin.qq.com/s/ylzF1OYExOFXPvA0oOVeuQ",
       "discoveryUrl": "https://m.gaoxiaojob.com/announcement/detail/433521.html",
@@ -6566,14 +6574,15 @@
       "automated": false,
       "decision": "转载写2027统招非定向硕士及以上、相应教资、地理教师，但又须符合东城区教委条件；原官微未读，不能仅凭转载认定非京生源可报或编制性质，不入jobs。",
       "originalPublishedAtFromThirdParty": "2026-09-23",
-      "lastSeenAt": "2026-11-10",
+      "lastSeenAt": "2026-11-16",
       "type": "未说明",
       "graduateYear": "应届生可报（待确认届别）",
-      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）"
+      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）",
+      "reason": "第三方完整转载有2027硕士地理、事业编和户口说法，仍未读通学校原文，不据第三方承诺晋级。"
     },
     {
       "id": "beijing-shiyi-zhongtang-yifen-geography-2027-unverified",
-      "title": "北京十一学校中堂实验学校、北京市十一学校一分校2027地理教师线索",
+      "title": "北京十一学校中堂/一分校地理教师：与北京十一中新岗区分",
       "org": "北京十一学校中堂实验学校、北京市十一学校一分校",
       "url": "https://mp.weixin.qq.com/s/-UMCuunlG88UTEHtN5c-qQ",
       "discoveryUrl": "https://m.gaoxiaojob.com/announcement/detail/435158.html",
@@ -6582,14 +6591,15 @@
       "automated": false,
       "decision": "转载写2027硕士、相关专业、不限生源，含初高中地理及邮件入口，可能匹配；但原官微读取失败，尚未完成原文/单位用工性质与当前期限核验，不入jobs。",
       "originalPublishedAtFromThirdParty": "2026-10-05",
-      "lastSeenAt": "2026-11-10",
+      "lastSeenAt": "2026-11-16",
       "type": "未说明",
       "graduateYear": "应届生可报（待确认届别）",
-      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）"
+      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）",
+      "reason": "第三方转载称2027相关专业硕博不限生源，可作线索；尚未原官微闭环。不与东城区北京市第十一中学混同，也不把集团两校总学科数计岗位。"
     },
     {
       "id": "beijing-huimin-geography-2027-unverified",
-      "title": "北京市回民学校2027地理教师线索（与代课岗位需区分）",
+      "title": "北京市回民学校2027地理教师：原文及正式/代课性质待核",
       "org": "北京市回民学校",
       "url": "https://mp.weixin.qq.com/s/_f0GZNb6g2qyW5TXWlFSEA",
       "discoveryUrl": "https://m.gaoxiaojob.com/announcement/detail/436164.html",
@@ -6598,10 +6608,11 @@
       "automated": false,
       "decision": "转载写2026/2027非京籍全日制研究生、相应高中教资且无补考，含地理并同步招代课；原官微及二维码入口未读取，正式教师与代课用工、当前报名期限未核，不入jobs。",
       "originalPublishedAtFromThirdParty": "2026-10-10",
-      "lastSeenAt": "2026-11-10",
+      "lastSeenAt": "2026-11-16",
       "type": "未说明",
       "graduateYear": "应届生可报（待确认届别）",
-      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）"
+      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）",
+      "reason": "学校官网本日超时、官微未读通，第三方称同时招正式教师与代课，不能混标编制或使用旧官网邮箱代替当前二维码入口。"
     },
     {
       "id": "manual-gig-gdas-2027-campus-20261109",
@@ -7475,7 +7486,7 @@
     },
     {
       "id": "cr-land-2027-campus-pool",
-      "title": "城市运营/招商运营等2027校招岗位池（需二次选岗）",
+      "title": "华润万象商业2027营运/推广具体岗",
       "org": "华润置地有限公司",
       "positionCategory": "城市运营/商业运营",
       "unitCategory": "中央企业所属单位",
@@ -7515,12 +7526,13 @@
       "automated": false,
       "historical": false,
       "addedAt": "2026-09-09",
-      "lastSeenAt": "2026-11-08",
+      "lastSeenAt": "2026-11-16",
       "recruitChannel": "校园招聘",
       "interviewMode": "未说明",
       "travelAdvice": "拿到正式面试再去",
       "travelReason": "城市运营方向与人文地理有一定关联，但具体岗位专业口径和面试城市尚不明确；先网申并电话确认，收到正式线下面试邀请后再安排跨城。",
-      "url": "https://app.mokahr.com/campus-recruitment/crland/168540?locale=zh-CN"
+      "url": "https://app.mokahr.com/campus-recruitment/crland/168540?locale=zh-CN",
+      "reason": "保留原池，不将公司总校招或第三方截止认定为当前具体岗。营运涉及商户经营、租金和客流转化，招商有业务指标；不是纯商圈研究。未新增完整官方具体岗资格。"
     },
     {
       "id": "picc-zhanjiang-geoinfo-mt-2027",
@@ -12110,7 +12122,7 @@
     },
     {
       "id": "manual-esph-knowledge-product-manager-2027-pending",
-      "title": "教育科学出版社产品经理（知识付费方向，2027及专业待确认）",
+      "title": "教育科学出版社产品经理（知识付费方向）",
       "org": "教育科学出版社有限公司",
       "url": "https://www.esph.com.cn/zxzx/tzgg/39697375fece4958807b24b214508f0a.htm",
       "sourceLevel": "用人单位官网完整原文",
@@ -12125,10 +12137,11 @@
         "工作含知识付费产品、短视频直播推广、渠道拓展与运营，不得隐去营销内容；熟悉教育数字产品开发审核出版全流程及AIGC是明示技能要求，现有GIS基础不等同产品开发经验。"
       ],
       "summary": "新拆分具名待核线索，不计已核岗位。",
-      "lastSeenAt": "2026-11-13",
+      "lastSeenAt": "2026-11-16",
       "type": "未说明",
       "graduateYear": "应届生可报（待确认届别）",
-      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）"
+      "nature": "自动发现公告/线索（单位性质、编制及岗位条件待核验）",
+      "reason": "正式岗位包含数字内容策划、渠道推广及短视频直播营销，并非纯科普教研。『教育学、中文、新闻传播、科学等相关专业』是否含人文地理、及2027应届预聘均未明确；还需熟悉数字出版全流程及AIGC，经验优先不能抹除基础能力要求。不晋级。"
     },
     {
       "title": "上海闵行2027第一批具体学校地理岗位（待拆学校）",
@@ -13417,13 +13430,13 @@
     },
     {
       "id": "manual-hangzhou-xihu-high-geography-nonstaff-20261115-pending",
-      "title": "杭州市西湖高级中学地理1人（非事业，2027届受理及用工待核）",
+      "title": "杭州市西湖高级中学地理1人（非事业，2027在读受理和到岗待核）",
       "org": "杭州市西湖高级中学",
       "province": "浙江",
       "city": "杭州",
       "url": "https://www.hzxh.gov.cn/col/col1228967836/art/2026/art_1d98ffc7cdcb47e9a7df04ce228f1afe.html",
       "clueUrl": "https://www.gaoxiaojob.com/announcement/detail/445280.html",
-      "sourceLevel": "第三方发现，政府原文不可读",
+      "sourceLevel": "政府原文已读",
       "verificationStatus": "待核验线索",
       "automated": false,
       "addedAt": "2026-11-15",
@@ -13431,13 +13444,14 @@
       "recruitChannel": "未说明",
       "interviewMode": "未说明",
       "travelAdvice": "拿到正式面试再去",
-      "travelReason": "地理专业和高中教资方向相关，但属于非事业岗位，是否允许2027在读者、到岗时间及合同待遇不明，先远程核清再考虑行程。",
+      "travelReason": "地理专业、教资匹配，但非事业岗位且是否接受2027在读及何时到岗未说明，先远程确认合同、待遇和资格，暂不安排跨城。",
       "important": [
-        "第三方11月13日转载明确地理1人、非事业、本科以上、专业对口及高中相应教资，但政府原文未读通。",
-        "未说明2027届或应届在读者可报、何时到岗、合同主体、派遣或直签、期限和待遇，不能因持教资就认定现阶段可报，也不冒充教师编。"
+        "本日已读原政府正文，实际发布2026-11-11；地理1人，非事业，本科及以上、专业对口、高中相应教资。",
+        "未明确2027届、在读可报、到岗日期、截止、薪资、住宿、直签或派遣。不能因学历教资满足就认定在读应届可报，不晋级jobs。",
+        "简历邮箱185952336@qq.com，计老师0571-56253088、13958143470，西湖区留下街21号。"
       ],
-      "summary": "公办学校编外地理线索，不是已核事业编岗位，保留待核不计新增岗位。",
-      "lastSeenAt": "2026-11-15"
+      "summary": "原政府公办编外地理已读，但2027毕业资格与即时到岗未闭环，更新线索来源状态，不冒充教师编。",
+      "lastSeenAt": "2026-11-16"
     },
     {
       "id": "manual-cah2027-tianjin-environment-geography-20261115",
@@ -13457,7 +13471,89 @@
       ],
       "summary": "补充优先城市天津线索，欠具体岗位与附加要求，不晋级。",
       "lastSeenAt": "2026-11-15"
+    },
+    {
+      "id": "manual-ctg-museum-content-20261116",
+      "title": "中旅数智深圳运营专员（文博内容及小程序）",
+      "url": "https://www.iguopin.com/job/detail?id=220285218366424063",
+      "deadline": "2026-12-31",
+      "reason": "当前具体原岗完整可读，要求至少参观过5家不同等级博物馆，并随简历附本人文物/展览短文。用户条件未确认，不能直接当无作品岗位提交或等同已核适配；用工主体细则未说明，未晋级。",
+      "automated": false,
+      "verificationStatus": "待核验线索",
+      "lastSeenAt": "2026-11-16"
+    },
+    {
+      "id": "manual-suzhou-middle-high-level-intake-20261030-pending",
+      "title": "苏州中学高层次人才信息采集（具体地理岗位和正式招聘待核）",
+      "org": "江苏省苏州中学校",
+      "province": "江苏",
+      "city": "苏州",
+      "url": "https://www.szzx1000.cn/e/action/ShowInfo.php?classid=33&id=11384",
+      "sourceLevel": "学校官网",
+      "verificationStatus": "待核验线索",
+      "automated": false,
+      "addedAt": "2026-11-16",
+      "deadline": null,
+      "important": [
+        "官网10月30日通知只有高层次人才信息采集表图片，当前未取得具体地理名额、完整专业/届别条件或正式报名截止，不把信息采集当已核正式岗位。"
+      ],
+      "summary": "保留公办学校预招聘单位线索，待取得具体地理原公告，不因第三方称2027硕博可报直接晋级。",
+      "lastSeenAt": "2026-11-16"
+    },
+    {
+      "id": "manual-ssdfwz-high-geography-2027-current-status-pending",
+      "title": "上师大附属外国语中学高中地理2027线索（现批接收及用工待核）",
+      "org": "上海师范大学附属外国语中学",
+      "province": "上海",
+      "city": "上海",
+      "url": "https://mp.weixin.qq.com/s/csXqZ68J62bJyV3fjqCH0A",
+      "clueUrl": "https://ccnu.91wllm.cn/teachin/view/id/253601",
+      "sourceLevel": "高校及第三方发现，学校官微验证不可读",
+      "verificationStatus": "待核验线索",
+      "automated": false,
+      "addedAt": "2026-11-16",
+      "deadline": null,
+      "important": [
+        "第三方学校原简章列高中地理、2027本科硕博及邮件ssdfwz@126.com，但原官微出现环境验证，不绕过。华中师大11月2日已经办现场笔试面试试讲，未确认后续是否仍收地理或属于正式/实习岗位；学校官网只空壳。",
+        "不把11月2日场次、全科12人、通用教师职位需求标签当作当前独立地理岗；不套2026年春季松江正式或储备旧岗位表。"
+      ],
+      "summary": "具体地理方向存在原文线索，但本轮当前受理及用工性质仍待核，不计已核新增。",
+      "lastSeenAt": "2026-11-16"
+    },
+    {
+      "id": "manual-tianjin-wuqing-2027-procurement-20261116",
+      "title": "武清2027预计招聘300人采购意向：仅跟踪正式公告",
+      "org": "天津市武清区教育局",
+      "url": "https://120114.bidcenter.com.cn/bidinfo-2-a0f73512c37219a91a34458b48c8460140bb96125ea677e1.html",
+      "reason": "11月12日采购意向为招聘服务准备、预计12月采购；尚未取到主管部门正式报名公告、地理岗位表和资格。第三方仅线索，300人不是可报岗位数，不进入jobs。",
+      "recruitChannel": "未说明",
+      "interviewMode": "未说明",
+      "travelAdvice": "不建议专程去",
+      "travelReason": "这是采购筹备信息，没有当前具体可报职位或正式面试，不需要到天津。",
+      "automated": false,
+      "verificationStatus": "待核验线索",
+      "lastSeenAt": "2026-11-16"
+    },
+    {
+      "id": "manual-citic-puyu-2027-official-role-pending",
+      "url": "https://app135149.dingtalkoxm.com/campus-recruitment/zxcb/100004552#/",
+      "title": "中信出版2027璞玉计划具体编辑岗",
+      "reason": "延续旧线索：官方指定岗位正文与附加实习条件未完整读通。第三方12月31日、专业不限等不能直接作已核依据；少儿助编相关出版社实习条件尤其不能误写成普通优先。不晋级。",
+      "automated": false,
+      "verificationStatus": "待核验线索",
+      "lastSeenAt": "2026-11-16"
+    },
+    {
+      "id": "manual-cn-adc-2027-specific-role-pending-20261116",
+      "url": "https://zhiye.ciiczhaopin.com/#/enterpriseRecruitment?id=2112358423885512704",
+      "title": "中国农业发展集团2027具体产业运营/综合岗",
+      "reason": "官方国资委原文地址已定位但本日工具超时，指定中智项目只有动态外壳。高校和第三方线索称11月16日截止，具体专业/英语/劳动主体/职责尚未闭环，不因有海洋业务就认定用户水产技术专业合格。247总数不当岗位新增。",
+      "officialAnnouncement": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/c36108870/content.html",
+      "possibleDeadline": "2026-11-16",
+      "automated": false,
+      "verificationStatus": "待核验线索",
+      "lastSeenAt": "2026-11-16"
     }
   ],
-  "manualUpdatedAt": "北京时间 2026-11-15 15:48"
+  "manualUpdatedAt": "北京时间 2026-11-16 09:23"
 }

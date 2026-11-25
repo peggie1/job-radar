@@ -1,0 +1,494 @@
+{
+  "date": "2026-11-25",
+  "repository": "peggie1/job-radar",
+  "before": 117,
+  "after": 105,
+  "added": [
+    {
+      "id": "fuzhou-municipal-gezhi-geography-06-2027",
+      "org": "福州格致中学",
+      "title": "高中地理教师（岗位6，合并招考后选岗）",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/tzgg/202611/t20261124_5396336.htm",
+      "channel": "人才引进"
+    },
+    {
+      "id": "fuzhou-municipal-senior-geography-06-2027",
+      "org": "福州高级中学",
+      "title": "完中地理教师（岗位6，合并招考后选岗）",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/tzgg/202611/t20261124_5396336.htm",
+      "channel": "人才引进"
+    },
+    {
+      "id": "fuzhou-municipal-no11-geography-06-2027",
+      "org": "福州第十一中学",
+      "title": "完中地理教师（岗位6，合并招考后选岗）",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/tzgg/202611/t20261124_5396336.htm",
+      "channel": "人才引进"
+    },
+    {
+      "id": "fuzhou-municipal-no19-geography-06-2027",
+      "org": "福州第十九中学",
+      "title": "初中地理教师（岗位6，合并招考后选岗）",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/tzgg/202611/t20261124_5396336.htm",
+      "channel": "人才引进"
+    },
+    {
+      "id": "fuzhou-municipal-tsinghua-geography-06-2027",
+      "org": "清华附中福州学校",
+      "title": "完中地理教师（岗位6，合并招考后选岗）",
+      "url": "https://jyj.fuzhou.gov.cn/zwgk/tzgg/202611/t20261124_5396336.htm",
+      "channel": "人才引进"
+    },
+    {
+      "id": "esph-science-editor-campus-2027",
+      "org": "教育科学出版社有限公司",
+      "title": "科学编辑（2027届）",
+      "url": "https://jybzp.chsi.com.cn/home/bul/announcement/ox46z75cse945nsd",
+      "channel": "校园招聘"
+    },
+    {
+      "id": "tianjin-xiqing-zhangjiawo-geo-2-2027",
+      "org": "天津市西青区张家窝中学",
+      "title": "中学地理教师（二）（2027统招，序号4）",
+      "url": "https://www.tjxqjy.cn/show.jsp?classid=200908121006430835&id=202611241035534427",
+      "channel": "统一招考"
+    },
+    {
+      "id": "tianjin-xiqing-shiyan-xiqing-2027",
+      "org": "天津市实验中学西青学校",
+      "title": "中学地理教师（2027统招，序号24）",
+      "url": "https://www.tjxqjy.cn/show.jsp?classid=200908121006430835&id=202611241035534427",
+      "channel": "统一招考"
+    },
+    {
+      "id": "tianjin-xiqing-zhongbei-2027",
+      "org": "天津市西青区中北中学",
+      "title": "中学地理教师（2027统招，序号27）",
+      "url": "https://www.tjxqjy.cn/show.jsp?classid=200908121006430835&id=202611241035534427",
+      "channel": "统一招考"
+    },
+    {
+      "id": "tianjin-xiqing-bureau-affiliated-2027",
+      "org": "天津市西青区教育局直属学校",
+      "title": "中学地理教师（2027统招，序号46）",
+      "url": "https://www.tjxqjy.cn/show.jsp?classid=200908121006430835&id=202611241035534427",
+      "channel": "统一招考"
+    }
+  ],
+  "changed": [
+    {
+      "id": "gdupi-planning-human-geography-2027",
+      "fields": [
+        "applyEnd",
+        "deadline",
+        "headcount",
+        "url",
+        "sourceTitle",
+        "important",
+        "summary"
+      ],
+      "reason": "广东国资发布同文核实12月31日截止、类总计划人数，并修正失效高校简章URL。",
+      "evidence": "https://news.southcn.com/node_414f7aecfc/cf2172f074.shtml"
+    }
+  ],
+  "removed": [
+    {
+      "id": "fuzhou-gulou-middle-geography-15-graduate-2027",
+      "org": "福州市鼓楼区教育局所属区属中学（具体学校未说明）",
+      "title": "中学地理教师（区属中学，岗位15）",
+      "deadline": "2026-11-24",
+      "url": "https://www.gl.gov.cn/xjwz/zwgkml/zdlyxxgk/jyxx/jygg/202611/t20261116_5393408.htm",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-g02-high-geography-first-2027",
+      "org": "上海交通大学附属中学嘉定分校",
+      "title": "高中地理教师（G02；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-g04-high-geography-first-2027",
+      "org": "上海师范大学附属嘉定高级中学",
+      "title": "高中地理教师（G04；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-g05-high-geography-first-2027",
+      "org": "上海市嘉定区安亭高级中学",
+      "title": "高中地理教师（G05；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-g06-high-geography-first-2027",
+      "org": "上海市嘉定区中光高级中学",
+      "title": "高中地理教师（G06；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-g09-high-geography-first-2027",
+      "org": "上海市嘉定区嘉一实验高级中学",
+      "title": "高中地理教师（G09；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-g10-high-geography-first-2027",
+      "org": "上海师范大学附属中学嘉定新城分校",
+      "title": "高中地理教师（G10；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a37-high-geography-first-2027",
+      "org": "中科院上海实验学校（高中分部）",
+      "title": "高中地理教师（A37；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a48-high-geography-first-2027",
+      "org": "上海市嘉定区华东师范大学第五附属学校（高中分部）",
+      "title": "高中地理教师（A48；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a49-high-geography-first-2027",
+      "org": "上海市实验学校嘉定新城分校（高中分部）",
+      "title": "高中地理教师（A49；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a50-high-geography-first-2027",
+      "org": "上海大学附属嘉定实验学校（高中分部）",
+      "title": "高中地理教师（A50；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a09-junior-geography-first-2027",
+      "org": "上海市嘉定区迎园中学",
+      "title": "初中地理教师（A09；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a17-junior-geography-first-2027",
+      "org": "上海市嘉定区徐行中学",
+      "title": "初中地理教师（A17；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a22-junior-geography-first-2027",
+      "org": "上海市嘉定区疁城实验学校",
+      "title": "初中地理教师（A22；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a40-junior-geography-first-2027",
+      "org": "上海师范大学附属第五嘉定实验学校",
+      "title": "初中地理教师（A40；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a47-junior-geography-first-2027",
+      "org": "上海交通大学附属嘉定实验学校",
+      "title": "初中地理教师（A47；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a50-junior-geography-first-2027",
+      "org": "上海大学附属嘉定实验学校",
+      "title": "初中地理教师（A50；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a52-junior-geography-first-2027",
+      "org": "上海市嘉定新城复华学校",
+      "title": "初中地理教师（A52；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a53-junior-geography-first-2027",
+      "org": "上海市嘉定区星慧学校",
+      "title": "初中地理教师（A53；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-a54-junior-geography-first-2027",
+      "org": "上海世外教育附属嘉定云翔中学",
+      "title": "初中地理教师（A54；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-new-tongji-junior-geography-first-2027",
+      "org": "同济大学附属嘉定实验中学（代新开办学校招聘）",
+      "title": "初中地理教师（代新校招聘；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    },
+    {
+      "id": "jiading-new-sumin-junior-geography-first-2027",
+      "org": "上海市嘉定区苏民学校（代新开办学校招聘）",
+      "title": "初中地理教师（代新校招聘；先报学段学科）",
+      "deadline": "2026-11-24",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311",
+      "reason": "报名期限已于2026-11-24结束；仅从当前可报名jobs.json下架，不表示个人申请撤销。"
+    }
+  ],
+  "cloud": {
+    "updatedAt": "北京时间 2026-11-24 16:47",
+    "leadCount": 251,
+    "successfulSources": 11,
+    "connectedSources": 71,
+    "totalSources": 96,
+    "newOrSeen": 91,
+    "recentLeadsReviewed": 3,
+    "promoted": 0,
+    "excluded": [
+      {
+        "id": "lead-fc426481a1c30879",
+        "reason": "高层次社会人员：人才引进须高级职称及10年以上教学经验，另一类为2026博士后出站；2027在读硕士不符",
+        "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202611/t20261124_4956233.html"
+      },
+      {
+        "id": "lead-216a14c5b146a8cc",
+        "reason": "汽车涂料研发限化工材料高分子相关专业/项目，且为非国企，地理画像范围不符",
+        "url": "https://career.nankai.edu.cn/correcruit/content/id/120800.html"
+      },
+      {
+        "id": "lead-207cded83440ef0e",
+        "reason": "已独立重新读取苏州官方XLSX岗位表：Excel行11、岗位8地理教师1人，学历博士研究生，最高学历硕士不符；未晋级",
+        "url": "https://jyj.suzhou.gov.cn/szjyj/gsgg/202611/8040bd3aa0724441b0216483fcdb1e3e.shtml"
+      }
+    ],
+    "pending": [],
+    "disclaimer": "云端251条为公告线索累计池，11个成功来源不代表全地区覆盖或资格核验；本次只优先复核最近新增3条，未将全部251条说成已核验或均已排除。未修改leads.json/collector-status.json；新增岗位URL在页面按既有机制去重。"
+  },
+  "checks": {
+    "retention": "未到期和截止不明的既有岗位保留，不以当天未重新搜到为删除理由；同公告分具体学校/岗位保留稳定ID。",
+    "localRuntime": "默认exec及Node启动报1920；已找到只读require_escalated路径可运行。官方XLS/XLSX只在内存解析，未写本地。GitHub远程提交及JSON校验继续正常。",
+    "personalData": "本次只更新公开招聘事实；不上传用户简历、未公开研究、私人申请状态或证件。"
+  },
+  "reminders": [
+    {
+      "org": "天津西青4条中学地理",
+      "applyStart": "2026-11-26 09:00",
+      "deadline": "2026-12-03 16:00",
+      "detail": "西青本轮限1岗；缴笔试45元到12月5日16:00，12月13日正式笔试须到场，不是等面试才出行。",
+      "url": "https://www.tjxqjy.cn/show.jsp?classid=200908121006430835&id=202611241035534427"
+    },
+    {
+      "org": "教育科学出版社科学编辑",
+      "deadline": "2026-12-02 24:00",
+      "detail": "12月5—6日须确认笔试，12月9/10预测试，12日正式线上笔试；面试另通知，不必只为网申赴京。",
+      "url": "https://jybzp.chsi.com.cn/home/bul/announcement/ox46z75cse945nsd"
+    },
+    {
+      "org": "上海松江区教育局下属学校",
+      "deadline": "2026-11-25",
+      "detail": "20个已拆分地理岗位；报名方式为发材料到意向学校邮箱，不要为投递赴现场。",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html"
+    },
+    {
+      "org": "东北大学综合管理01",
+      "deadline": "2026-11-26",
+      "detail": "线上报名/初试，正式复试线下；是否个人已提交须另查个人回执，不能从公告判断。",
+      "url": "https://rsc.neu.edu.cn/2026/1112/c3972a482793/page.htm"
+    },
+    {
+      "org": "嘉定已报名后的资格审核",
+      "detail": "报名期已结束；11月26日查初审结果，通过者11月27—28日9:00—16:30现场审核，30日前确认笔试。不是本次新报名或面试邀请。",
+      "url": "https://www.jiading.gov.cn/jiaoyu/tzgg/gg/content_983311"
+    }
+  ],
+  "technicalNotes": [
+    "只读require_escalated可运行；默认exec及Node仍异常。检查显示C盘现有约9.2GB空闲；本次未清理或删除文件。",
+    "本地环境为read-only，全部待提交JSON在内存生成、校验，经GitHub工具远端提交；不触碰其他仓库或个人投递记录。",
+    "福州PDF已核文字表头与完整地理行，截图调用未返回可见图像；未声称已视觉验图。"
+  ],
+  "enterpriseScreening": {
+    "newPromoted": 0,
+    "screenedBatches": 12,
+    "fullyReadCurrentEmployerOrOfficial": [
+      "中国供销集团2027南开原始简章",
+      "浙江明日控股2027南开原始简章",
+      "广规科技2027广州大学原始简章/广东国资同文",
+      "中旅2027集团总简章，已有具体岗位不重复计数"
+    ],
+    "candidates": [
+      {
+        "org": "天津市测绘院",
+        "reason": "官方动态门户无可读具体岗，第三方截止冲突，不晋级",
+        "url": "https://tjch.hotjob.cn/"
+      },
+      {
+        "org": "云南南方地勘工程有限公司",
+        "reason": "国土空间规划技术岗人文地理专业明确，但仅索引有文，无2027有效投递入口；长期野外、CAD/MapGIS等差距明显；不移植2026入口",
+        "url": "https://kmlg.bibibi.net/detail/career?id=732092"
+      },
+      {
+        "org": "中国供销集团",
+        "reason": "集团概览不限专业不能替代五类具体岗位专业，官方岗位动态页待核",
+        "url": "https://zggxjt.iguopin.com/job"
+      },
+      {
+        "org": "浙江明日控股",
+        "reason": "客户开发型大宗商品岗非产业研究，当前批成绩排名条件和实际合同主体待核",
+        "url": "https://career.nankai.edu.cn/correcruit/content/id/120671.html"
+      },
+      {
+        "org": "教育科学出版社2027",
+        "reason": "11月23新批次，具体岗位专业/政治附件核验中；不能沿用2026印制职员资格",
+        "url": "https://jybzp.chsi.com.cn/home/bul/announcement/ox46z75cse945nsd"
+      }
+    ],
+    "excludedCluesNotCountedAsOfficiallyVerifiedJobs": [
+      "英大传媒第三方专业表与地理不符",
+      "中国大百科等出版旧批次有11月15截止线索",
+      "重庆测绘院旧批次有11月3截止线索",
+      "江西文演线索实际为8月有经验招聘且截止",
+      "水发征地移民线索有11月17截止"
+    ]
+  },
+  "scope": {
+    "priorityCitiesSearched": [
+      "天津",
+      "苏州",
+      "无锡",
+      "常州",
+      "杭州",
+      "湖州",
+      "嘉兴",
+      "太原",
+      "晋城",
+      "长治"
+    ],
+    "supplementaryCitiesTouched": [
+      "北京",
+      "上海",
+      "南京",
+      "南通",
+      "镇江",
+      "扬州",
+      "绍兴",
+      "宁波",
+      "金华",
+      "广州",
+      "福州"
+    ],
+    "sourceTypes": [
+      "政府教育/人社原公告与岗位附件",
+      "公办学校官网",
+      "国企官方校招门户",
+      "国家大学生就业服务平台",
+      "南开/广州大学/昆明理工大学就业原始简章及活动页"
+    ],
+    "incompleteCoverage": "并未完成上述每城所有区县、下属学校及每个岗位附件的全量核验；部分官方入口403/超时、动态页与XLS/XLSX解析失败。未检索到不等于无招聘，全国其他地区仍可能有遗漏。",
+    "ncss": "已尝试国家大学生就业平台公共入口及相关职位检索，入口超时；未把空页视为无岗。"
+  },
+  "newCampusRecruitment": [
+    {
+      "id": "esph-science-editor-campus-2027",
+      "org": "教育科学出版社有限公司",
+      "title": "科学编辑（2027届）",
+      "url": "https://jybzp.chsi.com.cn/home/bul/announcement/ox46z75cse945nsd",
+      "channel": "校园招聘"
+    }
+  ],
+  "todayFormalVerifiedNotices": 3,
+  "schoolClues": [
+    {
+      "org": "张家窝中学中学地理（一）",
+      "reason": "官方备注适合男性但非明示限男，女性可报与岗位安排需咨询；与已纳入地理（二）不同，暂不作为强匹配晋级。",
+      "source": "同西青官方附表序号3"
+    },
+    {
+      "org": "天津河西",
+      "reason": "预告正式公告拟11月26日发布，尚非完成具体岗位核验，不入jobs"
+    }
+  ],
+  "schoolExclusionClues": [
+    {
+      "org": "扬州中学",
+      "reason": "新报名11月23日已截止，11月25仅缴费截止，官方全文本轮读取失败，不算新增已核岗位"
+    },
+    {
+      "org": "宁海教师",
+      "reason": "11月13截止线索，本轮未重读原文，不算官方已核新增"
+    },
+    {
+      "org": "天津天明/常熟伦华",
+      "reason": "民办学校超本任务范围，不晋级"
+    }
+  ],
+  "exclusionCounts": {
+    "recentCloudNotices": 3,
+    "publisherOtherSpecificPositions": 3,
+    "expiredExistingJobs": 22,
+    "additionalClues": "其余企业/教师线索排除及待核分别列出；不将12批企业线索说成已核验排除12岗。",
+    "moeAnnouncement": 1,
+    "moeSpecificRows": 62,
+    "moeTotalPeople": 93
+  },
+  "moeAudit": {
+    "url": "https://jybzp.chsi.com.cn/home/bul/announcement/lg5fv9z7alo0lhhk",
+    "attachment": "https://jybzp.chsi.com.cn/home/bul/announcement/down/lg5fv9z7alo0lhhk/8jp6m27whacw6c6s",
+    "result": "19单位62条岗位合计93人，逐行专业未接受地理学0705/人文地理/专业不限或理学07；不按规划建设中心名称认定专业符合。",
+    "publisherExcludedRows": 3
+  },
+  "schoolVerifiedExclusions": [
+    {
+      "org": "天津一中华苑",
+      "url": "https://jy.tj.gov.cn/ZWGK_52172/ZPXX/GKZPFA6214/202611/t20261124_7661997.html",
+      "rows": 10,
+      "reason": "官方附表10行只有语数英音体美，无地理，且均要求党员含预备。"
+    }
+  ],
+  "validation": {
+    "jsonParse": true,
+    "recordCount": 105,
+    "stableIds": true,
+    "requiredFields": true,
+    "enums": true,
+    "noExpiredDatedRecords": true,
+    "errors": [],
+    "changedExistingIds": [
+      "gdupi-planning-human-geography-2027"
+    ],
+    "unchangedRetainedCount": 94
+  }
+}

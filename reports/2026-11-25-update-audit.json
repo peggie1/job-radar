@@ -490,5 +490,16 @@
       "gdupi-planning-human-geography-2027"
     ],
     "unchangedRetainedCount": 94
+  },
+  "publication": {
+    "dataCommit": "041290295b7a3392242c46e1ae25c323230e49be",
+    "repositoryReadbackVerified": true,
+    "firstRun": {
+      "id": 45545938155,
+      "url": "https://github.com/peggie1/job-radar/actions/runs/45545938155",
+      "initialFailure": "上传artifact成功，但部署阶段立即查询得到0个artifact",
+      "retryAttempt2Failure": "同一run重新上传后，部署查询得到2个同名github-pages artifact，拒绝发布"
+    },
+    "freshPublish": "将本次发布失败与核验记录补入报告，触发新的独立发布run避免旧run重复artifact。不改workflow、不删除artifact、不改jobs或个人记录。"
   }
 }

@@ -1,0 +1,1147 @@
+{
+  "date": "2026-11-26",
+  "repository": "peggie1/job-radar",
+  "before": 105,
+  "after": 117,
+  "added": [
+    {
+      "id": "tianjin-first-2027-geography-20",
+      "org": "天津市滨海新区塘沽第一中学",
+      "title": "中学地理教师1（2027统招，序号20）",
+      "headcount": "2人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-21",
+      "org": "天津市滨海新区塘沽第一中学",
+      "title": "中学地理教师2（2027统招，序号21）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-50",
+      "org": "天津市滨海新区塘沽第二中学",
+      "title": "中学地理教师（2027统招，序号50）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-56",
+      "org": "天津市滨海新区塘沽第三中学",
+      "title": "中学地理教师（2027统招，序号56）",
+      "headcount": "2人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-64",
+      "org": "天津市滨海新区塘沽渤海石油第一中学",
+      "title": "中学地理教师（2027统招，序号64）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-74",
+      "org": "天津市滨海新区远洋城中学",
+      "title": "中学地理教师（2027统招，序号74）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-77",
+      "org": "天津市滨海新区汉沽第一中学",
+      "title": "中学地理教师（2027统招，序号77）",
+      "headcount": "2人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-93",
+      "org": "天津市滨海新区大港第八中学",
+      "title": "中学地理教师（2027统招，序号93）",
+      "headcount": "2人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-109",
+      "org": "天津市滨海新区大港油田第一中学",
+      "title": "中学地理教师（2027统招，序号109）",
+      "headcount": "2人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-113",
+      "org": "天津市滨海新区大港油田第二中学",
+      "title": "中学地理教师（2027统招，序号113）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-128",
+      "org": "天津市滨海新区云山道学校",
+      "title": "中学地理教师（2027统招，序号128）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-135",
+      "org": "天津市滨海新区塘沽洞庭学校",
+      "title": "中学地理教师（2027统招，序号135）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-142",
+      "org": "天津市滨海新区塘沽第五中学",
+      "title": "中学地理教师（2027统招，序号142）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-149",
+      "org": "天津市滨海新区大港第六中学",
+      "title": "中学地理教师（2027统招，序号149）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-231",
+      "org": "天津市第二十中学",
+      "title": "中学地理教师（2027统招，序号231）",
+      "headcount": "2人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-235",
+      "org": "天津市第二南开学校",
+      "title": "九年一贯制中小学、高中，地理教师（2027统招，序号235）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-247",
+      "org": "天津市第十一中学",
+      "title": "中学地理教师（2027统招，序号247）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-279",
+      "org": "天津市第二十一中学",
+      "title": "中学地理教师（2027统招，序号279）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-288",
+      "org": "天津市第五十五中学",
+      "title": "中学地理教师（2027统招，序号288）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-314",
+      "org": "天津市汉阳道中学",
+      "title": "中学地理教师（2027统招，序号314）",
+      "headcount": "2人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-398",
+      "org": "天津市河东区教育局所属事业单位",
+      "title": "中学地理教师1（2027统招，序号398）",
+      "headcount": "4人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-399",
+      "org": "天津市河东区教育局所属事业单位",
+      "title": "中学地理教师2（2027统招，序号399）",
+      "headcount": "2人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-508",
+      "org": "天津市河西区教育系统所属学校",
+      "title": "中学地理教师1（2027统招，序号508）",
+      "headcount": "2人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-509",
+      "org": "天津市河西区教育系统所属学校",
+      "title": "中学地理教师2（2027统招，序号509）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-536",
+      "org": "天津市河西区教育系统所属学校",
+      "title": "九年一贯制或十二年制学校地理教师1（2027统招，序号536）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-537",
+      "org": "天津市河西区教育系统所属学校",
+      "title": "九年一贯制或十二年制学校地理教师2（2027统招，序号537）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-639",
+      "org": "天津市南开区教育局所属中学",
+      "title": "中学地理教师1（2027统招，序号639）",
+      "headcount": "4人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-640",
+      "org": "天津市南开区教育局所属中学",
+      "title": "中学地理教师2（2027统招，序号640）",
+      "headcount": "3人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-650",
+      "org": "天津市南开区职业中等专业学校",
+      "title": "中学地理教师（2027统招，序号650）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-714",
+      "org": "天津市河北区教育局所属中学",
+      "title": "中学地理教师1（2027统招，序号714）",
+      "headcount": "3人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-715",
+      "org": "天津市河北区教育局所属中学",
+      "title": "中学地理教师2（2027统招，序号715）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-783",
+      "org": "天津市红桥区教育局所属中学",
+      "title": "中学地理教师1（2027统招，序号783）",
+      "headcount": "2人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    },
+    {
+      "id": "tianjin-first-2027-geography-864",
+      "org": "天津市实验中学",
+      "title": "中学地理教师（2027统招，序号864）",
+      "headcount": "1人",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "recruitChannel": "统一招考"
+    }
+  ],
+  "changed": [
+    {
+      "id": "esph-science-editor-campus-2027",
+      "fields": [
+        "important"
+      ],
+      "reason": "纠正科学编辑附表计分列，不将专业能力成绩百分比60推为最终综合权重60%"
+    }
+  ],
+  "removed": [
+    {
+      "id": "huazheng-songjiang-high-geo-2027",
+      "org": "华东政法大学附属松江高级中学",
+      "title": "高中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row1-high-geography",
+      "org": "上海市松江一中",
+      "title": "高中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row3-high-geography",
+      "org": "上海师范大学附属外国语中学",
+      "title": "高中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row9-junior-geography",
+      "org": "上海市松江区第七中学",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row10-junior-geography",
+      "org": "上海市三新学校松江东部学校",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row14-junior-geography",
+      "org": "上海市松江区佘山学校",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row15-junior-geography",
+      "org": "上海市松江二中附属浦南实验学校",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row17-junior-geography",
+      "org": "东华大学附属实验学校松江小昆山分校",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row18-junior-geography",
+      "org": "上海市松江区九亭中学",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row22-junior-geography",
+      "org": "上海世外教育附属松江区车墩学校",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row33-junior-geography",
+      "org": "上海师范大学附属松江实验学校",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row35-junior-geography",
+      "org": "上海对外经贸大学附属松江实验学校花园分校",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row36-junior-geography",
+      "org": "上海外国语大学附属外国语学校松江云间中学",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row36-high-geography",
+      "org": "上海外国语大学附属外国语学校松江云间中学",
+      "title": "高中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row37-junior-geography",
+      "org": "上海师范大学松江科创实验学校",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row38-high-geography",
+      "org": "上海市三新学校松江思贤分校",
+      "title": "高中（筹）地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row44-junior-geography",
+      "org": "上海视觉艺术学院附属松江实验学校",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row46-high-geography",
+      "org": "东华大学附属松江高级中学",
+      "title": "高中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row48-high-geography",
+      "org": "上海对外经贸大学附属松江高级中学",
+      "title": "高中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row50-junior-geography",
+      "org": "上海立信会计金融学院附属松江学校",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    },
+    {
+      "id": "songjiang-first-2027-row51-junior-geography",
+      "org": "上海政法学院附属松江学校",
+      "title": "初中地理教师（2027第一批）",
+      "deadline": "2026-11-25",
+      "url": "https://www.shanghai.gov.cn/nw17239/20261120/3176576a128f47d0bed41f1cf404d07a.html",
+      "reason": "松江统一报名11月25日截止，仅从当前可报名列表下架，不撤销已提交申请或个人进度。"
+    }
+  ],
+  "cloud": {
+    "updatedAt": "北京时间 2026-11-25 15:21",
+    "leadCount": 251,
+    "successfulSources": 11,
+    "totalSources": 96,
+    "connectedSources": 71,
+    "newOrSeen": 78,
+    "reviewed": 10,
+    "promoted": 0,
+    "excluded": 8,
+    "pending": 2,
+    "leadDisposition": [
+      {
+        "id": "lead-ada988581ece3ba0",
+        "status": "excluded",
+        "reason": "高级职称硬条件不符"
+      },
+      {
+        "id": "lead-693158073c6c1149",
+        "status": "excluded",
+        "reason": "北京户籍与在京人事档案及中级职称不符"
+      },
+      {
+        "id": "lead-fc426481a1c30879",
+        "status": "excluded",
+        "reason": "高职称教学经历或博士后条件不符"
+      },
+      {
+        "id": "lead-207cded83440ef0e",
+        "status": "excluded",
+        "reason": "地理教师仅博士"
+      },
+      {
+        "id": "lead-9403314fb52ec93e",
+        "status": "excluded",
+        "reason": "民办学校不在当前范围"
+      },
+      {
+        "id": "lead-52dbe2cc2b93e288",
+        "status": "excluded",
+        "org": "天津市政工程设计研究总院有限公司",
+        "position": "工程设计岗（该线索页）",
+        "reason": "用人单位在南开就业网发布的这一具体职位简章仅列环境工程；人文地理学明显不符合。不能依据集团简介中的城乡规划、地信业务扩大专业。",
+        "source": "https://career.nankai.edu.cn/correcruit/content/id/120687.html"
+      },
+      {
+        "id": "lead-dc6909ee424169e4",
+        "status": "excluded",
+        "org": "卡斯柯信号有限公司北京分公司",
+        "position": "软件测试工程师（云端简章关联具体职位）",
+        "reason": "关联具体职位要求计算机、软件工程、铁路信号、自动化、通信、电子、测控等专业且需编程和测试能力；不匹配人文地理。未因此推断集团其他全部岗位皆不符。",
+        "source": "https://career.nankai.edu.cn/correcruit/content/id/16880.html",
+        "parentAnnouncement": "https://career.nankai.edu.cn/correcruit/content/id/101643.html",
+        "employerPortal": "https://casco.zhiye.com/Campus"
+      },
+      {
+        "id": "lead-a50adffead2d4797",
+        "status": "excluded",
+        "org": "北京城市排水集团有限责任公司及北京子公司",
+        "position": "2027校园招聘公告所列六类岗位",
+        "reason": "公告逐类列给排水环工、机械自控、土木水利、安全、行政党务、经营管理的专业范围，未列地理学或人文地理；人文地理研究水资源的经历不能当作给排水、环境工程资格。未发现专业不限的具体岗位，不晋级。",
+        "source": "https://career.nankai.edu.cn/correcruit/content/id/120567.html",
+        "employerDesignatedPortal": "https://www.zhipin.com/dz/bjpsjt2027"
+      },
+      {
+        "id": "lead-b18587d1bdba6fd9",
+        "status": "pending",
+        "org": "中国汽车技术研究中心有限公司",
+        "position": "管理培训生；总部另列融媒宣传、纪检监察",
+        "reason": "宣传和纪检岗位的专业明确不符；管培生不是一般专业不限，原文限定与汽车产业相关的理工类、经管类专业。人文地理是否认可仍需单位答复，未按第三方宽泛理科大类标签晋级。",
+        "source": "https://career.nankai.edu.cn/correcruit/content/id/120573.html",
+        "employerPortal": "https://career.catarc.ac.cn"
+      },
+      {
+        "id": "lead-11025443c22545be",
+        "status": "pending",
+        "org": "浙江明日控股集团股份有限公司",
+        "position": "大宗商品业务岗",
+        "reason": "高校发布的企业原始2027简章写本科及以上、专业不限，但实际为客户开发维护、促成交易，不是产业研究岗。官网可确认浙农控股核心成员身份，当前证据尚不足以独立核定国有资本控制及最终劳动合同单位；不单凭供销社下属或高校平台国有企业标签晋级。行业研究岗另要求金融、数学、统计或能源化工专业，不能用产业链研究经历替代。",
+        "source": "https://career.nankai.edu.cn/correcruit/content/id/120671.html",
+        "officialCompanyProfile": "https://www.mrjt.cn/list.asp?id=6",
+        "officialRecruitmentList": "https://www.mrjt.cn/joblist.asp?id=22",
+        "employerDesignatedPortal": "https://mrkg2027.zhaopin.com",
+        "deadlineNote": "单位简章未明确日期；不同转载平台显示的12月9日、12月31日未当作单位截止日。"
+      }
+    ],
+    "disclaimer": "251为累计自动公告线索，非全部已核验岗位；云端最后更新仍11月25日，不冒充今日采集。不代表全国/各地区全量覆盖，采集层不改，未核不晋级。"
+  },
+  "newCampusRecruitment": 0,
+  "newUnifiedExamJobs": 33,
+  "newTeachingPlannedHeadcount": 53,
+  "tianjin": {
+    "date": "2026-11-26",
+    "source": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+    "attachment": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/W020261125514037054541.xlsx",
+    "totalPositionRows": 894,
+    "keywordCandidateRows": 90,
+    "geographyTeachingRows": 36,
+    "admittedRows": 33,
+    "admittedHeadcount": 53,
+    "otherExcludedRows": 57,
+    "exclusionExplanation": "地理教师36行中的637、638硬性中级职称与业绩，784硬性一级职称与5年教学经验，均不符；其余54关键词候选为历史等其他学科、专业或证书不符，或党员、天津户籍与残疾/退伍等专项身份条件不符。不是将全表其他804行说成已逐项核验排除。",
+    "excludedTeachingSerials": [
+      637,
+      638,
+      784
+    ],
+    "acceptedSerials": [
+      20,
+      21,
+      50,
+      56,
+      64,
+      74,
+      77,
+      93,
+      109,
+      113,
+      128,
+      135,
+      142,
+      149,
+      231,
+      235,
+      247,
+      279,
+      288,
+      314,
+      398,
+      399,
+      508,
+      509,
+      536,
+      537,
+      639,
+      640,
+      650,
+      714,
+      715,
+      783,
+      864
+    ],
+    "common": {
+      "date": "2026-11-26",
+      "title": "天津市事业单位2027年度第一批集中公开招聘工作人员公告通用条件核验",
+      "url": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/t20261125_7663417.html",
+      "verification": "已依次目视读取官网正文11张原始公告图片，不以第三方宣讲预告替代正式公告。未编辑岗位表。",
+      "applyStart": "2026-11-30",
+      "applyEnd": "2026-12-07",
+      "applyWindow": "2026-11-30 16:00至2026-12-07 16:00",
+      "reviewWindow": "2026-11-30 16:00至2026-12-08 16:00；提交后48小时内给出初审意见",
+      "payWindow": "2026-11-30 16:00至2026-12-09 16:00",
+      "writtenFee": "每科45元；最低生活保障家庭人员按报名网站须知办理减免",
+      "interviewFee": "本通用公告未说明，不推断45元或免费",
+      "cancelledPostReapply": "2026-12-10 09:00至16:00；取消岗位的已缴费人员收到通知后可改报符合条件岗位，逾期视放弃改报并退考试费",
+      "admissionTicket": "2026-12-23 09:00起登录岗位对应报名网站打印",
+      "writtenDate": "2026-12-26至27日",
+      "writtenSpecificTimeAndLocation": "本通用公告仅给出12月26至27日，具体日期、时段和地点见笔试准考证，不能据此断言所有教师岗同一时段或某日必考",
+      "writtenScoreDate": "2027-01-15 09:00起在报名网站查询",
+      "graduateDefinition": "2027届高校毕业生属于应届；2025、2026年毕业且毕业后至报名首日未曾与单位建立人事或劳动关系且未缴企业职工养老或机关事业养老的毕业生按应届对待。后一无就业及养老条件不能误套为2027届必须提供毕业后无社保。",
+      "age": "一般年满18周岁，具体上限按岗位表；年龄计算截至报名首日11月30日。38周岁及以下示例为1987年11月30日及以后出生。",
+      "degreeDeadline": "2027届按预期取得学历学位认定；资格复审时学历证、学位证容缺后补，核查推迟至报到，届时不能提供取消资格。此通用公告未写统一2027年8月31日，应再从具体岗位或指南核对是否另有期限。其他人员以资格复审前已取得双证为准。",
+      "qualificationDeadline": "专业技术职务任职资格和职业资格一般以资格复审时提供的相应证书、合格成绩单或通过考试书面结论为准，具体教师资格取得要求仍看岗位表，不自行套用别批次聘用前或8月31日。",
+      "major": "专业主要依国家教育和技工院校专业目录；相近但不在目录的专业可联系招聘单位确认，不自行认定跨专业可报。",
+      "politics": "通用正文未规定全批次必须中共党员，岗位表如有政治面貌要求须单独落实",
+      "hukou": "通用正文未规定统一天津户籍，仍须检查具体岗位表及应聘指南，不能据此替所有岗位填户籍不限",
+      "employmentNature": "事业单位集中公开招聘，拟聘人员与招聘单位签聘用合同，实行试用期制度；通用正文未见编外或派遣用工条款，具体岗位编制性质仍以岗位表或单位正式说明为准",
+      "onePostLimit": "图片正文未直接写每人限报几个岗位。已审通过或未来得及审查的不能改报；未过审者在报名期内可改报。是否全批限1岗还需主线已下载的应聘指南或系统规则核定。",
+      "assessment": "笔试、面试科目和入围比例按岗位表；笔试合格线考试后设定。面试一般答辩、结构化、试讲或实操等，按岗位表对应形式，百分制合格线60，结束当场告知成绩；通用总成绩笔试面试1:1，最终仍对照岗位表总成绩计算列。",
+      "qualificationReview": "资格复审由单位或主管部门组织，具体时间地点材料在报名网站另行通知；须按时参加。未过审、取消或放弃产生空缺，在达到笔试合格线人员中按笔试成绩递补，末位并列均进；资格复审结束后合格人员再放弃面试不再递补。",
+      "interviewSchedule": "面试具体时间、地点及要求另行在报名网站通知，不是当前只为宣讲会必须赴天津",
+      "physicalAndInvestigation": "体检按岗位计划1:1，时间地点另通知，体检及复检自费；收到结果7日内可申请一次复检。体检合格后考察政治思想、品德、业务、业绩及资格、失信情形。",
+      "publicity": "拟聘公示5个工作日",
+      "replacement": "体检及以后环节因不合格或放弃出现空缺，从面试合格人员中按综合总成绩递补；与复审阶段按笔试递补规则不同",
+      "probation": "按规定实行试用期，合格正式聘用，不合格取消；具体期限本通用公告未说明",
+      "servicePeriod": "本通用公告未统一说明最低服务期，应逐岗位核表，不自行填3年或5年",
+      "salary": "本通用公告未说明具体薪资数字",
+      "prohibitions": [
+        "犯罪受过刑罚，或曾被开除党籍、开除公职",
+        "正在立案审查，或仍在处分影响期",
+        "公务员或事业单位招录违纪且尚在限制报考期",
+        "全日制在读非应届毕业生",
+        "现役军人",
+        "聘用后形成岗位回避关系",
+        "定向或委托培养而不能出具单位同意报考证明的毕业生",
+        "依法被限制应聘事业单位的失信联合惩戒对象",
+        "法律法规规定不得聘用的其他情形"
+      ],
+      "keyImages": {
+        "page2GraduateAgeDegree": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/W020261125521805492775_ORIGIN.jpg",
+        "page4Registration": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/W020261125521805791872_ORIGIN.jpg",
+        "page5PaymentTicket": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/W020261125521806082877_ORIGIN.jpg",
+        "page6WrittenExam": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/W020261125521806220283_ORIGIN.jpg",
+        "page7DegreeReviewInterview": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/W020261125521806363749_ORIGIN.jpg",
+        "page8TotalScore": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/W020261125521806502773_ORIGIN.jpg",
+        "page10ReplacementEmployment": "https://hrss.tj.gov.cn/ztzl/ztzl1/sydwgkzp/202611/W020261125521806860716_ORIGIN.jpg"
+      },
+      "localImages": [
+        "outputs/daily-2026-11-26/geography/tianjin-first-sources/announcement-page-04.jpg",
+        "outputs/daily-2026-11-26/geography/tianjin-first-sources/announcement-page-06.jpg"
+      ]
+    }
+  },
+  "teacher": {
+    "date": "2026-11-26",
+    "added": [],
+    "changed": [],
+    "excluded": [
+      {
+        "id": "lead-ada988581ece3ba0",
+        "title": "首都师范大学2026年人才引进公告（第五批）",
+        "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202611/t20261125_4957554.html",
+        "reason": "官方正文第二条第（三）款要求具备高级职称，用户为2027届硕士在读，不满足硬条件。本次不是普通应届校招，不将学院学科名称当作可报依据。",
+        "verification": "2026-11-26已读北京市人社官方正文；硬性通用条件足以排除，未将附件逐岗虚称核验。"
+      },
+      {
+        "id": "lead-693158073c6c1149",
+        "title": "西城区卫生健康系统2026年第三批事业单位公开招聘工作人员公告",
+        "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202611/t20261125_4957768.html",
+        "reason": "官方正文要求报名时具有北京常住户口、人事行政关系及人事档案在京，并具有中级及以上职称。用户晋城户籍、2027届硕士在读，不满足通用硬条件。",
+        "verification": "2026-11-26已读北京市人社官方正文；未将42个医学职位逐行虚称核验。"
+      },
+      {
+        "id": "lead-fc426481a1c30879",
+        "title": "2026年丰台区教委所属事业单位面向高层次社会人员公开招聘工作人员公告",
+        "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202611/t20261124_4956233.html",
+        "reason": "人才引进岗位要求高级职称和相应高层次教学经历，其中领军教师须地市级以上优质校10年以上教学经验；另一类要求2026年博士后出站。用户不属于以上人员。",
+        "verification": "2026-11-26已读官方正文第二条；不因11月26日开始报名而收录不符岗位。"
+      },
+      {
+        "id": "lead-207cded83440ef0e",
+        "title": "江苏省苏州中学校2026年赴高校公开招聘高层次紧缺人才公告",
+        "url": "https://jyj.suzhou.gov.cn/szjyj/gsgg/202611/8040bd3aa0724441b0216483fcdb1e3e.shtml",
+        "reason": "官方附件岗位简介表第11行、岗位代码8的地理教师1人，要求博士研究生、地理及相关专业、2027年毕业生且有相应学位，用户硕士不符。",
+        "attachmentUrl": "https://jyj.suzhou.gov.cn/szjyj/gsgg/202611/8040bd3aa0724441b0216483fcdb1e3e/files/d444970b55e9448c9740cf6bfdfd938f.xlsx",
+        "verification": "沿用11月25日完整读取的官方附件行及SHA256 584e20e3085fd15a9cb0f883404ded27d081e1484fd816c39d754f5c3d27a103；11月26日重新打开原公告，未取得将地理学历改为硕士的补充公告。本日附件重取发生重定向循环，未虚称再次成功下载。"
+      },
+      {
+        "id": "lead-9403314fb52ec93e",
+        "title": "浙江省余姚市实验学校中小学数学、语文、初中历史、地理教师招聘公告",
+        "url": "https://career.nankai.edu.cn/correcruit/content/id/120743.html",
+        "reason": "南开就业网发布的学校原始招聘简章明确学校属中国民办教育百强学校，属于民办学校，不在当前教师编、公办学校及国企学校筛选范围；不将年薪25万—30万元当作公办或事业编依据。",
+        "verification": "2026-11-26完整读取高校发布的学校简章；中学地理2人，2027教育类、数理类相关硕博，暂无明确截止。单位性质不符不晋级。"
+      }
+    ],
+    "pending": [
+      {
+        "title": "南京江北新区教育局所属事业单位2026年11月公开招聘教师",
+        "url": "https://njna.nanjing.gov.cn/xwzx/tzgg/202611/t20261125_6048334.html",
+        "reason": "官方正文明确2027届可报，报名11月29日9:00至12月3日15:00，不能因搜索摘要只展示2026扩展条件而排除。官方网页工具未提供附件链接，教育网不可访问；只读取到第三方备份岗位表及专业目录，备份表仅语文、数学、物理、化学、政治五科各6人，无地理。未用第三方附件晋级，也不计完全核验具体岗位。",
+        "backupAttachmentUrls": [
+          "https://gongkao.xueapp.cn/wp-content/uploads/2026/11/25/file_0XkvOeK5.xlsx",
+          "https://gongkao.xueapp.cn/wp-content/uploads/2026/11/25/file_xCaQzd1A.xlsx"
+        ],
+        "verification": "官方正文已读，第三方备份附件已内存读取。"
+      },
+      {
+        "title": "湖北省荆州中学和湖北省沙市中学2027年赴高校人才引进",
+        "url": "http://jzrsj.zwgk.jingzhou.gov.cn/54282/111220263/t123220263114/758902.shtml",
+        "clueUrl": "https://ste.nuist.edu.cn/2026/1124/c5510a303697/page.htm",
+        "reason": "主管部门原网页不可访问，完整读到南京信息工程大学转载。转载要求国内双一流高校，并列考核科目为语数英物化生政、羽毛球教练，未见地理；转载岗位附件实际指向其他转载站，未完成官方岗位表闭环，不入库。",
+        "verification": "高校转载正文已读，原公告和原附件未闭环。"
+      },
+      {
+        "title": "镇江市直教育系统2027外出招聘教师岗位需求信息",
+        "clueUrl": "https://m.huatu.com/jiaoshi/2026/1123/2878582.html",
+        "reason": "检到陕西师大11月25日宣讲转载和60人需求信息，尚未核定地理具体学校岗位、资格、有效报名期与主管部门原附件，不按宣讲场次入库或要求赴场。"
+      }
+    ],
+    "coverage": [
+      {
+        "scope": "云端教师及相关新线索",
+        "detail": "首师大、西城卫健、丰台高层次、苏州中学、余姚实验学校5条逐一定位原文或高校学校原简章，均不晋级。"
+      },
+      {
+        "scope": "江苏优先及补充城市",
+        "detail": "交叉检索苏州、无锡、常州、南京、南通、扬州、镇江。新南京江北官方正文已核，附件只有备份未作为已核验岗；无锡检索返回民办在职岗及历史公招，扬州返回已截止或成绩公示，镇江仅宣讲需求线索。未声称各市所有公告已覆盖。"
+      },
+      {
+        "scope": "浙江优先及补充城市",
+        "detail": "交叉检索杭州、湖州、嘉兴、绍兴、宁波、金华相关教师岗，结果主要为历史批次、民办和临聘；余姚实验学校性质排除。另发现衢州市教育局直属2027事业编111人新线索，已交主线继续核验，未计入本文件新增。"
+      },
+      {
+        "scope": "天津",
+        "detail": "先检到河西宣讲预告未直接晋级。主线随后取得今日正式天津2027第一批集中公招原文和899行岗位表，由主线筛具体地理岗，本子任务继续协助读取通用公告图片。西青旧4条不得重复算新增。"
+      },
+      {
+        "scope": "山西及全国补充",
+        "detail": "太原相关组合检索未发现已完成原文附件闭环的新2027地理教师岗位；湖北荆州/沙市作为高校线索核查，未晋级。未把零新增解释为全国没有可报岗位。"
+      }
+    ],
+    "leadDisposition": [
+      {
+        "id": "lead-ada988581ece3ba0",
+        "status": "excluded",
+        "reason": "高级职称硬条件不符"
+      },
+      {
+        "id": "lead-693158073c6c1149",
+        "status": "excluded",
+        "reason": "北京户籍与在京人事档案及中级职称不符"
+      },
+      {
+        "id": "lead-fc426481a1c30879",
+        "status": "excluded",
+        "reason": "高职称教学经历或博士后条件不符"
+      },
+      {
+        "id": "lead-207cded83440ef0e",
+        "status": "excluded",
+        "reason": "地理教师仅博士"
+      },
+      {
+        "id": "lead-9403314fb52ec93e",
+        "status": "excluded",
+        "reason": "民办学校不在当前范围"
+      }
+    ]
+  },
+  "publicationAndPublicInstitution": {
+    "date": "2026-11-26",
+    "scope": "仅2027届人文地理硕士地理雷达的教育出版地图科普科研海洋等方向，不含财会",
+    "newVerifiedJobs": 0,
+    "updatedJobs": 1,
+    "removedJobs": 0,
+    "coverage": [
+      {
+        "source": "教育科学出版社2027应届校招",
+        "url": "https://jybzp.chsi.com.cn/home/bul/announcement/ox46z75cse945nsd",
+        "attachment": "https://jybzp.chsi.com.cn/home/bul/announcement/down/ox46z75cse945nsd/m7b23c25r88g065b",
+        "status": "公告完整读取，官方XLS在内存重新解析四行；科学编辑0705准入仍成立，12月2日24点截止；修正附表计分解释"
+      },
+      {
+        "source": "教育科学出版社2026社会招聘",
+        "url": "https://www.esph.com.cn/zxzx/tzgg/39697375fece4958807b24b214508f0a.htm",
+        "status": "完整7岗位正文及流程读取，印制职员优先专业不作硬限，但2027届和预聘入职待确认"
+      },
+      {
+        "source": "教育部直属事业2027统招及人才网当前公告索引",
+        "url": "https://jybzp.chsi.com.cn/home/bul/announcement/lg5fv9z7alo0lhhk",
+        "attachment": "https://jybzp.chsi.com.cn/home/bul/announcement/down/lg5fv9z7alo0lhhk/8jp6m27whacw6c6s",
+        "status": "当前官方XLS内存复核，单工作表62个岗位行合计93人、19单位；无地理学、人文地理、专业不限或理学07门类；高校11月25转载不是新批"
+      },
+      {
+        "source": "首都师范大学2026人才引进第五批",
+        "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202611/t20261125_4957554.html",
+        "status": "新云端线索原文全文读取，通用高级职称硬条件已排除"
+      },
+      {
+        "source": "中国地图出版社科普少儿分社地理编辑",
+        "url": "https://www.sinomaps.com/xwdt/gsgg/202609/23/1662676311596902373.html",
+        "status": "官方2026年9月23日社会招聘全文读；地理相关硕士1人、税前1万-1.5万、北京西城；无应届及2027定义或明确截止，不晋级"
+      },
+      {
+        "source": "浙江大学舟山海洋研究中心",
+        "url": "https://zoceanc.zju.edu.cn/2026/1030/c54895a3221029/page.htm",
+        "status": "官方岗位表内嵌正文读；2岗位为控制开发和AI算法，非海洋经济；11月23日16:30已截止"
+      },
+      {
+        "source": "武汉大学陈奕云官方教师主页",
+        "url": "https://jszy.whu.edu.cn/chenyy/zh_CN/index.htm",
+        "status": "有科研助理1人线索，但2027标注属招生，助理专业、届别、合同和报名具体要求未闭环，不把招生方向当录用资格"
+      },
+      {
+        "source": "北京市文物局2027应届及社会招聘",
+        "url": "https://wwj.beijing.gov.cn/bjww/wwjzzcslm/1737418/1738079/rsxx61/744153382/index.html",
+        "status": "发现原始公告，当前阶段已有笔试通知；未完成本轮岗位附件细核，不晋级"
+      }
+    ],
+    "excluded": [
+      {
+        "source": "教育部直属事业单位2027应届岗位附件",
+        "url": "https://jybzp.chsi.com.cn/home/bul/announcement/lg5fv9z7alo0lhhk",
+        "countUnit": "岗位行",
+        "count": 62,
+        "reason": "所有列明最高学历专业均非地理学/人文地理/理学07或不限；部分另有博士党员或京内条件，不借单位名称推资格"
+      },
+      {
+        "source": "教育科学出版社2027其他编辑",
+        "url": "https://jybzp.chsi.com.cn/home/bul/announcement/ox46z75cse945nsd",
+        "countUnit": "岗位行",
+        "count": 3,
+        "reason": "物理编辑、理工科编辑、文科编辑列明专业均不含0705；不因理工或文科岗位名而认定可报"
+      },
+      {
+        "source": "首都师范大学第五批人才引进",
+        "leadId": "lead-ada988581ece3ba0",
+        "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202611/t20261125_4957554.html",
+        "countUnit": "公告",
+        "count": 1,
+        "reason": "通用条件必须具有高级职称；用户不具备，不进入人才学术岗位"
+      },
+      {
+        "source": "舟山海洋研究中心2026下半年招聘",
+        "url": "https://zoceanc.zju.edu.cn/2026/1030/c54895a3221029/page.htm",
+        "countUnit": "岗位行",
+        "count": 2,
+        "reason": "11月23日16:30已截止，控制机械/计算机软件专业不符，海洋经济仅单位业务介绍"
+      },
+      {
+        "source": "教育科学出版社2026社会招聘部分岗位",
+        "url": "https://www.esph.com.cn/zxzx/tzgg/39697375fece4958807b24b214508f0a.htm",
+        "countUnit": "岗位行",
+        "count": 3,
+        "reason": "地理编辑硬性出版职业资格与教辅编辑实战，图书质检硬性5年编辑或3年质检，技术经理硬性5年开发管理；均不符合"
+      }
+    ],
+    "pending": [
+      {
+        "id": "sinomaps-geography-editor-social-2026-pending-2027",
+        "url": "https://www.sinomaps.com/xwdt/gsgg/202609/23/1662676311596902373.html",
+        "reason": "专业匹配但2027届在读及预聘、当前开放/截止和实际用工主体未明确，仅待核线索"
+      },
+      {
+        "id": "whu-chenyy-research-assistant-qualification-pending",
+        "url": "https://jszy.whu.edu.cn/chenyy/zh_CN/index.htm",
+        "reason": "科研助理有名额但2027只是招生年份，助理届别资格、研究技能、劳动合同未说明"
+      },
+      {
+        "id": "dalian-ocean-2027-employer-role-pending",
+        "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/19/2267/470430573420544",
+        "reason": "仅第三方11月13校招线索；海洋国资平台须继续追原始岗位表，未核验地理准入，不入库"
+      },
+      {
+        "id": "tjupdi-second-2026-source-and-expiry-pending",
+        "url": "https://m.fenbi.com/page/fenxiaozhaokaodetail/7/0/469664631904256",
+        "reason": "第三方显示10月16报名截止；仅历史检索单位线索，不作为当前开放岗位"
+      },
+      {
+        "id": "esph-print-production-clerk-2026-open-fresh",
+        "url": "https://www.esph.com.cn/zxzx/tzgg/39697375fece4958807b24b214508f0a.htm",
+        "reason": "仍有效的旧待确认岗保留，不能误删，但不把2027准入说成已确认"
+      }
+    ],
+    "changes": [
+      {
+        "id": "esph-science-editor-campus-2027",
+        "field": "important[5]",
+        "before": "资格择优原则不超过1:60确定笔试人员，笔试后按1:10进入面试；岗位附表注明专业能力测试成绩占综合成绩60%。科学出版编辑方向的专业知识、文字处理、办公软件、责任心和团队协作仍需考核；专业届别准入强匹配不表示录用概率高。",
+        "after": "资格择优原则不超过1:60确定笔试人员，笔试后按1:10进入面试；岗位附表“专业能力成绩百分比”列为60；主公告未明确最终综合成绩加权公式，具体计分口径以公司后续通知为准，不擅推为最终综合成绩占比60%。科学出版编辑方向的专业知识、文字处理、办公软件、责任心和团队协作仍需考核；专业届别准入强匹配不表示录用概率高。",
+        "reason": "官方附表只有专业能力成绩百分比=60，主公告未指明最终综合权重；删除未经证实的综合成绩60%推断"
+      }
+    ],
+    "limitations": [
+      "完成4轮关键词交叉检索及对应原文核验；未完成全国所有博物馆科技馆或高校穷尽检索。",
+      "无新岗位不凑数量；机构业务/招生方向、宣讲场次、岗位人数都不当作已核岗位。",
+      "默认shell1920，使用只读require_escalated匿名HTTP和内存XLS解析；未读取个人报名信息、未投递、未上传未公开研究资料。"
+    ]
+  },
+  "enterprise": {
+    "date": "2026-11-26",
+    "repository": "peggie1/job-radar",
+    "scope": "央国企与地方国企校园招聘；不含财会画像，不含私人投递材料",
+    "added": [],
+    "changed": [],
+    "verifiedPromotionCount": 0,
+    "cloudLeadsExamined": 5,
+    "cloudLeadPromotionCount": 0,
+    "cloudLeadExclusionCount": 3,
+    "cloudLeadPendingCount": 2,
+    "countingNote": "排除计数按本次核查的云端公告/具体职位线索，不是宣称这些集团所有岗位永久均不可报。浙江动态校招门户显示95岗仅为门户当前公开岗位总量，不计作95条已核验匹配岗位。",
+    "leadDisposition": [
+      {
+        "id": "lead-52dbe2cc2b93e288",
+        "status": "excluded",
+        "org": "天津市政工程设计研究总院有限公司",
+        "position": "工程设计岗（该线索页）",
+        "reason": "用人单位在南开就业网发布的这一具体职位简章仅列环境工程；人文地理学明显不符合。不能依据集团简介中的城乡规划、地信业务扩大专业。",
+        "source": "https://career.nankai.edu.cn/correcruit/content/id/120687.html"
+      },
+      {
+        "id": "lead-dc6909ee424169e4",
+        "status": "excluded",
+        "org": "卡斯柯信号有限公司北京分公司",
+        "position": "软件测试工程师（云端简章关联具体职位）",
+        "reason": "关联具体职位要求计算机、软件工程、铁路信号、自动化、通信、电子、测控等专业且需编程和测试能力；不匹配人文地理。未因此推断集团其他全部岗位皆不符。",
+        "source": "https://career.nankai.edu.cn/correcruit/content/id/16880.html",
+        "parentAnnouncement": "https://career.nankai.edu.cn/correcruit/content/id/101643.html",
+        "employerPortal": "https://casco.zhiye.com/Campus"
+      },
+      {
+        "id": "lead-a50adffead2d4797",
+        "status": "excluded",
+        "org": "北京城市排水集团有限责任公司及北京子公司",
+        "position": "2027校园招聘公告所列六类岗位",
+        "reason": "公告逐类列给排水环工、机械自控、土木水利、安全、行政党务、经营管理的专业范围，未列地理学或人文地理；人文地理研究水资源的经历不能当作给排水、环境工程资格。未发现专业不限的具体岗位，不晋级。",
+        "source": "https://career.nankai.edu.cn/correcruit/content/id/120567.html",
+        "employerDesignatedPortal": "https://www.zhipin.com/dz/bjpsjt2027"
+      },
+      {
+        "id": "lead-b18587d1bdba6fd9",
+        "status": "pending",
+        "org": "中国汽车技术研究中心有限公司",
+        "position": "管理培训生；总部另列融媒宣传、纪检监察",
+        "reason": "宣传和纪检岗位的专业明确不符；管培生不是一般专业不限，原文限定与汽车产业相关的理工类、经管类专业。人文地理是否认可仍需单位答复，未按第三方宽泛理科大类标签晋级。",
+        "source": "https://career.nankai.edu.cn/correcruit/content/id/120573.html",
+        "employerPortal": "https://career.catarc.ac.cn"
+      },
+      {
+        "id": "lead-11025443c22545be",
+        "status": "pending",
+        "org": "浙江明日控股集团股份有限公司",
+        "position": "大宗商品业务岗",
+        "reason": "高校发布的企业原始2027简章写本科及以上、专业不限，但实际为客户开发维护、促成交易，不是产业研究岗。官网可确认浙农控股核心成员身份，当前证据尚不足以独立核定国有资本控制及最终劳动合同单位；不单凭供销社下属或高校平台国有企业标签晋级。行业研究岗另要求金融、数学、统计或能源化工专业，不能用产业链研究经历替代。",
+        "source": "https://career.nankai.edu.cn/correcruit/content/id/120671.html",
+        "officialCompanyProfile": "https://www.mrjt.cn/list.asp?id=6",
+        "officialRecruitmentList": "https://www.mrjt.cn/joblist.asp?id=22",
+        "employerDesignatedPortal": "https://mrkg2027.zhaopin.com",
+        "deadlineNote": "单位简章未明确日期；不同转载平台显示的12月9日、12月31日未当作单位截止日。"
+      }
+    ],
+    "additionalPending": [
+      {
+        "org": "浙江省自然资源集团有限公司所属招聘单位",
+        "source": "https://www.zjnrg.com/recruit.html",
+        "publicCampusPortal": "https://zjnrghr.zjgeobigdata.com/RedseaPlatform/zhaopin/zpChannelQrCode/campus_recruit/officeWebsite.mob",
+        "observedPublicPositionCount": 95,
+        "method": "官网公开招聘页面与其公开岗位检索数据，随后以新建未登录浏览器打开具体职位详情；未调用个人账户接口，未投递。",
+        "positions": [
+          {
+            "org": "浙江省地下建筑设计研究院有限公司（国土空间规划院）",
+            "title": "规划设计技术岗",
+            "city": "杭州",
+            "district": "拱墅区",
+            "degree": "硕士研究生",
+            "major": "规划类、设计类等相关专业",
+            "status": "pending-major",
+            "reason": "具体公开详情只写规划/设计相关专业，未明确接受人文地理。职位有在校生/应届生标签，但不能据此把所有校招年份及专业视为已获认可。",
+            "url": "https://zjnrghr.zjgeobigdata.com/RedseaPlatform/zhaopin/zpChannelQrCode/campus_recruit/officeWebsite.mob?jumpPageId=detail&detailRequestId=98e67b05-08ce-4393-a3b7-612b530288ee&configId=campus_recruit&recruitWay=4"
+          },
+          {
+            "org": "浙江省自然资源资产运营有限公司（资产运营事业部）",
+            "title": "项目运营",
+            "degree": "硕士研究生",
+            "major": "土地管理、地理信息、城市规划等专业",
+            "status": "pending-major-and-details",
+            "reason": "并非明确地理学不限；未读到完整职责、城市及具体专业认可，不晋级。",
+            "requestId": "246a0f4f-d1de-464a-839c-08b99b791cf5"
+          },
+          {
+            "org": "浙江林业资源发展有限公司",
+            "title": "土地规划设计岗",
+            "major": "土地资源管理、城乡规划",
+            "city": "温州",
+            "status": "excluded-major",
+            "reason": "公开岗位只列两专业，不将人文地理自动等同城乡规划或土地资源管理；职责涉及整治规划、数据分析、制图、空间数据库。",
+            "requestId": "3a42814d-9097-412f-8d73-e466cf5c7761"
+          },
+          {
+            "org": "浙江省地矿建设有限公司",
+            "title": "投资管理",
+            "major": "经济、金融、数学等相关专业",
+            "city": "杭州",
+            "status": "excluded-hard-school-and-major",
+            "reason": "另明确985、211、双一流优秀应届生条件；本人学校条件及人文地理专业不满足明确范围，不因职责含研究就收录。",
+            "requestId": "76623bde-94b0-4bfe-b4c4-40e7af265172"
+          },
+          {
+            "org": "浙江有色地勘集团有限公司",
+            "title": "（测绘地理信息方向）技术员",
+            "major": "测绘地理信息相关专业",
+            "cities": [
+              "绍兴",
+              "丽水"
+            ],
+            "status": "pending-major",
+            "reason": "须核实是否接受人文地理及野外、软件要求；只具GIS基础不足以确认专业资格。"
+          }
+        ],
+        "salaryNote": "门户出现110000~130000及8000~10000等数字但当前公开详情未标月薪/年薪单位或税前口径；不推算月薪，不设置salaryMin。"
+      },
+      {
+        "org": "中国冶金地质总局及所属单位",
+        "title": "2027届校园招聘",
+        "source": "https://www.cmgb.com.cn/content/2026/09-25/7509048960149884928.html",
+        "officialPoster": "https://www.cmgb.com.cn/upload/2026/09-25/08-39-290805-1339035691.jpg",
+        "employerPortal": "https://cmgb.iguopin.com/",
+        "status": "pending-specific-jobs",
+        "reason": "已下载并目视官方9月25日海报，仅指向国聘入口，海报未列专业岗位及截止日。不能用第三方11月27日截止作为官方事实，不能以集团招聘场次晋级。"
+      },
+      {
+        "org": "中国煤炭地质总局及所属单位",
+        "title": "2027年度应届高校毕业生招聘",
+        "leadSource": "https://jy.buu.edu.cn/art/2026/11/23/art_29313_843864.html",
+        "employerPortal": "https://ccgc.iguopin.com/",
+        "status": "pending-specific-jobs",
+        "reason": "已追国聘官方入口，但此次未完成所属单位具体职位表核验；高校转载的集团总体专业和2027年6月30日截止不能替代具体岗位，不晋级。"
+      }
+    ],
+    "coverage": {
+      "targetRegionChecks": [
+        "天津",
+        "杭州",
+        "北京",
+        "上海",
+        "绍兴",
+        "丽水",
+        "温州",
+        "宁波",
+        "嘉兴",
+        "浙江省属集团及全国地勘央企"
+      ],
+      "channels": [
+        "南开大学就业网企业原简章及具体职位",
+        "吉林大学就业网原简章交叉",
+        "浙江大学与杭州电子科技大学简章交叉",
+        "单位官网招聘及企业概况",
+        "企业指定国聘/智联/北森公开招聘页",
+        "浙江自然资源公开动态岗位站"
+      ],
+      "companyGroupsExamined": 8,
+      "countedGroups": [
+        "天津市政总院",
+        "卡斯柯",
+        "中汽中心",
+        "北京排水",
+        "明日控股",
+        "浙江自然资源",
+        "冶金地质总局",
+        "煤炭地质总局"
+      ],
+      "limits": "不宣称覆盖全国全部岗位；公开读取失败、专业边界不清、性质和合同主体待核的线索均保留在审计层，不写入已核验jobs.json。"
+    },
+    "travelAdviceSummary": "本次没有新增已核验岗位，无新增需专程线下到场事项。若继续核明日大宗商品业务岗，因泛销售与专业关联弱，应标不建议专程去；其余规划/地信边界岗先确认专业、技能、用工及正式面试，不为宣讲会跨城。",
+    "privacy": "仅公开招聘资料；未读取、修改或上传用户证件、论文、研究数据、地图或私人申请进度；没有GitHub写操作。"
+  },
+  "sevenDayDeadlines": [
+    {
+      "id": "neu-general-administration-01-campus-2027",
+      "org": "东北大学",
+      "title": "综合管理岗位（01，事业编，2027届）",
+      "deadline": "2026-11-26",
+      "url": "https://rsc.neu.edu.cn/2026/1112/c3972a482793/page.htm"
+    },
+    {
+      "id": "esph-science-editor-campus-2027",
+      "org": "教育科学出版社有限公司",
+      "title": "科学编辑（2027届）",
+      "deadline": "2026-12-02",
+      "url": "https://jybzp.chsi.com.cn/home/bul/announcement/ox46z75cse945nsd"
+    },
+    {
+      "id": "tianjin-xiqing-zhangjiawo-geo-2-2027",
+      "org": "天津市西青区张家窝中学",
+      "title": "中学地理教师（二）（2027统招，序号4）",
+      "deadline": "2026-12-03",
+      "url": "https://www.tjxqjy.cn/show.jsp?classid=200908121006430835&id=202611241035534427"
+    },
+    {
+      "id": "tianjin-xiqing-shiyan-xiqing-2027",
+      "org": "天津市实验中学西青学校",
+      "title": "中学地理教师（2027统招，序号24）",
+      "deadline": "2026-12-03",
+      "url": "https://www.tjxqjy.cn/show.jsp?classid=200908121006430835&id=202611241035534427"
+    },
+    {
+      "id": "tianjin-xiqing-zhongbei-2027",
+      "org": "天津市西青区中北中学",
+      "title": "中学地理教师（2027统招，序号27）",
+      "deadline": "2026-12-03",
+      "url": "https://www.tjxqjy.cn/show.jsp?classid=200908121006430835&id=202611241035534427"
+    },
+    {
+      "id": "tianjin-xiqing-bureau-affiliated-2027",
+      "org": "天津市西青区教育局直属学校",
+      "title": "中学地理教师（2027统招，序号46）",
+      "deadline": "2026-12-03",
+      "url": "https://www.tjxqjy.cn/show.jsp?classid=200908121006430835&id=202611241035534427"
+    }
+  ],
+  "needsInPerson": {
+    "newJobs": 33,
+    "description": "天津新统招须按准考证参加12月26–27日线下笔试，复审面试另通知；目前无已获邀请，不为普通宣讲跨城。"
+  },
+  "travelAdvice": "新增33条是天津优先城市的专业教资强匹配公办教师统招，正式考试可考虑专程；先网报、审核缴费及准考证确认，工资和校区先核并尽量合并行程。西青独立批次按12月13日笔试，不混用。",
+  "coverageLimit": "以审计实际列明的教师/事业公务/出版科普科研/央国企官方源和高校线索为本次核验范围；没有将全国或全部目标地区称已完整覆盖。国家大学生就业服务平台的民企实习、仅2026届实习等不晋级。未因当日找不到而删仍有效旧岗位。",
+  "validation": {
+    "passed": true,
+    "jobCount": 117,
+    "existingFieldSchemaPreserved": true,
+    "optionalExistingVerificationFieldsPreserved": true,
+    "fourTravelFieldsPreserved": true,
+    "duplicateIds": 0,
+    "duplicateUnitPositionUrls": 0,
+    "expiredActiveRows": 0,
+    "financeDataUntouched": true,
+    "privateMaterialUploaded": false
+  },
+  "publication": {
+    "state": "validated awaiting commit",
+    "websiteBefore": {
+      "updatedAt": "北京时间 2026-11-24",
+      "count": 117
+    },
+    "note": "昨日Pages部署失败；今日提交后须另核网页日期和新增ID，不按同为117条判断已更新。"
+  }
+}

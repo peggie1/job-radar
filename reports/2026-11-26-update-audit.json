@@ -1137,11 +1137,15 @@
     "privateMaterialUploaded": false
   },
   "publication": {
-    "state": "validated awaiting commit",
+    "state": "initial deployment failed; a new independent publishing attempt requested by this audit-only commit",
+    "dataCommit": "1fda3ce8948d990613fc1f178e60f2c73fb13a39",
+    "initialRun": "https://github.com/peggie1/job-radar/actions/runs/45764838161",
+    "initialFailure": "Upload site成功，但Deploy随后查到0个github-pages产物；稍后公开产物API显示1个有效产物，说明不能按上传成功推定网站已更新。",
     "websiteBefore": {
       "updatedAt": "北京时间 2026-11-24",
       "count": 117
     },
-    "note": "昨日Pages部署失败；今日提交后须另核网页日期和新增ID，不按同为117条判断已更新。"
+    "retrySafety": "不重跑同一作业，以免重复同名产物；仅以本审计记录提交触发一个全新正常发布。未改工作流、未删除产物、未动jobs或财会数据。",
+    "needsVerification": "新发布完成后以网页日期2026-11-26及33个新增天津岗位ID核验，总数同为117不足以确认更新。"
   }
 }
